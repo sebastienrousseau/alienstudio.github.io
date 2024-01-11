@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://alienstudio.com/serenity/index.html/sitemap.xml

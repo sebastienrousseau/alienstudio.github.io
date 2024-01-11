@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://alienstudio.com/tags/index.html/sitemap.xml
