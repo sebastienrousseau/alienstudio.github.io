@@ -132,6 +132,18 @@ Immerse yourself in a world of extraordinary visual experiences. Discover AI-enh
 
 ![divider][divider].class=\"m-10 w-100\"
 
+![""](https://kura.pro/alienstudio/images/collections/ethereal/ethereal-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
+
+### Ethereal
+
+Explore the Ethereal Collection, where surreal art and photorealism converge, inspired by Odilon Redon's dream-like worlds.
+
+[Explore the collection ❯](/ethereal/index.html "The Ethereal Collection")
+
+[Visit Alien Studio's Ethereal Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Ethereal Collection on Etsy")
+
+![divider][divider].class=\"m-10 w-100\"
+
 ![""](https://kura.pro/alienstudio/images/collections/metropolis/metropolis-08.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
 
 ### Metropolis

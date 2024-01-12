@@ -142,7 +142,7 @@ Immerse yourself in a world of extraordinary visual experiences. Discover AI-enh
 
 Explore the Ethereal Collection, where surreal art and photorealism converge, inspired by Odilon Redon's dream-like worlds.
 
-[Explore the collection ❯](/metropolis/index.html "The Ethereal Collection")
+[Explore the collection ❯](/ethereal/index.html "The Ethereal Collection")
 
 [Visit Alien Studio's Ethereal Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Ethereal Collection on Etsy")
 
