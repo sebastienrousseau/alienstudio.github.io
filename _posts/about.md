@@ -50,7 +50,7 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 # RSS - The RSS feed front matter (YAML).
 
 atom_link: "https://alienstudio.com/about/rss.xml"
-category: "Software, Static Site Generator, Rust"
+category: "AI, Photography, Art, Innovation, Gallery, Visual, Digital, Creative, Online, Technology"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
 generator: "Shokunin 🦀 (version 0.0.21)"
 item_description: "Explore Alien Studio's unique AI-enhanced photography collection. Redefining visual expression with a blend of art and technology."
@@ -211,8 +211,4 @@ We invite you to [connect with us][00] to learn more about our work or explore p
 ![divider][divider].class=\"m-10 w-100\"
 
 [00]: /contact/index.html "Contact Us"
-[01]: https://kura.pro/stock/images/banners/sinclair-creates-xKi8yLviaSw.webp "Office Space"
-[02]: https://kura.pro/stock/images/banners/robert-haverly-_kmr5wKVW7E.webp "Office Lights"
-[03]: https://kura.pro/stock/images/banners/rawpixel-com-369782.webp "Man Working"
-
 [divider]: https://kura.pro/common/images/elements/divider.svg

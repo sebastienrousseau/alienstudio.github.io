@@ -20,15 +20,15 @@ format-detection: "telephone=no"
 hreflang: "en"
 icon: "https://kura.pro/alienstudio/images/favicon.ico"
 id: "https://alienstudio.com/made-with-shokunin/index.html"
-image_alt: "Logo of Banking On Quantum: Revolutionising the Financial Industry with Quantum Computing"
+image_alt: "Logo of Alien Studio, Pioneering the future of photography."
 image_height: "100vh"
 image_width: "100vw"
 image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
 keywords: "static site generator, website builder, SEO optimisation, accessibility, Shokunin, easy to use, fast, secure, reliable, free"
 language: "en-GB"
-layout: "made-with-shokunin"
+layout: "link"
 locale: "en_GB"
-logo_alt: "Logo of Banking On Quantum: Revolutionising the Financial Industry with Quantum Computing"
+logo_alt: "Logo of Alien Studio, Pioneering the future of photography."
 logo_height: "44"
 logo_width: "44"
 logo: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
@@ -86,18 +86,18 @@ msapplication_tile_image: "https://kura.pro/alienstudio/images/logos/alienstudio
 # Twitter Card - The Twitter Card front matter (YAML).
 
 twitter_card: "summary"
-twitter_creator: "@BankingOnQT"
+twitter_creator: "@AlienStudioArt"
 twitter_description: "The Shokunin Static Site Generator (SSG) is a lightning-fast tool for Search Engine Optimisation (SEO) and compliance to Accessibility Standards."
 twitter_image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
-twitter_image_alt: "Logo of Banking On Quantum: Revolutionising the Financial Industry with Quantum Computing"
-twitter_site: "@BankingOnQT"
+twitter_image_alt: "Logo of Alien Studio, Pioneering the future of photography."
+twitter_site: "@AlienStudioArt"
 twitter_title: "Website created with Shokunin Static Site Generator (SSG)"
 twitter_url: "https://alienstudio.com/made-with-shokunin/index.html"
 
 # Humans.txt - The Humans.txt front matter (YAML).
 
 author_website: "https://alienstudio.com/made-with-shokunin/index.html"
-author_twitter: "@BankingOnQT"
+author_twitter: "@AlienStudioArt"
 author_location: "London, UK"
 thanks: "Thanks for reading!"
 site_last_updated: "2023-12-18"
@@ -107,7 +107,7 @@ site_software: "Shokunin, Rust"
 
 ---
 
-[![Banner][01].class=\"w-50 p-3 me-3 img-thumbnail float-end\"][00]
+[![Banner][01].class=\"w-50 p-3 me-3 float-end\"][00]
 
 ## Embrace Shokunin for Effortless Website Creation
 
