@@ -12,12 +12,12 @@ changefreq: "weekly"
 charset: "utf-8"
 cname: ""
 copyright: "© 2024 Alien Studio Photography. All rights reserved."
-date: "Jan 12, 2024"
+date: "Jan 13, 2024"
 description: "Explore Alien Studio's unique AI-enhanced photography collection. Redefining visual expression with a blend of art and technology."
 download: ""
 format-detection: "telephone=no"
 hreflang: "en"
-icon: "https://kura.pro/shokunin/images/favicon.ico"
+icon: "https://kura.pro/alienstudio/images/favicon.ico"
 id: "https://alienstudio.com/about/index.html"
 image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 image_height: "100vh"
@@ -32,7 +32,7 @@ logo_height: "44"
 logo_width: "44"
 logo: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
 menu: "active"
-measurementID: "G-6BQMFZ772M"
+measurementID: "G-048DC736FK"
 name: "Alien Studio"
 permalink: "https://alienstudio.com/about/index.html"
 rating: "general"
@@ -56,11 +56,11 @@ generator: "Shokunin 🦀 (version 0.0.21)"
 item_description: "Explore Alien Studio's unique AI-enhanced photography collection. Redefining visual expression with a blend of art and technology."
 item_guid: "https://alienstudio.com/about/rss.xml"
 item_link: "https://alienstudio.com/about/rss.xml"
-item_pub_date: "2024-01-12T06:06:06+01:00"
+item_pub_date: "2024-01-13T06:06:06+01:00"
 item_title: "Alien Studio: AI-Enhanced Art Meets Traditional Photography"
-last_build_date: "2024-01-12T06:06:06+01:00"
+last_build_date: "2024-01-13T06:06:06+01:00"
 managing_editor: "contact@alienstudio.com"
-pub_date: "2024-01-12T06:06:06+01:00"
+pub_date: "2024-01-13T06:06:06+01:00"
 ttl: "60"
 type: "website"
 webmaster: "contact@alienstudio.com"
@@ -99,7 +99,7 @@ author_website: "https://alienstudio.com/about/index.html"
 author_twitter: "@AlienStudioArt"
 author_location: "London, UK"
 thanks: "Thanks for reading!"
-site_last_updated: "2024-01-12"
+site_last_updated: "2024-01-13"
 site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"
 site_components: "Shokunin SSG, Shokunin CLI, Shokunin Templates, Shokunin Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
 site_software: "Shokunin, Rust"
@@ -129,6 +129,18 @@ Alien Studio stands as a beacon of innovation in the world of photography. Our a
 ## Explore Our Collections
 
 Immerse yourself in a world of extraordinary visual experiences. Discover AI-enhanced art that pushes boundaries, ignites curiosity, and inspires a new wave of artistic exploration.
+
+![divider][divider].class=\"m-10 w-100\"
+
+![""](https://kura.pro/alienstudio/images/collections/odyssey/odyssey-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
+
+### Odyssey
+
+Explore the Odyssey Collection, a vivid journey from India to San Francisco, showcasing the diverse tapestry of global culture and daily life.
+
+[Explore the collection ❯](/odyssey/index.html "The Odyssey Collection")
+
+[Visit Alien Studio's Odyssey Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Odyssey Collection on Etsy")
 
 ![divider][divider].class=\"m-10 w-100\"
 

@@ -2,8 +2,8 @@
 <html lang="en-GB">
   <head>
     <meta charset="utf-8" />
-    <meta itemprop="datePublished" content="2024-01-12T06:06:06+01:00" id="date">
-    <meta itemprop="dateModified" content="2024-01-12T06:06:06+01:00" id="last-modified">
+    <meta itemprop="datePublished" content="2024-01-13T06:06:06+01:00" id="date">
+    <meta itemprop="dateModified" content="2024-01-13T06:06:06+01:00" id="last-modified">
     <title>Serenity: A Journey into AI-Inspired Realistic Still Life</title>
 
     <!-- # Start Primary Meta Tags -->
@@ -102,6 +102,10 @@
         color: white;
         font-weight: 700;
       }
+      img.external:focus {
+    outline: 2px solid rgba(253, 106, 19, 1);
+}
+
       .lightbox {
     display: none;
     position: fixed;
@@ -110,7 +114,7 @@
     top: 50px;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 1);
+    background: rgba(0,0,0,1);
     align-items: center;
     justify-content: center;
 }
@@ -270,22 +274,27 @@
                 aria-labelledby="collectionsDropdown"
               >
                 <li>
-                  <a class="dropdown-item bg-transparent text-white" href="/ethereal/index.html">
+                  <a class="dropdown-item bg-transparent text-white text-start" href="/ethereal/index.html">
                     The Ethereal Series
                   </a>
                 </li>
                 <li>
-                  <a class="dropdown-item bg-transparent text-white" href="/metropolis/index.html">
+                  <a class="dropdown-item bg-transparent text-white text-start" href="/metropolis/index.html">
                     The Metropolis Series
                   </a>
                 </li>
                 <li>
-                  <a class="dropdown-item bg-transparent text-white" href="/radiance/index.html">
+                  <a class="dropdown-item bg-transparent text-white text-start" href="/odyssey/index.html">
+                    The Odyssey Series
+                  </a>
+                </li>
+                <li>
+                  <a class="dropdown-item bg-transparent text-white text-start" href="/radiance/index.html">
                     The Radiance Series
                   </a>
                 </li>
                 <li>
-                  <a class="dropdown-item bg-transparent text-white" href="/serenity/index.html">
+                  <a class="dropdown-item bg-transparent text-white text-start" href="/serenity/index.html">
                     The Serenity Series
                   </a>
                 </li>
@@ -427,9 +436,10 @@
         <a class="btn btn-floating btn-lg m-1" target="_blank" href="https://www.instagram.com/alienstudiophotography/"><img src="https://kura.pro/common/images/buttons/instagram-white.svg" alt="Alien Studio Instagram Channel" title="Alien Studio Instagram Channel" width="32" height="32" /></a>
       </p>
       <p class="mb-0 text-center">
+        <span class="px-2"><a href="/accessibility/index.html">Accessibility statement</a></span>
+        <span class="px-2"><a href="/made-with-shokunin/index.html">Made with <span class="text-danger">&hearts;</span></a></span>
         <span class="px-2"><a href="/privacy/index.html">Privacy notice and cookies</a></span>
         <span class="px-2"><a href="/terms/index.html">Terms of use</a></span>
-        <span class="px-2"><a href="/accessibility/index.html">Accessibility statement</a></span>
       </p>
       <p class="mb-0 text-center py-2">
         <span class="px-2">© 2024 Alien Studio Photography. All rights reserved.</span>
@@ -461,8 +471,8 @@
           "@type": "Person",
           "@id": "The Alien Studio Team"
         },
-        "dateModified": "2024-01-12T06:06:06+01:00",
-        "datePublished": "2024-01-12T06:06:06+01:00",
+        "dateModified": "2024-01-13T06:06:06+01:00",
+        "datePublished": "2024-01-13T06:06:06+01:00",
         "description": "Explore Serenity: Inspired by Tatiana Skorokhod, a photo set with gravity-defying objects in still lifes, echoing family life and solitude in an AI era.",
         "headline": "",
         "image": {
@@ -571,6 +581,51 @@
     const images = Array.from(document.querySelectorAll('img.external'));
     let currentIndex = 0;
 
+    // Function to open the lightbox with the specified image
+    function openLightbox(index) {
+        showImage(index);
+        lightbox.classList.add('active');
+    }
+
+    images.forEach((image, index) => {
+        // Make each image focusable
+        image.setAttribute('tabindex', '0');
+
+        // Click event
+        image.addEventListener('click', (e) => {
+            e.preventDefault();
+            openLightbox(index);
+        });
+
+        // Keyboard event
+        image.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                openLightbox(index);
+            }
+        });
+    });
+
+
+    // Function to show the previous image
+    function showPreviousImage() {
+        if (currentIndex > 0) {
+            showImage(currentIndex - 1);
+        }
+    }
+
+    // Function to show the next image
+    function showNextImage() {
+        if (currentIndex < images.length - 1) {
+            showImage(currentIndex + 1);
+        }
+    }
+
+    // Attach click event listeners to arrows
+    leftArrow.addEventListener('click', showPreviousImage);
+    rightArrow.addEventListener('click', showNextImage);
+
+
     function updateArrows() {
         leftArrow.style.display = currentIndex > 0 ? 'block' : 'none';
         rightArrow.style.display = currentIndex < images.length - 1 ? 'block' : 'none';
@@ -593,6 +648,23 @@
         if (currentIndex < images.length - 1) {
             showImage(currentIndex + 1);
         }
+    });
+
+    // Attach keyboard event listeners for left and right arrow keys
+    document.addEventListener('keydown', (e) => {
+      if (lightbox.classList.contains('active')) {
+        switch (e.key) {
+            case 'ArrowLeft':
+                showPreviousImage();
+                break;
+            case 'ArrowRight':
+                showNextImage();
+                break;
+            case 'ArrowDown':
+                lightbox.classList.remove('active');
+                break;
+        }
+    }
     });
 
     document.querySelectorAll('img.external').forEach((image, index) => {
@@ -624,13 +696,13 @@
 
     </script>
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6BQMFZ772M"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-048DC736FK"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', 'G-6BQMFZ772M');
+      gtag('config', 'G-048DC736FK');
     </script>
   </body>
 </html>
