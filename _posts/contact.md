@@ -51,7 +51,7 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 atom_link: https://alienstudio.com/contact/rss.xml
 category: "Software, Static Site Generator, Rust"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin 🦀 (version 0.0.21)"
+generator: "Shokunin 🦀 (version 0.0.23)"
 item_description: "Help us grow! Share your experience with Alien Studio's collections and website."
 item_guid: https://alienstudio.com/contact/rss.xml
 item_link: https://alienstudio.com/contact/rss.xml

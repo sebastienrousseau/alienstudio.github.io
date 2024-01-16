@@ -54,7 +54,7 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 atom_link: "https://alienstudio.com/rss.xml"
 category: "AlienStudio, AI, Photography, Art, Technology, Digital, Innovation, Contemporary, Gallery, Storytelling"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin 🦀 (version 0.0.21)"
+generator: "Shokunin 🦀 (version 0.0.23)"
 item_description: "Explore Alien Studio's pioneering role in blending AI technology with photography to redefine the art world. Discover groundbreaking AI-enhanced art."
 item_guid: "https://alienstudio.com/rss.xml"
 item_link: "https://alienstudio.com/rss.xml"
@@ -136,7 +136,7 @@ Our story began with a spark – the idea of merging AI and photography to creat
 
 Immerse yourself in a world of extraordinary visual experiences. Discover AI-enhanced art that pushes boundaries, ignites curiosity, and inspires a new wave of artistic exploration.
 
-![""](https://kura.pro/alienstudio/images/collections/odyssey/odyssey-01.webp).class=\"fade-in w-25 m-3 float-start\"
+![Marigold merchant's gaze](https://kura.pro/alienstudio/images/collections/odyssey/odyssey-01.webp).class=\"fade-in w-25 m-3 float-start\"
 
 ### Odyssey
 
@@ -148,7 +148,7 @@ Explore the Odyssey Collection, a vivid journey from India to San Francisco, sho
 
 ![divider][divider].class=\"m-10 w-100\"
 
-![""](https://kura.pro/alienstudio/images/collections/ethereal/ethereal-01.webp).class=\"fade-in w-25 m-3 float-end\"
+![A lone silhouette against a fiery cosmic backdrop](https://kura.pro/alienstudio/images/collections/ethereal/ethereal-01.webp).class=\"fade-in w-25 m-3 float-end\"
 
 ### Ethereal
 
@@ -160,7 +160,7 @@ Explore the Ethereal Collection, where surreal art and photorealism converge, in
 
 ![divider][divider].class=\"m-10 w-100\"
 
-![""](https://kura.pro/alienstudio/images/collections/metropolis/metropolis-08.webp).class=\"fade-in w-25 m-3 float-start\"
+![Youthful beauty, lit by day's end, amidst the urban flow, a silent story](https://kura.pro/alienstudio/images/collections/metropolis/metropolis-08.webp).class=\"fade-in w-25 m-3 float-start\"
 
 ### Metropolis
 
@@ -172,7 +172,7 @@ The Metropolis Collection celebrates a groundbreaking journey into the world of 
 
 ![divider][divider].class=\"m-10 w-100\"
 
-![""](https://kura.pro/alienstudio/images/collections/radiance/radiance-08.webp).class=\"fade-in w-25 m-3 float-end\"
+![Sunset’s muse, a serene glance](https://kura.pro/alienstudio/images/collections/radiance/radiance-08.webp).class=\"fade-in w-25 m-3 float-end\"
 
 ### Radiance
 
@@ -184,7 +184,7 @@ The Radiance Collection is a testament to life's ephemeral beauty, inspired by M
 
 ![divider][divider].class=\"m-10 w-100\"
 
-![""](https://kura.pro/alienstudio/images/collections/serenity/serenity-01.webp).class=\"fade-in w-25 m-3 float-start\"
+![Glistening dawn serenity](https://kura.pro/alienstudio/images/collections/serenity/serenity-01.webp).class=\"fade-in w-25 m-3 float-start\"
 
 ### Serenity
 
