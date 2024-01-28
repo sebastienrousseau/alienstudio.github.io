@@ -12,7 +12,7 @@ changefreq: "weekly"
 charset: "utf-8"
 cname: "alienstudio.com"
 copyright: "© 2024 Alien Studio Photography. All rights reserved."
-date: "Jan 13, 2024"
+date: "Feb 10, 2024"
 description: "Explore Alien Studio's pioneering role in blending AI technology with photography to redefine the art world. Discover groundbreaking AI-enhanced art."
 download_url: ""
 download_title: ""
@@ -58,11 +58,11 @@ generator: "Shokunin 🦀 (version 0.0.23)"
 item_description: "Explore Alien Studio's pioneering role in blending AI technology with photography to redefine the art world. Discover groundbreaking AI-enhanced art."
 item_guid: "https://alienstudio.com/rss.xml"
 item_link: "https://alienstudio.com/rss.xml"
-item_pub_date: "2024-01-13T06:06:06+01:00"
+item_pub_date: "2024-02-10T10:00:00+01:00"
 item_title: "Alien Studio: Revolutionising Art with AI Photography"
-last_build_date: "2024-01-13T06:06:06+01:00"
+last_build_date: "2024-02-10T10:00:00+01:00"
 managing_editor: "contact@alienstudio.com"
-pub_date: "2024-01-13T06:06:06+01:00"
+pub_date: "2024-02-10T10:00:00+01:00"
 ttl: "60"
 type: "website"
 webmaster: "contact@alienstudio.com"
@@ -101,7 +101,7 @@ author_website: "https://alienstudio.com/index.html"
 author_twitter: "@AlienStudioArt"
 author_location: "London, UK"
 thanks: "Thanks for reading!"
-site_last_updated: "2023-10-22"
+site_last_updated: "2024-02-10"
 site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"
 site_components: "Shokunin SSG, Shokunin CLI, Shokunin Templates, Kaishi Templates, Kaishi Themes"
 site_software: "Shokunin, Rust"
@@ -136,7 +136,19 @@ Our story began with a spark – the idea of merging AI and photography to creat
 
 Immerse yourself in a world of extraordinary visual experiences. Discover AI-enhanced art that pushes boundaries, ignites curiosity, and inspires a new wave of artistic exploration.
 
-![Marigold merchant's gaze](https://kura.pro/alienstudio/images/collections/odyssey/odyssey-01.webp).class=\"fade-in w-25 m-3 float-start\"
+![A child meets a dragon dance mask](https://kura.pro/alienstudio/images/collections/xiqing/08-xiqing.webp).class=\"fade-in w-25 m-3 float-start\"
+
+### Xǐqìng
+
+Explore Xǐqìng, a photo collection inspired by Lu Shengzhong, capturing Chinese New Year's spirit through paper-cut dragons and cultural narratives.
+
+[Explore the collection ❯](/xiqing/index.html "The Xǐqìng Collection")
+
+[Visit Alien Studio's Xǐqìng Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Xǐqìng Collection on Etsy")
+
+![divider][divider].class=\"m-10 w-100\"
+
+![Marigold merchant's gaze](https://kura.pro/alienstudio/images/collections/odyssey/odyssey-01.webp).class=\"fade-in w-25 m-3 float-end\"
 
 ### Odyssey
 
@@ -148,7 +160,7 @@ Explore the Odyssey Collection, a vivid journey from India to San Francisco, sho
 
 ![divider][divider].class=\"m-10 w-100\"
 
-![A lone silhouette against a fiery cosmic backdrop](https://kura.pro/alienstudio/images/collections/ethereal/ethereal-01.webp).class=\"fade-in w-25 m-3 float-end\"
+![A lone silhouette against a fiery cosmic backdrop](https://kura.pro/alienstudio/images/collections/ethereal/ethereal-01.webp).class=\"fade-in w-25 m-3 float-start\"
 
 ### Ethereal
 
@@ -160,7 +172,7 @@ Explore the Ethereal Collection, where surreal art and photorealism converge, in
 
 ![divider][divider].class=\"m-10 w-100\"
 
-![Youthful beauty, lit by day's end, amidst the urban flow, a silent story](https://kura.pro/alienstudio/images/collections/metropolis/metropolis-08.webp).class=\"fade-in w-25 m-3 float-start\"
+![Youthful beauty, lit by day's end, amidst the urban flow, a silent story](https://kura.pro/alienstudio/images/collections/metropolis/metropolis-08.webp).class=\"fade-in w-25 m-3 float-end\"
 
 ### Metropolis
 
@@ -172,7 +184,7 @@ The Metropolis Collection celebrates a groundbreaking journey into the world of 
 
 ![divider][divider].class=\"m-10 w-100\"
 
-![Sunset’s muse, a serene glance](https://kura.pro/alienstudio/images/collections/radiance/radiance-08.webp).class=\"fade-in w-25 m-3 float-end\"
+![Sunset’s muse, a serene glance](https://kura.pro/alienstudio/images/collections/radiance/radiance-08.webp).class=\"fade-in w-25 m-3 float-start\"
 
 ### Radiance
 
@@ -184,7 +196,7 @@ The Radiance Collection is a testament to life's ephemeral beauty, inspired by M
 
 ![divider][divider].class=\"m-10 w-100\"
 
-![Glistening dawn serenity](https://kura.pro/alienstudio/images/collections/serenity/serenity-01.webp).class=\"fade-in w-25 m-3 float-start\"
+![Glistening dawn serenity](https://kura.pro/alienstudio/images/collections/serenity/serenity-01.webp).class=\"fade-in w-25 m-3 float-end\"
 
 ### Serenity
 

@@ -90,18 +90,18 @@
       itemtype="http://schema.org/SiteNavigationElement"
     >
     <div class="container-xxl p-3">
-      <a class="navbar-brand p-0 me-0 me-lg-2" href="/" aria-label="logo">
+      <a class="navbar-brand p-0 me-0 me-lg-2" href="/index.html" aria-label="logo">
         <img
           class="d-inline-block align-top"
           width="{{logo_width}}"
           height="{{logo_height}}"
           src="{{logo}}"
-          alt="{{logo_alt}}"
-          title="{{logo_alt}}"
+          alt="Visual {{logo_alt}}"
+          title="Image of the {{logo_alt}}"
           loading="lazy"
         />
       </a>
-      <span itemprop="name">{{name}}</span>
+      <span class="fs-4" itemprop="name"><a href="/" itemprop="url" title="{{name}} - {{description}}" class="text-decoration-none text-light">{{name}}</a></span>
       <button
           aria-controls="navbarSupportedContent"
           aria-expanded="false"
@@ -163,6 +163,11 @@
                     The Serenity Series
                   </a>
                 </li>
+                <li>
+                  <a class="dropdown-item bg-transparent text-white text-start" href="/xiqing/index.html">
+                    The Xǐqìng Collection
+                  </a>
+                </li>
               </ul>
             </li>
             <li class="nav-item">
@@ -213,8 +218,8 @@
     <!-- # End Main content-->
 
     <!-- Top Anchor -->
-    <top id="page-anchor">
-      <p class="mb-0 text-center p-4 pt-0">
+    <top id="top-anchor">
+      <p class="mb-0 text-center p-4">
         <a href="#page-top" class="btn btn-outline-light btn-floating btn-lg">
           Back to the top
         </a>

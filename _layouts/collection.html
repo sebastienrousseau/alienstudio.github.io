@@ -208,7 +208,7 @@
       itemtype="http://schema.org/SiteNavigationElement"
     >
     <div class="container-xxl p-3">
-      <a class="navbar-brand p-0 me-0 me-lg-2" href="/" aria-label="logo">
+      <a class="navbar-brand p-0 me-0 me-lg-2" href="/index.html" aria-label="logo">
         <img
           class="d-inline-block align-top"
           width="{{logo_width}}"
@@ -219,7 +219,7 @@
           loading="lazy"
         />
       </a>
-      <span itemprop="name">{{name}}</span>
+      <span class="fs-4" itemprop="name"><a href="/" itemprop="url" title="{{name}} - {{description}}" class="text-decoration-none text-light">{{name}}</a></span>
       <button
           aria-controls="navbarSupportedContent"
           aria-expanded="false"
@@ -279,6 +279,11 @@
                 <li>
                   <a class="dropdown-item bg-transparent text-white text-start" href="/serenity/index.html">
                     The Serenity Series
+                  </a>
+                </li>
+                <li>
+                  <a class="dropdown-item bg-transparent text-white text-start" href="/xiqing/index.html">
+                    The Xǐqìng Collection
                   </a>
                 </li>
               </ul>

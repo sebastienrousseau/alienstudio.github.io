@@ -140,7 +140,7 @@ As we stand at the crossroads of an evolving artistic landscape, Alien Studio’
 
 Immerse yourself in a world of extraordinary visual experiences. Discover AI-enhanced art that pushes boundaries, ignites curiosity, and inspires a new wave of artistic exploration.
 
-![""](https://kura.pro/alienstudio/images/collections/ethereal/ethereal-01.webp).class=\"fade-in w-25 m-3 float-start\"
+!["A Vision in Golden Light"](https://kura.pro/alienstudio/images/collections/ethereal/ethereal-01.webp).class=\"fade-in w-25 m-3 float-start\"
 
 ### Ethereal
 
@@ -152,7 +152,7 @@ Explore the Ethereal Collection, where surreal art and photorealism converge, in
 
 ![divider][divider].class=\"m-10 w-100\"
 
-![""](https://kura.pro/alienstudio/images/collections/metropolis/metropolis-08.webp).class=\"fade-in w-25 m-3 float-end\"
+!["A Youthful beauty, lit by day’s end, amidst the urban flow, a silent story"](https://kura.pro/alienstudio/images/collections/metropolis/metropolis-08.webp).class=\"fade-in w-25 m-3 float-end\"
 
 ### Metropolis
 
@@ -164,7 +164,7 @@ The Metropolis Collection celebrates a groundbreaking journey into the world of 
 
 ![divider][divider].class=\"m-10 w-100\"
 
-![""](https://kura.pro/alienstudio/images/collections/radiance/radiance-08.webp).class=\"fade-in w-25 m-3 float-start\"
+!["A Vision in Golden Light"](https://kura.pro/alienstudio/images/collections/radiance/radiance-08.webp).class=\"fade-in w-25 m-3 float-start\"
 
 ### Radiance
 
@@ -176,7 +176,7 @@ The Radiance Collection is a testament to life's ephemeral beauty, inspired by M
 
 ![divider][divider].class=\"m-10 w-100\"
 
-![""](https://kura.pro/alienstudio/images/collections/serenity/serenity-01.webp).class=\"fade-in w-25 m-3 float-end\"
+!["A Glistening dawn serenity"](https://kura.pro/alienstudio/images/collections/serenity/serenity-01.webp).class=\"fade-in w-25 m-3 float-end\"
 
 ### Serenity
 
@@ -185,6 +185,18 @@ Serenity is a groundbreaking photo collection that seamlessly blends the artistr
 [Explore the collection ❯](/serenity/index.html "The Serenity Collection")
 
 [Visit Alien Studio's Serenity Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Serenity Collection on Etsy")
+
+![divider][divider].class=\"m-10 w-100\"
+
+!["A Vision in Golden Light"](https://kura.pro/alienstudio/images/collections/xiqing/08-xiqing.webp).class=\"fade-in w-25 m-3 float-start\"
+
+### Xǐqìng
+
+The Xǐqìng Collection is a a photo collection inspired by Lu Shengzhong, capturing Chinese New Year's spirit through paper-cut dragons and cultural narratives.
+
+[Explore the collection ❯](/xiqing/index.html "The Xǐqìng Collection")
+
+[Visit Alien Studio's Xǐqìng Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Xǐqìng Collection on Etsy")
 
 ![divider][divider].class=\"m-10 w-100\"
 

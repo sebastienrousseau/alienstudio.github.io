@@ -132,7 +132,7 @@ Immerse yourself in a world of extraordinary visual experiences. Discover AI-enh
 
 ![divider][divider].class=\"m-10 w-100\"
 
-![""](https://kura.pro/alienstudio/images/collections/odyssey/odyssey-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
+![A Marigold merchant’s gaze](https://kura.pro/alienstudio/images/collections/odyssey/odyssey-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
 
 ### Odyssey
 
@@ -144,7 +144,7 @@ Explore the Odyssey Collection, a vivid journey from India to San Francisco, sho
 
 ![divider][divider].class=\"m-10 w-100\"
 
-![""](https://kura.pro/alienstudio/images/collections/ethereal/ethereal-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
+![A lone silhouette against a fiery cosmic backdrop](https://kura.pro/alienstudio/images/collections/ethereal/ethereal-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
 
 ### Ethereal
 
@@ -156,7 +156,7 @@ Explore the Ethereal Collection, where surreal art and photorealism converge, in
 
 ![divider][divider].class=\"m-10 w-100\"
 
-![""](https://kura.pro/alienstudio/images/collections/metropolis/metropolis-08.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
+![A Youthful beauty, lit by day’s end, amidst the urban flow, a silent story](https://kura.pro/alienstudio/images/collections/metropolis/metropolis-08.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
 
 ### Metropolis
 
@@ -168,7 +168,7 @@ The Metropolis Collection celebrates a groundbreaking journey into the world of 
 
 ![divider][divider].class=\"m-10 w-100\"
 
-![""](https://kura.pro/alienstudio/images/collections/radiance/radiance-08.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
+![A Sunset’s muse, a serene glance](https://kura.pro/alienstudio/images/collections/radiance/radiance-08.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
 
 ### Radiance
 
@@ -180,7 +180,7 @@ The Radiance Collection is a testament to life's ephemeral beauty, inspired by M
 
 ![divider][divider].class=\"m-10 w-100\"
 
-![""](https://kura.pro/alienstudio/images/collections/serenity/serenity-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
+![A Glistening dawn serenity](https://kura.pro/alienstudio/images/collections/serenity/serenity-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
 
 ### Serenity
 
@@ -189,6 +189,18 @@ Serenity is a groundbreaking photo collection that seamlessly blends the artistr
 [Explore the collection ❯](/serenity/index.html "The Serenity Collection")
 
 [Visit Alien Studio Shop on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio Shop on Etsy")
+
+![divider][divider].class=\"m-10 w-100\"
+
+![A child meets a dragon dance mask](https://kura.pro/alienstudio/images/collections/xiqing/08-xiqing.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
+
+### Xǐqìng
+
+The Xǐqìng Collection is a a photo collection inspired by Lu Shengzhong, capturing Chinese New Year's spirit through paper-cut dragons and cultural narratives.
+
+[Explore the collection ❯](/xiqing/index.html "The Xǐqìng Collection")
+
+[Visit Alien Studio's Xǐqìng Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Xǐqìng Collection on Etsy")
 
 ![divider][divider].class=\"m-10 w-100\"
 
