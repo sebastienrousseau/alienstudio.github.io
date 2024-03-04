@@ -52,7 +52,7 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 atom_link: "https://alienstudio.com/about/rss.xml"
 category: "AI, Photography, Art, Innovation, Gallery, Visual, Digital, Creative, Online, Technology"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin 🦀 (version 0.0.23)"
+generator: "Shokunin SSG (version 0.0.26)"
 item_description: "Explore Alien Studio's unique AI-enhanced photography collection. Redefining visual expression with a blend of art and technology."
 item_guid: "https://alienstudio.com/about/rss.xml"
 item_link: "https://alienstudio.com/about/rss.xml"
@@ -180,6 +180,18 @@ The Radiance Collection is a testament to life's ephemeral beauty, inspired by M
 
 ![divider][divider].class=\"m-10 w-100\"
 
+![Staring lion in golden grass](https://kura.pro/alienstudio/images/collections/savanna/04-savanna.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
+
+### Savanna
+
+Explore Kruger National Park at sunset in high-res photos. Witness stunning wildlife and landscapes in a visual journey.
+
+[Explore the collection ❯](/savanna/index.html "The Savanna Collection")
+
+[Visit Alien Studio Shop on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio Shop on Etsy")
+
+![divider][divider].class=\"m-10 w-100\"
+
 ![A Glistening dawn serenity](https://kura.pro/alienstudio/images/collections/serenity/serenity-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
 
 ### Serenity
@@ -223,4 +235,4 @@ We invite you to [connect with us][00] to learn more about our work or explore p
 ![divider][divider].class=\"m-10 w-100\"
 
 [00]: /contact/index.html "Contact Us"
-[divider]: https://kura.pro/common/images/elements/divider.svg
+[divider]: https://kura.pro/common/images/elements/divider.svg "Divider Image"

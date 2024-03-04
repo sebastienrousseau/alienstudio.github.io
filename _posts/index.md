@@ -12,7 +12,7 @@ changefreq: "weekly"
 charset: "utf-8"
 cname: "alienstudio.com"
 copyright: "© 2024 Alien Studio Photography. All rights reserved."
-date: "Feb 10, 2024"
+date: "Mar 04, 2024"
 description: "Explore Alien Studio's pioneering role in blending AI technology with photography to redefine the art world. Discover groundbreaking AI-enhanced art."
 download_url: ""
 download_title: ""
@@ -54,15 +54,15 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 atom_link: "https://alienstudio.com/rss.xml"
 category: "AlienStudio, AI, Photography, Art, Technology, Digital, Innovation, Contemporary, Gallery, Storytelling"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin 🦀 (version 0.0.23)"
+generator: "Shokunin SSG (version 0.0.26)"
 item_description: "Explore Alien Studio's pioneering role in blending AI technology with photography to redefine the art world. Discover groundbreaking AI-enhanced art."
 item_guid: "https://alienstudio.com/rss.xml"
 item_link: "https://alienstudio.com/rss.xml"
-item_pub_date: "2024-02-10T10:00:00+01:00"
+item_pub_date: "Mon, 04 Mar 2024 06:06:06 +0100"
 item_title: "Alien Studio: Revolutionising Art with AI Photography"
-last_build_date: "2024-02-10T10:00:00+01:00"
+last_build_date: "Mon, 04 Mar 2024 06:06:06 +0100"
 managing_editor: "contact@alienstudio.com"
-pub_date: "2024-02-10T10:00:00+01:00"
+pub_date: "Mon, 04 Mar 2024 06:06:06 +0100"
 ttl: "60"
 type: "website"
 webmaster: "contact@alienstudio.com"
@@ -101,7 +101,7 @@ author_website: "https://alienstudio.com/index.html"
 author_twitter: "@AlienStudioArt"
 author_location: "London, UK"
 thanks: "Thanks for reading!"
-site_last_updated: "2024-02-10"
+site_last_updated: "2024-03-04"
 site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"
 site_components: "Shokunin SSG, Shokunin CLI, Shokunin Templates, Kaishi Templates, Kaishi Themes"
 site_software: "Shokunin, Rust"
@@ -135,6 +135,18 @@ Our story began with a spark – the idea of merging AI and photography to creat
 ## Explore Our Collections
 
 Immerse yourself in a world of extraordinary visual experiences. Discover AI-enhanced art that pushes boundaries, ignites curiosity, and inspires a new wave of artistic exploration.
+
+![divider][divider].class=\"m-10 w-100\"
+
+![A magnificent Lion](https://kura.pro/alienstudio/images/collections/savanna/04-savanna.webp).class=\"fade-in w-25 m-3 float-end\"
+
+### Savanna
+
+Explore Kruger National Park at sunset in high-res photos. Witness stunning wildlife and landscapes in a visual journey.
+
+[Explore the collection ❯](/savanna/index.html "The Savanna Collection")
+
+![divider][divider].class=\"m-10 w-100\"
 
 ![A child meets a dragon dance mask](https://kura.pro/alienstudio/images/collections/xiqing/08-xiqing.webp).class=\"fade-in w-25 m-3 float-start\"
 
@@ -208,4 +220,4 @@ Serenity is a groundbreaking photo collection that seamlessly blends the artistr
 
 ![divider][divider].class=\"m-10 w-100\"
 
-[divider]: https://kura.pro/common/images/elements/divider.svg
+[divider]: https://kura.pro/common/images/elements/divider.svg "Divider Image"

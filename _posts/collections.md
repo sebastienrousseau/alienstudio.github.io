@@ -53,7 +53,7 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 atom_link: "https://alienstudio.com/collections/rss.xml"
 category: "Software, Static Site Generator, Rust"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin 🦀 (version 0.0.23)"
+generator: "Shokunin SSG (version 0.0.26)"
 item_description: "Explore Alien Studio’s Contemporary Collection blending AI, photography, and digital media to redefine art and expression in today's world."
 item_guid: "https://alienstudio.com/collections/rss.xml"
 item_link: "https://alienstudio.com/collections/rss.xml"
@@ -176,7 +176,15 @@ The Radiance Collection is a testament to life's ephemeral beauty, inspired by M
 
 ![divider][divider].class=\"m-10 w-100\"
 
-!["A Glistening dawn serenity"](https://kura.pro/alienstudio/images/collections/serenity/serenity-01.webp).class=\"fade-in w-25 m-3 float-end\"
+!["Staring lion in golden grass"](https://kura.pro/alienstudio/images/collections/savanna/04-savanna.webp).class=\"fade-in w-25 m-3 float-end\"
+
+### Savanna
+
+Explore Kruger National Park at sunset in high-res photos. Witness stunning wildlife and landscapes in a visual journey.
+
+[Explore the collection ❯](/savanna/index.html "The Savanna Collection")![divider][divider].class=\"m-10 w-100\"
+
+!["A Glistening dawn serenity"](https://kura.pro/alienstudio/images/collections/serenity/serenity-01.webp).class=\"fade-in w-25 m-3 float-start\"
 
 ### Serenity
 
@@ -188,7 +196,7 @@ Serenity is a groundbreaking photo collection that seamlessly blends the artistr
 
 ![divider][divider].class=\"m-10 w-100\"
 
-!["A Vision in Golden Light"](https://kura.pro/alienstudio/images/collections/xiqing/08-xiqing.webp).class=\"fade-in w-25 m-3 float-start\"
+!["A Vision in Golden Light"](https://kura.pro/alienstudio/images/collections/xiqing/08-xiqing.webp).class=\"fade-in w-25 m-3 float-end\"
 
 ### Xǐqìng
 
@@ -200,4 +208,4 @@ The Xǐqìng Collection is a a photo collection inspired by Lu Shengzhong, captu
 
 ![divider][divider].class=\"m-10 w-100\"
 
-[divider]: https://kura.pro/common/images/elements/divider.svg
+[divider]: https://kura.pro/common/images/elements/divider.svg "Divider Image"

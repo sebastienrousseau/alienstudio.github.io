@@ -13,7 +13,7 @@ charset: "utf-8"
 cname: ""
 copyright: "© 2024 Alien Studio Photography. All rights reserved."
 date: "Jan 13, 2024"
-description: "Help us grow! Share your experience with Alien Studio's collections and website."
+description: "Help Alien Studio flourish! Share your journey with our collections & website. Your feedback propels us forward. Engage with us and be part of our growth story."
 format-detection: "telephone=no"
 form-id: "xleqdbop"
 hreflang: "en"
@@ -51,8 +51,8 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 atom_link: https://alienstudio.com/contact/rss.xml
 category: "Software, Static Site Generator, Rust"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin 🦀 (version 0.0.23)"
-item_description: "Help us grow! Share your experience with Alien Studio's collections and website."
+generator: "Shokunin SSG (version 0.0.26)"
+item_description: "Help Alien Studio flourish! Share your journey with our collections & website. Your feedback propels us forward. Engage with us and be part of our growth story."
 item_guid: https://alienstudio.com/contact/rss.xml
 item_link: https://alienstudio.com/contact/rss.xml
 item_pub_date: "2024-01-13T06:06:06+01:00"
@@ -85,7 +85,7 @@ msapplication_tile_image: "https://kura.pro/alienstudio/images/logos/alienstudio
 
 twitter_card: "summary"
 twitter_creator: "@AlienStudioArt"
-twitter_description: "Help us grow! Share your experience with Alien Studio's collections and website."
+twitter_description: "Help Alien Studio flourish! Share your journey with our collections & website. Your feedback propels us forward. Engage with us and be part of our growth story."
 twitter_image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
 twitter_image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 twitter_site: "@AlienStudioArt"
