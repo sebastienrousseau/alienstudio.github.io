@@ -7,40 +7,40 @@ banner_alt: "A Vision in Golden Light"
 banner_height: "100vh"
 banner_width: "100vw"
 banner_url: ""
-banner: "https://kura.pro/alienstudio/images/collections/xiqing/08-xiqing.webp"
-cdn: "https://kura.pro"
+banner: "https://cloudcdn.pro/alienstudio/v1/collections/xiqing/08-xiqing.webp"
+cdn: "https://cloudcdn.pro"
 changefreq: "weekly"
 charset: "utf-8"
 cname: ""
-copyright: "© 2024 Alien Studio Photography. All rights reserved."
+copyright: "© 2024 - 2026 Alien Studio Photography. All rights reserved."
 cta_alt: "Rustic dawn serenity"
 cta_height: "100vh"
 cta_width: "100vw"
 cta_url: ""
-cta: "https://kura.pro/alienstudio/images/collections/xiqing/02-xiqing.webp"
+cta: "https://cloudcdn.pro/alienstudio/v1/collections/xiqing/02-xiqing.webp"
 date: "Mar 04, 2024"
-description: "Explore Xǐqìng, a photo collection inspired by Lu Shengzhong, capturing Chinese New Year's spirit through paper-cut dragons and cultural narratives."
+description: "A 40-photograph celebration of Chinese New Year inspired by paper-cut master Lu Shengzhong. Vibrant dragons, cultural heritage, and festive visual stories."
 download: ""
 format-detection: "telephone=no"
 hreflang: "en"
-icon: "https://kura.pro/alienstudio/images/favicon.ico"
+icon: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 id: "https://alienstudio.com/xiqing/index.html"
 image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 image_height: "100vh"
 image_width: "100vw"
-image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
-keywords: "Xǐqìng Exhibition, Chinese Paper Cutting, Lu Shengzhong Art, Year of the Dragon, Chinese New Year Photography, Golden Hour Photos, Cultural Narratives, Bokeh Effects, Chinese Traditions, Contemporary Art"
+image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+keywords: "Xǐqìng photography, Chinese New Year art, Lu Shengzhong paper cut, dragon dance photos, cultural photography, festival fine art"
 language: "en-GB"
 layout: "collection"
 locale: "en_GB"
 logo_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 logo_height: "44"
 logo_width: "44"
-logo: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+logo: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 menu: "active"
 measurementID: "G-F37SP9MF2L"
 name: "The Xǐqìng Collection"
-permalink: "https://alienstudio.com/xiqing/index.html"
+permalink: "https://alienstudio.com/xiqing/"
 rating: "general"
 referrer: "no-referrer"
 revisit-after: "7 days"
@@ -49,7 +49,7 @@ short_name: "xǐqìng"
 subtitle: ""
 tags: "Xǐqìng, Paper-Cutting, Lu-Shengzhong, Dragon, Photography, Culture, Bokeh, Tradition, Contemporary, Art"
 theme-color: "255, 91, 132"
-title: "Xǐqìng Exhibition: A Modern Tribute to Chinese Paper Art"
+title: "Xǐqìng: Chinese New Year Visual Narratives | Alien Studio"
 url: "https://alienstudio.com/xiqing/index.html"
 viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 
@@ -58,7 +58,7 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 atom_link: "https://alienstudio.com/xiqing/rss.xml"
 category: "Software, Static Site Generator, Rust"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin SSG (version 0.0.26)"
+generator: "Static Site Generator (SSG) (version 0.0.26)"
 item_description: "Explore Xǐqìng, a photo collection inspired by Lu Shengzhong, capturing Chinese New Year's spirit through paper-cut dragons and cultural narratives."
 item_guid: "https://alienstudio.com/xiqing/rss.xml"
 item_link: "https://alienstudio.com/xiqing/rss.xml"
@@ -70,7 +70,7 @@ promo_color: "255, 91, 132"
 promo_title: "Discover and Buy Unique Photography Books, Prints, and Accessories Today!"
 promo_text: "Visit Alien Studio Shop on Etsy"
 promo_link: "https://www.etsy.com/shop/AlienStudioShop"
-promo_banner: "https://kura.pro/alienstudio/images/collections/xiqing/02-xiqing.webp"
+promo_banner: "https://cloudcdn.pro/alienstudio/v1/collections/xiqing/02-xiqing.webp"
 pub_date: "Mon, 04 Mar 2024 06:06:06 +0100"
 ttl: "60"
 type: "website"
@@ -83,7 +83,7 @@ apple_touch_icon_sizes: "192x192"
 apple-mobile-web-app-capable: "yes"
 apple-mobile-web-app-status-bar-inset: "black"
 apple-mobile-web-app-status-bar-style: "black-translucent"
-apple-mobile-web-app-title: "Xǐqìng Exhibition: A Modern Tribute to Chinese Paper Art"
+apple-mobile-web-app-title: "Xǐqìng: Chinese New Year Visual Narratives | Alien Studio"
 apple-touch-fullscreen: "yes"
 
 # MS Application - The MS Application front matter (YAML).
@@ -91,14 +91,14 @@ apple-touch-fullscreen: "yes"
 msapplication-config: "https://alienstudio.com/browserconfig.xml"
 msapplication-tap-highlight: "no"
 msapplication-TileColor: "255, 91, 132"
-msapplication_tile_image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+msapplication_tile_image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 
 # Twitter Card - The Twitter Card front matter (YAML).
 
 twitter_card: "summary"
 twitter_creator: "@AlienStudioArt"
 twitter_description: "Explore Xǐqìng, a photo collection inspired by Lu Shengzhong, capturing Chinese New Year's spirit through paper-cut dragons and cultural narratives."
-twitter_image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+twitter_image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 twitter_image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 twitter_site: "@AlienStudioArt"
 twitter_title: "Xǐqìng Exhibition: A Modern Tribute to Chinese Paper Art"
@@ -112,8 +112,8 @@ author_location: "London, UK"
 thanks: "Thanks for reading!"
 site_last_updated: "2024-03-04"
 site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"
-site_components: "Shokunin SSG, Shokunin CLI, Shokunin Templates, Shokunin Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
-site_software: "Shokunin, Rust"
+site_components: "Static Site Generator (SSG), Static Site Generator CLI, Static Site Generator Templates, Static Site Generator Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
+site_software: "Static Site Generator, Rust"
 
 ---
 
@@ -147,7 +147,7 @@ Xǐqìng stands out for its unique blend of tradition and modernity. The exhibit
 
 The Xǐqìng exhibition is more than just a display of artistic talent; it's a bridge connecting the past to the present, traditional art to contemporary interpretation. Through its vivid portrayal of Chinese New Year and the symbolism of the dragon, Xǐqìng invites viewers to explore the depths of Chinese culture. It stands as a testament to the enduring relevance of traditional art forms in modern artistic expression.
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
 ## Spotlight on the Collection
 
@@ -184,36 +184,36 @@ In this special showcase, we invite you to explore select thumbnails from the X�
 ![An Elder with traditional food spread][29].class=\"external fade-in zoom-in w-25 p-3 float-start\"
 ![A Family in festival attire with food][30].class=\"external fade-in zoom-in w-25 p-3 float-start\"
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
-[01]: https://kura.pro/alienstudio/images/collections/xiqing/01-xiqing.webp
-[02]: https://kura.pro/alienstudio/images/collections/xiqing/02-xiqing.webp
-[03]: https://kura.pro/alienstudio/images/collections/xiqing/03-xiqing.webp
-[04]: https://kura.pro/alienstudio/images/collections/xiqing/04-xiqing.webp
-[05]: https://kura.pro/alienstudio/images/collections/xiqing/05-xiqing.webp
-[06]: https://kura.pro/alienstudio/images/collections/xiqing/06-xiqing.webp
-[07]: https://kura.pro/alienstudio/images/collections/xiqing/07-xiqing.webp
-[08]: https://kura.pro/alienstudio/images/collections/xiqing/08-xiqing.webp
-[09]: https://kura.pro/alienstudio/images/collections/xiqing/09-xiqing.webp
-[10]: https://kura.pro/alienstudio/images/collections/xiqing/10-xiqing.webp
-[11]: https://kura.pro/alienstudio/images/collections/xiqing/11-xiqing.webp
-[12]: https://kura.pro/alienstudio/images/collections/xiqing/12-xiqing.webp
-[13]: https://kura.pro/alienstudio/images/collections/xiqing/13-xiqing.webp
-[14]: https://kura.pro/alienstudio/images/collections/xiqing/14-xiqing.webp
-[15]: https://kura.pro/alienstudio/images/collections/xiqing/15-xiqing.webp
-[16]: https://kura.pro/alienstudio/images/collections/xiqing/16-xiqing.webp
-[17]: https://kura.pro/alienstudio/images/collections/xiqing/17-xiqing.webp
-[18]: https://kura.pro/alienstudio/images/collections/xiqing/18-xiqing.webp
-[19]: https://kura.pro/alienstudio/images/collections/xiqing/19-xiqing.webp
-[20]: https://kura.pro/alienstudio/images/collections/xiqing/20-xiqing.webp
-[21]: https://kura.pro/alienstudio/images/collections/xiqing/21-xiqing.webp
-[22]: https://kura.pro/alienstudio/images/collections/xiqing/22-xiqing.webp
-[23]: https://kura.pro/alienstudio/images/collections/xiqing/23-xiqing.webp
-[24]: https://kura.pro/alienstudio/images/collections/xiqing/24-xiqing.webp
-[25]: https://kura.pro/alienstudio/images/collections/xiqing/25-xiqing.webp
-[26]: https://kura.pro/alienstudio/images/collections/xiqing/26-xiqing.webp
-[27]: https://kura.pro/alienstudio/images/collections/xiqing/27-xiqing.webp
-[28]: https://kura.pro/alienstudio/images/collections/xiqing/28-xiqing.webp
-[29]: https://kura.pro/alienstudio/images/collections/xiqing/29-xiqing.webp
-[30]: https://kura.pro/alienstudio/images/collections/xiqing/30-xiqing.webp
-[divider]: https://kura.pro/common/images/elements/divider.svg "Divider Image"
+[01]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/01-xiqing.webp
+[02]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/02-xiqing.webp
+[03]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/03-xiqing.webp
+[04]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/04-xiqing.webp
+[05]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/05-xiqing.webp
+[06]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/06-xiqing.webp
+[07]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/07-xiqing.webp
+[08]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/08-xiqing.webp
+[09]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/09-xiqing.webp
+[10]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/10-xiqing.webp
+[11]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/11-xiqing.webp
+[12]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/12-xiqing.webp
+[13]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/13-xiqing.webp
+[14]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/14-xiqing.webp
+[15]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/15-xiqing.webp
+[16]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/16-xiqing.webp
+[17]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/17-xiqing.webp
+[18]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/18-xiqing.webp
+[19]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/19-xiqing.webp
+[20]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/20-xiqing.webp
+[21]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/21-xiqing.webp
+[22]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/22-xiqing.webp
+[23]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/23-xiqing.webp
+[24]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/24-xiqing.webp
+[25]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/25-xiqing.webp
+[26]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/26-xiqing.webp
+[27]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/27-xiqing.webp
+[28]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/28-xiqing.webp
+[29]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/29-xiqing.webp
+[30]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/30-xiqing.webp
+[divider]: https://cloudcdn.pro/common/images/elements/divider.svg "Divider Image"

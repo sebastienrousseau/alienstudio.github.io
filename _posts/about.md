@@ -6,35 +6,35 @@ author: "The Alien Studio Team"
 banner_alt: "Dew-kissed fruit tableau"
 banner_height: "100vh"
 banner_width: "100vw"
-banner: "https://kura.pro/alienstudio/images/collections/serenity/serenity-18.webp"
-cdn: "https://kura.pro"
+banner: "https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-18.webp"
+cdn: "https://cloudcdn.pro"
 changefreq: "weekly"
 charset: "utf-8"
 cname: ""
-copyright: "© 2024 Alien Studio Photography. All rights reserved."
+copyright: "© 2024 - 2026 Alien Studio Photography. All rights reserved."
 date: "Jan 13, 2024"
-description: "Explore Alien Studio's unique AI-enhanced photography collection. Redefining visual expression with a blend of art and technology."
+description: "Learn about Alien Studio's origin, philosophy, and mission to redefine photography through the ethical fusion of AI and traditional camera craftsmanship."
 download: ""
 format-detection: "telephone=no"
 hreflang: "en"
-icon: "https://kura.pro/alienstudio/images/favicon.ico"
+icon: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 id: "https://alienstudio.com/about/index.html"
 image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 image_height: "100vh"
 image_width: "100vw"
-image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
-keywords: "AI photography, Alien Studio, visual arts, photographic techniques, digital art, creative photography, AI art, innovative photography, online gallery, art technology"
+image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+keywords: "About Alien Studio, AI photography studio, visual storytelling mission, generative art ethics, fine art photography history"
 language: "en-GB"
 layout: "about"
 locale: "en_GB"
 logo_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 logo_height: "44"
 logo_width: "44"
-logo: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+logo: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 menu: "active"
 measurementID: "G-F37SP9MF2L"
 name: "Alien Studio"
-permalink: "https://alienstudio.com/about/index.html"
+permalink: "https://alienstudio.com/about/"
 rating: "general"
 referrer: "no-referrer"
 revisit-after: "7 days"
@@ -43,7 +43,7 @@ short_name: "alienstudio"
 subtitle: "An innovative online photographic gallery blending AI with traditional photography to create unique visual experiences."
 tags: "AI, Photography, Art, Innovation, Gallery, Visual, Digital, Creative, Online, Technology"
 theme-color: "253, 106, 19"
-title: "Alien Studio: AI-Enhanced Art Meets Traditional Photography"
+title: "About Alien Studio: Pioneering AI Visual Art & Mission"
 url: "https://alienstudio.com/about/index.html"
 viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 
@@ -52,7 +52,7 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 atom_link: "https://alienstudio.com/about/rss.xml"
 category: "AI, Photography, Art, Innovation, Gallery, Visual, Digital, Creative, Online, Technology"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin SSG (version 0.0.26)"
+generator: "Static Site Generator (SSG) (version 0.0.26)"
 item_description: "Explore Alien Studio's unique AI-enhanced photography collection. Redefining visual expression with a blend of art and technology."
 item_guid: "https://alienstudio.com/about/rss.xml"
 item_link: "https://alienstudio.com/about/rss.xml"
@@ -72,7 +72,7 @@ apple_touch_icon_sizes: "192x192"
 apple-mobile-web-app-capable: "yes"
 apple-mobile-web-app-status-bar-inset: "black"
 apple-mobile-web-app-status-bar-style: "black-translucent"
-apple-mobile-web-app-title: "Alien Studio: AI-Enhanced Art Meets Traditional Photography"
+apple-mobile-web-app-title: "About Alien Studio: Pioneering AI Visual Art & Mission"
 apple-touch-fullscreen: "yes"
 
 # MS Application - The MS Application front matter (YAML).
@@ -80,14 +80,14 @@ apple-touch-fullscreen: "yes"
 msapplication-config: "https://alienstudio.com/browserconfig.xml"
 msapplication-tap-highlight: "no"
 msapplication-TileColor: "253, 106, 19"
-msapplication_tile_image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+msapplication_tile_image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 
 # Twitter Card - The Twitter Card front matter (YAML).
 
 twitter_card: "summary"
 twitter_creator: "@AlienStudioArt"
 twitter_description: "Explore Alien Studio's unique AI-enhanced photography collection. Redefining visual expression with a blend of art and technology."
-twitter_image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+twitter_image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 twitter_image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 twitter_site: "@AlienStudioArt"
 twitter_title: "Alien Studio: AI-Enhanced Art Meets Traditional Photography"
@@ -101,8 +101,8 @@ author_location: "London, UK"
 thanks: "Thanks for reading!"
 site_last_updated: "2024-01-13"
 site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"
-site_components: "Shokunin SSG, Shokunin CLI, Shokunin Templates, Shokunin Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
-site_software: "Shokunin, Rust"
+site_components: "Static Site Generator (SSG), Static Site Generator CLI, Static Site Generator Templates, Static Site Generator Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
+site_software: "Static Site Generator, Rust"
 
 ---
 
@@ -130,9 +130,9 @@ Alien Studio stands as a beacon of innovation in the world of photography. Our a
 
 Immerse yourself in a world of extraordinary visual experiences. Discover AI-enhanced art that pushes boundaries, ignites curiosity, and inspires a new wave of artistic exploration.
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
-![A Marigold merchant’s gaze](https://kura.pro/alienstudio/images/collections/odyssey/odyssey-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
+![A Marigold merchant’s gaze](https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
 
 ### Odyssey
 
@@ -142,9 +142,9 @@ Explore the Odyssey Collection, a vivid journey from India to San Francisco, sho
 
 [Visit Alien Studio's Odyssey Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Odyssey Collection on Etsy")
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
-![A lone silhouette against a fiery cosmic backdrop](https://kura.pro/alienstudio/images/collections/ethereal/ethereal-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
+![A lone silhouette against a fiery cosmic backdrop](https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
 
 ### Ethereal
 
@@ -154,9 +154,9 @@ Explore the Ethereal Collection, where surreal art and photorealism converge, in
 
 [Visit Alien Studio's Ethereal Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Ethereal Collection on Etsy")
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
-![A Youthful beauty, lit by day’s end, amidst the urban flow, a silent story](https://kura.pro/alienstudio/images/collections/metropolis/metropolis-08.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
+![A Youthful beauty, lit by day’s end, amidst the urban flow, a silent story](https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-08.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
 
 ### Metropolis
 
@@ -166,9 +166,9 @@ The Metropolis Collection celebrates a groundbreaking journey into the world of 
 
 [Visit Alien Studio Shop on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio Shop on Etsy")
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
-![A Sunset’s muse, a serene glance](https://kura.pro/alienstudio/images/collections/radiance/radiance-08.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
+![A Sunset’s muse, a serene glance](https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-08.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
 
 ### Radiance
 
@@ -178,9 +178,9 @@ The Radiance Collection is a testament to life's ephemeral beauty, inspired by M
 
 [Visit Alien Studio Shop on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio Shop on Etsy")
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
-![Staring lion in golden grass](https://kura.pro/alienstudio/images/collections/savanna/04-savanna.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
+![Staring lion in golden grass](https://cloudcdn.pro/alienstudio/v1/collections/savanna/04-savanna.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
 
 ### Savanna
 
@@ -190,9 +190,9 @@ Explore Kruger National Park at sunset in high-res photos. Witness stunning wild
 
 [Visit Alien Studio Shop on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio Shop on Etsy")
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
-![A Glistening dawn serenity](https://kura.pro/alienstudio/images/collections/serenity/serenity-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
+![A Glistening dawn serenity](https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
 
 ### Serenity
 
@@ -202,9 +202,9 @@ Serenity is a groundbreaking photo collection that seamlessly blends the artistr
 
 [Visit Alien Studio Shop on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio Shop on Etsy")
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
-![A child meets a dragon dance mask](https://kura.pro/alienstudio/images/collections/xiqing/08-xiqing.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
+![A child meets a dragon dance mask](https://cloudcdn.pro/alienstudio/v1/collections/xiqing/08-xiqing.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
 
 ### Xǐqìng
 
@@ -214,7 +214,7 @@ The Xǐqìng Collection is a a photo collection inspired by Lu Shengzhong, captu
 
 [Visit Alien Studio's Xǐqìng Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Xǐqìng Collection on Etsy")
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
 ## Workshops and Collaborations
 
@@ -232,7 +232,7 @@ We invite you to explore our collections and be a part of this revolutionary mov
 
 We invite you to [connect with us][00] to learn more about our work or explore potential collaborations.
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
 [00]: /contact/index.html "Contact Us"
-[divider]: https://kura.pro/common/images/elements/divider.svg "Divider Image"
+[divider]: https://cloudcdn.pro/common/images/elements/divider.svg "Divider Image"

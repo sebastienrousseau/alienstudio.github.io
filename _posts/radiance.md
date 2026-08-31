@@ -7,40 +7,40 @@ banner_alt: "A Vision in Golden Light"
 banner_height: "100vh"
 banner_width: "100vw"
 banner_url: ""
-banner: "https://kura.pro/alienstudio/images/collections/radiance/radiance-08.webp"
-cdn: "https://kura.pro"
+banner: "https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-08.webp"
+cdn: "https://cloudcdn.pro"
 changefreq: "weekly"
 charset: "utf-8"
 cname: ""
-copyright: "© 2024 Alien Studio Photography. All rights reserved."
+copyright: "© 2024 - 2026 Alien Studio Photography. All rights reserved."
 cta_alt: "Evening glow on youthful beauty; a thoughtful, tranquil gaze"
 cta_height: "100vh"
 cta_width: "100vw"
 cta_url: ""
-cta: "https://kura.pro/alienstudio/images/collections/radiance/radiance-21.webp"
+cta: "https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-21.webp"
 date: "Jan 13, 2024"
-description: "Explore the Radiance Collection - diverse, spontaneous sunset moments captured in vibrant, detailed photos. A tribute to life's fleeting beauty."
+description: "A 30-photograph study of ephemeral golden hour light and sunset portraits, inspired by Mike Monaghan's ethereal color mastery."
 download: ""
 format-detection: "telephone=no"
 hreflang: "en"
-icon: "https://kura.pro/alienstudio/images/favicon.ico"
+icon: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 id: "https://alienstudio.com/radiance/index.html"
 image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 image_height: "100vh"
 image_width: "100vw"
-image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
-keywords: "Radiance Collection, Sunset Portraits, Diverse Photography, Spontaneous Moments, Vibrant Sunset Photos, Detailed Photography, Life's Beauty Captured, Natural Light Portraits, Dynamic Photo Composition, Authentic Human Connection"
+image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+keywords: "Radiance photography, Mike Monaghan sunset style, golden hour portraits, ephemeral light, sunset muse photos, fine art portraiture"
 language: "en-GB"
 layout: "collection"
 locale: "en_GB"
 logo_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 logo_height: "44"
 logo_width: "44"
-logo: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+logo: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 menu: "active"
 measurementID: "G-F37SP9MF2L"
 name: "The Radiance Collection"
-permalink: "https://alienstudio.com/radiance/index.html"
+permalink: "https://alienstudio.com/radiance/"
 rating: "general"
 referrer: "no-referrer"
 revisit-after: "7 days"
@@ -49,7 +49,7 @@ short_name: "radiance"
 subtitle: ""
 tags: "Radiance, Sunset, Diversity, Spontaneity, Photography, Vibrant, Detailed, Beauty, Natural, Connection"
 theme-color: "253, 106, 19"
-title: "Radiance Series: Capturing Diversity & Spontaneity at Sunset"
+title: "Radiance: Ephemeral Light & Sunset Muse | Alien Studio"
 url: "https://alienstudio.com/radiance/index.html"
 viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 
@@ -58,7 +58,7 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 atom_link: "https://alienstudio.com/radiance/rss.xml"
 category: "Software, Static Site Generator, Rust"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin SSG (version 0.0.26)"
+generator: "Static Site Generator (SSG) (version 0.0.26)"
 item_description: "Explore the Radiance Collection - diverse, spontaneous sunset moments captured in vibrant, detailed photos. A tribute to life's fleeting beauty."
 item_guid: "https://alienstudio.com/radiance/rss.xml"
 item_link: "https://alienstudio.com/radiance/rss.xml"
@@ -70,7 +70,7 @@ promo_color: "253, 106, 19"
 promo_title: "Discover and Buy Unique Photography Books, Prints, and Accessories Today!"
 promo_text: "Visit Alien Studio Shop on Etsy"
 promo_link: "https://www.etsy.com/shop/AlienStudioShop"
-promo_banner: "https://kura.pro/alienstudio/images/collections/radiance/radiance-21.webp"
+promo_banner: "https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-21.webp"
 pub_date: "2024-01-13T06:06:06+01:00"
 ttl: "60"
 type: "website"
@@ -83,7 +83,7 @@ apple_touch_icon_sizes: "192x192"
 apple-mobile-web-app-capable: "yes"
 apple-mobile-web-app-status-bar-inset: "black"
 apple-mobile-web-app-status-bar-style: "black-translucent"
-apple-mobile-web-app-title: "Radiance Series: Capturing Diversity & Spontaneity at Sunset"
+apple-mobile-web-app-title: "Radiance: Ephemeral Light & Sunset Muse | Alien Studio"
 apple-touch-fullscreen: "yes"
 
 # MS Application - The MS Application front matter (YAML).
@@ -91,14 +91,14 @@ apple-touch-fullscreen: "yes"
 msapplication-config: "https://alienstudio.com/browserconfig.xml"
 msapplication-tap-highlight: "no"
 msapplication-TileColor: "253, 106, 19"
-msapplication_tile_image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+msapplication_tile_image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 
 # Twitter Card - The Twitter Card front matter (YAML).
 
 twitter_card: "summary"
 twitter_creator: "@AlienStudioArt"
 twitter_description: "Explore the Radiance Collection - diverse, spontaneous sunset moments captured in vibrant, detailed photos. A tribute to life's fleeting beauty."
-twitter_image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+twitter_image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 twitter_image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 twitter_site: "@AlienStudioArt"
 twitter_title: "Radiance Series: Capturing Diversity & Spontaneity at Sunset"
@@ -112,8 +112,8 @@ author_location: "London, UK"
 thanks: "Thanks for reading!"
 site_last_updated: "2024-01-13"
 site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"
-site_components: "Shokunin SSG, Shokunin CLI, Shokunin Templates, Shokunin Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
-site_software: "Shokunin, Rust"
+site_components: "Static Site Generator (SSG), Static Site Generator CLI, Static Site Generator Templates, Static Site Generator Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
+site_software: "Static Site Generator, Rust"
 
 ---
 
@@ -127,7 +127,7 @@ The collection's dynamic composition breathes life into each frame, illustrating
 
 More than a mere assembly of photographs, Radiance is an ode to the magic of unplanned moments, a canvas where the diversity of human experiences shines brightly under the sun's final glow. It's a journey through the fleeting, yet profound instances that define our shared humanity.
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
 ## Spotlight on the Collection
 
@@ -154,26 +154,26 @@ In this special showcase, we invite you to explore select thumbnails from the Ra
 ![A Contemplative youth in twilight; serenity surrounds][19].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
 ![A Curious eyes, bathed in sunset; innocence meets the world][20].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
-[01]: https://kura.pro/alienstudio/images/collections/radiance/radiance-01.webp
-[02]: https://kura.pro/alienstudio/images/collections/radiance/radiance-02.webp
-[03]: https://kura.pro/alienstudio/images/collections/radiance/radiance-03.webp
-[04]: https://kura.pro/alienstudio/images/collections/radiance/radiance-04.webp
-[05]: https://kura.pro/alienstudio/images/collections/radiance/radiance-05.webp
-[06]: https://kura.pro/alienstudio/images/collections/radiance/radiance-06.webp
-[07]: https://kura.pro/alienstudio/images/collections/radiance/radiance-07.webp
-[08]: https://kura.pro/alienstudio/images/collections/radiance/radiance-08.webp
-[09]: https://kura.pro/alienstudio/images/collections/radiance/radiance-09.webp
-[10]: https://kura.pro/alienstudio/images/collections/radiance/radiance-10.webp
-[11]: https://kura.pro/alienstudio/images/collections/radiance/radiance-11.webp
-[12]: https://kura.pro/alienstudio/images/collections/radiance/radiance-12.webp
-[13]: https://kura.pro/alienstudio/images/collections/radiance/radiance-13.webp
-[14]: https://kura.pro/alienstudio/images/collections/radiance/radiance-14.webp
-[15]: https://kura.pro/alienstudio/images/collections/radiance/radiance-15.webp
-[16]: https://kura.pro/alienstudio/images/collections/radiance/radiance-16.webp
-[17]: https://kura.pro/alienstudio/images/collections/radiance/radiance-17.webp
-[18]: https://kura.pro/alienstudio/images/collections/radiance/radiance-18.webp
-[19]: https://kura.pro/alienstudio/images/collections/radiance/radiance-19.webp
-[20]: https://kura.pro/alienstudio/images/collections/radiance/radiance-20.webp
-[divider]: https://kura.pro/common/images/elements/divider.svg "Divider Image"
+[01]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-01.webp
+[02]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-02.webp
+[03]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-03.webp
+[04]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-04.webp
+[05]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-05.webp
+[06]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-06.webp
+[07]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-07.webp
+[08]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-08.webp
+[09]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-09.webp
+[10]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-10.webp
+[11]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-11.webp
+[12]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-12.webp
+[13]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-13.webp
+[14]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-14.webp
+[15]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-15.webp
+[16]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-16.webp
+[17]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-17.webp
+[18]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-18.webp
+[19]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-19.webp
+[20]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-20.webp
+[divider]: https://cloudcdn.pro/common/images/elements/divider.svg "Divider Image"

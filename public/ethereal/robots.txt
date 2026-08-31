@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://alienstudio.com/ethereal/index.html/sitemap.xml

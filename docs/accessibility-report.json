@@ -1,0 +1,387 @@
+{
+  "pages_scanned": 19,
+  "total_issues": 57,
+  "wcag_version": "2.2",
+  "pages": [
+    {
+      "path": "404/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        }
+      ]
+    },
+    {
+      "path": "about/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        }
+      ]
+    },
+    {
+      "path": "accessibility/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        }
+      ]
+    },
+    {
+      "path": "collections/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        },
+        {
+          "criterion": "1.3.1",
+          "severity": "warning",
+          "message": "Heading hierarchy skips from h2 to h5"
+        }
+      ]
+    },
+    {
+      "path": "contact/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        }
+      ]
+    },
+    {
+      "path": "ethereal/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        },
+        {
+          "criterion": "1.3.1",
+          "severity": "warning",
+          "message": "Heading hierarchy skips from h2 to h5"
+        }
+      ]
+    },
+    {
+      "path": "index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        }
+      ]
+    },
+    {
+      "path": "made-with-ssg/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        }
+      ]
+    },
+    {
+      "path": "metropolis/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        },
+        {
+          "criterion": "1.3.1",
+          "severity": "warning",
+          "message": "Heading hierarchy skips from h2 to h5"
+        }
+      ]
+    },
+    {
+      "path": "odyssey/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        },
+        {
+          "criterion": "1.3.1",
+          "severity": "warning",
+          "message": "Heading hierarchy skips from h2 to h5"
+        }
+      ]
+    },
+    {
+      "path": "offline/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        }
+      ]
+    },
+    {
+      "path": "privacy/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        }
+      ]
+    },
+    {
+      "path": "radiance/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        },
+        {
+          "criterion": "1.3.1",
+          "severity": "warning",
+          "message": "Heading hierarchy skips from h2 to h5"
+        }
+      ]
+    },
+    {
+      "path": "savanna/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        },
+        {
+          "criterion": "1.3.1",
+          "severity": "warning",
+          "message": "Heading hierarchy skips from h2 to h5"
+        }
+      ]
+    },
+    {
+      "path": "serenity/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        },
+        {
+          "criterion": "1.3.1",
+          "severity": "warning",
+          "message": "Heading hierarchy skips from h2 to h5"
+        }
+      ]
+    },
+    {
+      "path": "tags/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        }
+      ]
+    },
+    {
+      "path": "terms/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        }
+      ]
+    },
+    {
+      "path": "thanks/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        }
+      ]
+    },
+    {
+      "path": "xiqing/index.html",
+      "issues": [
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/youtube-speech-bubble-21668.svg"
+        },
+        {
+          "criterion": "1.1.1",
+          "severity": "error",
+          "message": "<img> missing alt text: https://cloudcdn.pro/common/images/buttons/x-speech-bubble-blue-logo-21670.svg"
+        },
+        {
+          "criterion": "1.3.1",
+          "severity": "warning",
+          "message": "Heading hierarchy skips from h2 to h5"
+        }
+      ]
+    }
+  ]
+}

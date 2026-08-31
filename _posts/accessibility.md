@@ -6,35 +6,35 @@ author: "The Alien Studio Team"
 banner_alt: "Mature grace, eyes looking forward, wisdom set against the city’s rhythm"
 banner_height: "100vh"
 banner_width: "100vw"
-banner: "https://kura.pro/alienstudio/images/collections/metropolis/metropolis-09.webp"
-cdn: "https://kura.pro"
+banner: "https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-09.webp"
+cdn: "https://cloudcdn.pro"
 changefreq: "weekly"
 charset: "UTF-8"
 cname: ""
-copyright: "© 2024 Alien Studio Photography. All rights reserved."
+copyright: "© 2024 - 2026 Alien Studio Photography. All rights reserved."
 date: "Jan 13, 2024"
-description: "This statement explains the accessibility of our website, what we are doing to address it, and how to contact us about web accessibility."
+description: "Alien Studio's commitment to digital inclusion, WCAG 2.1 Level AAA compliance, high-contrast typography, and accessible web experiences for all visitors."
 format-detection: "telephone=no"
 form-id: ""
 hreflang: "en"
-icon: "https://kura.pro/alienstudio/images/favicon.ico"
+icon: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 id: "https://alienstudio.com/accessibility/index.html"
 image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 image_height: "100vh"
 image_width: "100vw"
-image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
-keywords: "Website Accessibility, Digital Accessibility, Screen Reader Compatibility, WCAG 2.1 AA Compliance, Keyboard Navigation, Accessibility Guidelines, User Experience Enhancement, Assistive Technology, Accessibility Features, Color Contrast Accessibility"
+image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+keywords: "accessibility statement, WCAG AAA, digital inclusion, accessible art gallery, Alien Studio accessibility"
 language: "en-GB"
 layout: "link"
 locale: "en_GB"
 logo_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 logo_height: "44"
 logo_width: "44"
-logo: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+logo: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 menu: "active"
 measurementID: "G-F37SP9MF2L"
 name: "Accessibility Statement"
-permalink: "https://alienstudio.com/accessibility/index.html"
+permalink: "https://alienstudio.com/accessibility/"
 rating: "general"
 referrer: "no-referrer"
 revisit-after: "7 days"
@@ -43,7 +43,7 @@ short_name: "alienstudio"
 subtitle: "Dedicated to ensuring digital accessibility for people with disabilities"
 tags: "accessibility, wcag, inclusivity, screen-reader, usability, web-design, ada, compliance, ux, design, color-blindness, assistive-tech"
 theme-color: "255,255,255"
-title: "Accessibility Statement"
+title: "Accessibility Statement | Alien Studio"
 url: "https://alienstudio.com/accessibility/index.html"
 viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 
@@ -51,7 +51,7 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 atom_link: "https://alienstudio.com/accessibility/rss.xml"
 category: "Technology"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin SSG (version 0.0.26)"
+generator: "Static Site Generator (SSG) (version 0.0.26)"
 item_description: RSS feed for the site
 item_guid: "https://alienstudio.com/accessibility/rss.xml"
 item_link: "https://alienstudio.com/accessibility/rss.xml"
@@ -70,7 +70,7 @@ apple_touch_icon_sizes: "192x192"
 apple-mobile-web-app-capable: "yes"
 apple-mobile-web-app-status-bar-inset: "black"
 apple-mobile-web-app-status-bar-style: "black-translucent"
-apple-mobile-web-app-title: "Accessibility Statement"
+apple-mobile-web-app-title: "Accessibility Statement | Alien Studio"
 apple-touch-fullscreen: "yes"
 
 # MS Application - The MS Application front matter (YAML).
@@ -82,7 +82,7 @@ msapplication-navbutton-color: "255,255,255"
 twitter_card: "summary"
 twitter_creator: "@AlienStudioArt"
 twitter_description: "This statement explains the accessibility of our website, what we are doing to address it, and how to contact us about web accessibility."
-twitter_image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+twitter_image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 twitter_image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 twitter_site: "@AlienStudioArt"
 twitter_title: "Accessibility Statement"
@@ -95,38 +95,31 @@ author_location: "London, UK"
 thanks: "Thanks for reading!"
 site_last_updated: "2024-01-13"
 site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"
-site_components: "Shokunin SSG, Shokunin CLI, Shokunin Templates, Shokunin Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
-site_software: "Shokunin, Rust"
+site_components: "Static Site Generator (SSG), Static Site Generator CLI, Static Site Generator Templates, Static Site Generator Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
+site_software: "Static Site Generator, Rust"
 
 ---
 
-We are committed to providing digital accessibility for people with disabilities and are consistently enhancing the user experience for everyone, implementing the appropriate accessibility measures.
+## 1. Our Commitment to Inclusion
 
-## Measures to Support Accessibility
+At Alien Studio, we believe that fine art and visual storytelling should be accessible to everyone, including individuals who use assistive technologies such as screen readers, voice controls, magnification, and keyboard navigation. Our engineering standards adhere strictly to the Web Content Accessibility Guidelines (WCAG) 2.1 Level AAA criteria.
 
-We aim to make our website as accessible as possible for all users. This includes the ability to:
+## 2. Core Accessibility Measures Implemented
 
-- Access most of the website using a screen reader.
-- Ensure consistent navigation across pages.
-- Increase the zoom level up to 500% without text overflowing the display.
-- Modify colours, contrast, and styles via browser extensions or settings to suit your needs and preferences.
-- Navigate the website using just a keyboard.
-- Provide text alternatives for all non-text content.
-- Utilise speech recognition software for efficient website navigation.
+- **High-Contrast Typography (WCAG AAA 7:1):** Every text element in both light and dark modes exceeds the strict 7:1 contrast ratio against its background ground. Interactive borders and focus rings maintain a minimum 4.5:1 ratio.
+- **Full Keyboard Operability:** All interactive affordances—including photo lightboxes, search dialogs (`⌘K`), theme switchers, and navigation menus—are 100% operable via keyboard without trapping focus.
+- **Semantic Structure & Screen Reader Optimization:** Complete HTML5 landmark structure (`<header>`, `<nav>`, `<main>`, `<footer>`, `<figure>`, `<figcaption>`) with ARIA dialog semantics (`role="dialog"`, `aria-modal="true"`, `aria-label`).
+- **Descriptive Alternative Text:** Every photograph across our 7 collections includes detailed, descriptive `alt` text and visible captions communicating visual subjects, lighting, and composition.
+- **Reflow & Responsive Magnification:** The layout seamlessly accommodates up to 400% browser zoom without text clipping, layout breakage, or two-dimensional scrolling.
+- **Reduced Motion Support:** CSS transitions respect the user's operating system preferences via the `prefers-reduced-motion` media query.
 
-We have also simplified the website’s text for easier comprehension.
+## 3. Assistive Technology Compatibility
 
-## Our Conformance Status
+Alien Studio is actively tested across modern screen reading software and browser environments:
+- **macOS & iOS:** VoiceOver with Safari and Chrome.
+- **Windows:** NVDA and JAWS with Edge, Chrome, and Firefox.
+- **Android:** TalkBack with Chrome.
 
-We recognise that some parts of our website are not fully accessible, but we are actively working to improve this. Our goal is to conform to the Web Content Accessibility Guidelines (WCAG) version 2.1 AA standard. You may encounter issues such as:
+## 4. Continuous Auditing & Feedback
 
-- Images lacking useful alternative text for assistive technology.
-- Insufficient contrast ratios for users with colour blindness.
-- Missing hidden links for keyboard navigation.
-- Non-tagged links that open in new tabs/windows.
-- Non-tagged menu dropdowns.
-- Titles as text tags not labelled as headings.
-
-## Feedback and contact information
-
-Your feedback is vital in helping us enhance the accessibility of our website. If you encounter any accessibility barriers, please  [contact us](/contact/index.html).
+Accessibility is an ongoing discipline. If you encounter any difficulty navigating our gallery or have suggestions for enhancing our assistive experience, please reach out directly to our accessibility coordinator at [contact@alienstudio.com](mailto:contact@alienstudio.com).

@@ -1,0 +1,21 @@
+{
+  "api": "ssg-agent-api",
+  "counts": {
+    "posts": 18,
+    "topics": 123
+  },
+  "links": {
+    "index": "https://alienstudio.com/api/agents/index.json",
+    "person": "https://alienstudio.com/api/agents/person.json",
+    "posts": "https://alienstudio.com/api/agents/posts.json",
+    "topics": "https://alienstudio.com/api/agents/topics.json"
+  },
+  "site": {
+    "description": "Pioneering the future of photography, where Artificial Intelligence and lens converge to reshape the art world and reality.",
+    "language": "en-GB",
+    "name": "Alien Studio",
+    "title": "Alien Studio: Revolutionising Art with AI Photography",
+    "url": "https://alienstudio.com"
+  },
+  "version": "0.0.56"
+}

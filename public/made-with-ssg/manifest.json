@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "description": "The Static Site Generator (SSG) is a lightning-fast tool for Search Engine Optimisation (SEO) and compliance to Accessib",
+  "display": "standalone",
+  "icons": [
+    {
+      "purpose": "any maskable",
+      "sizes": "512x512",
+      "src": "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "name": "Website created with Static Site Generator (S",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "alienstudio",
+  "start_url": ".",
+  "theme_color": "#ffffff"
+}
