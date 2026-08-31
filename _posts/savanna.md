@@ -7,40 +7,40 @@ banner_alt: "Staring lion in golden grass"
 banner_height: "100vh"
 banner_width: "100vw"
 banner_url: ""
-banner: "https://kura.pro/alienstudio/images/collections/savanna/04-savanna.webp"
-cdn: "https://kura.pro"
+banner: "https://cloudcdn.pro/alienstudio/v1/collections/savanna/04-savanna.webp"
+cdn: "https://cloudcdn.pro"
 changefreq: "weekly"
 charset: "utf-8"
 cname: ""
-copyright: "© 2024 Alien Studio Photography. All rights reserved."
+copyright: "© 2024 - 2026 Alien Studio Photography. All rights reserved."
 cta_alt: "Sunset with two silhouette trees"
 cta_height: "100vh"
 cta_width: "100vw"
 cta_url: ""
-cta: "https://kura.pro/alienstudio/images/collections/savanna/02-savanna.webp"
+cta: "https://cloudcdn.pro/alienstudio/v1/collections/savanna/02-savanna.webp"
 date: "Mar 04, 2024"
-description: "Explore Kruger National Park at sunset in high-res photos. Witness stunning wildlife and landscapes in a visual journey."
+description: "A 44-photograph journey through Kruger National Park at sunset. Experience wildlife, golden hour lighting, and savanna landscapes in ultra-high resolution."
 download: ""
 format-detection: "telephone=no"
 hreflang: "en"
-icon: "https://kura.pro/alienstudio/images/favicon.ico"
+icon: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 id: "https://alienstudio.com/savanna/index.html"
 image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 image_height: "100vh"
 image_width: "100vw"
-image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
-keywords: "Kruger National Park, sunset photography, DSLR camera lenses, wildlife photography, landscape photography, photographic journey, savanna ecosystem, photographic techniques, nature photography, sunset scenes"
+image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+keywords: "Kruger National Park photography, sunset savanna, wildlife photography, golden hour DSLR, lion photography, African safari fine art"
 language: "en-GB"
 layout: "collection"
 locale: "en_GB"
 logo_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 logo_height: "44"
 logo_width: "44"
-logo: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+logo: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 menu: "active"
 measurementID: "G-F37SP9MF2L"
 name: "The Savanna Collection"
-permalink: "https://alienstudio.com/savanna/index.html"
+permalink: "https://alienstudio.com/savanna/"
 rating: "general"
 referrer: "no-referrer"
 revisit-after: "7 days"
@@ -49,7 +49,7 @@ short_name: "savanna"
 subtitle: ""
 tags: "Kruger, Photography, Sunset, Wildlife, Savanna, DSLR, Lenses, Landscape, Techniques, Nature"
 theme-color: "255, 112, 0"
-title: "Savanna Sunset: A Photographic Journey Through Kruger Park"
+title: "Savanna Sunset: Kruger National Park AI Photography | Alien Studio"
 url: "https://alienstudio.com/savanna/index.html"
 viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 
@@ -58,7 +58,7 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 atom_link: "https://alienstudio.com/savanna/rss.xml"
 category: "Software, Static Site Generator, Rust"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin SSG (version 0.0.26)"
+generator: "Static Site Generator (SSG) (version 0.0.26)"
 item_description: "Explore Kruger National Park at sunset in high-res photos. Witness stunning wildlife and landscapes in a visual journey."
 item_guid: "https://alienstudio.com/savanna/rss.xml"
 item_link: "https://alienstudio.com/savanna/rss.xml"
@@ -70,7 +70,7 @@ promo_color: "255, 112, 0"
 promo_title: "Discover and Buy Unique Photography Books, Prints, and Accessories Today!"
 promo_text: "Visit Alien Studio Shop on Etsy"
 promo_link: "https://www.etsy.com/shop/AlienStudioShop"
-promo_banner: "https://kura.pro/alienstudio/images/collections/savanna/02-savanna.webp"
+promo_banner: "https://cloudcdn.pro/alienstudio/v1/collections/savanna/02-savanna.webp"
 pub_date: "Mon, 04 Mar 2024 06:06:06 +0100"
 ttl: "60"
 type: "website"
@@ -83,7 +83,7 @@ apple_touch_icon_sizes: "192x192"
 apple-mobile-web-app-capable: "yes"
 apple-mobile-web-app-status-bar-inset: "black"
 apple-mobile-web-app-status-bar-style: "black-translucent"
-apple-mobile-web-app-title: "Savanna Sunset: A Photographic Journey Through Kruger Park"
+apple-mobile-web-app-title: "Savanna Sunset: Kruger National Park AI Photography | Alien Studio"
 apple-touch-fullscreen: "yes"
 
 # MS Application - The MS Application front matter (YAML).
@@ -91,14 +91,14 @@ apple-touch-fullscreen: "yes"
 msapplication-config: "https://alienstudio.com/browserconfig.xml"
 msapplication-tap-highlight: "no"
 msapplication-TileColor: "255, 112, 0"
-msapplication_tile_image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+msapplication_tile_image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 
 # Twitter Card - The Twitter Card front matter (YAML).
 
 twitter_card: "summary"
 twitter_creator: "@AlienStudioArt"
 twitter_description: "Explore Kruger National Park at sunset in high-res photos. Witness stunning wildlife and landscapes in a visual journey."
-twitter_image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+twitter_image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 twitter_image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 twitter_site: "@AlienStudioArt"
 twitter_title: "Savanna Sunset: A Photographic Journey Through Kruger Park"
@@ -112,8 +112,8 @@ author_location: "London, UK"
 thanks: "Thanks for reading!"
 site_last_updated: "2024-03-04"
 site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"
-site_components: "Shokunin SSG, Shokunin CLI, Shokunin Templates, Shokunin Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
-site_software: "Shokunin, Rust"
+site_components: "Static Site Generator (SSG), Static Site Generator CLI, Static Site Generator Templates, Static Site Generator Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
+site_software: "Static Site Generator, Rust"
 
 ---
 
@@ -145,7 +145,7 @@ The rule of thirds is a fundamental composition technique used throughout the ex
 
 The **Savanna** exhibition at Kruger National Park is a masterclass in photography, showcasing not only the technical skills required to capture stunning sunset scenes but also the artistic eye needed to tell a compelling story through images. It is a celebration of nature, a testament to the power of photography, and an invitation to see the world in a different light.
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
 ## Spotlight on the Collection
 
@@ -196,51 +196,51 @@ In this unique exhibition, we present to you a curated selection of thumbnails f
 ![Lone tree at savanna sunset][43].class=\"external fade-in zoom-in w-25 p-3 float-start\"
 ![Two elephants at sunrise][44].class=\"external fade-in zoom-in w-25 p-3 float-start\"
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
-[01]: https://kura.pro/alienstudio/images/collections/savanna/01-savanna.webp
-[02]: https://kura.pro/alienstudio/images/collections/savanna/02-savanna.webp
-[03]: https://kura.pro/alienstudio/images/collections/savanna/03-savanna.webp
-[04]: https://kura.pro/alienstudio/images/collections/savanna/04-savanna.webp
-[05]: https://kura.pro/alienstudio/images/collections/savanna/05-savanna.webp
-[06]: https://kura.pro/alienstudio/images/collections/savanna/06-savanna.webp
-[07]: https://kura.pro/alienstudio/images/collections/savanna/07-savanna.webp
-[08]: https://kura.pro/alienstudio/images/collections/savanna/08-savanna.webp
-[09]: https://kura.pro/alienstudio/images/collections/savanna/09-savanna.webp
-[10]: https://kura.pro/alienstudio/images/collections/savanna/10-savanna.webp
-[11]: https://kura.pro/alienstudio/images/collections/savanna/11-savanna.webp
-[12]: https://kura.pro/alienstudio/images/collections/savanna/12-savanna.webp
-[13]: https://kura.pro/alienstudio/images/collections/savanna/13-savanna.webp
-[14]: https://kura.pro/alienstudio/images/collections/savanna/14-savanna.webp
-[15]: https://kura.pro/alienstudio/images/collections/savanna/15-savanna.webp
-[16]: https://kura.pro/alienstudio/images/collections/savanna/16-savanna.webp
-[17]: https://kura.pro/alienstudio/images/collections/savanna/17-savanna.webp
-[18]: https://kura.pro/alienstudio/images/collections/savanna/18-savanna.webp
-[19]: https://kura.pro/alienstudio/images/collections/savanna/19-savanna.webp
-[20]: https://kura.pro/alienstudio/images/collections/savanna/20-savanna.webp
-[21]: https://kura.pro/alienstudio/images/collections/savanna/21-savanna.webp
-[22]: https://kura.pro/alienstudio/images/collections/savanna/22-savanna.webp
-[23]: https://kura.pro/alienstudio/images/collections/savanna/23-savanna.webp
-[24]: https://kura.pro/alienstudio/images/collections/savanna/24-savanna.webp
-[25]: https://kura.pro/alienstudio/images/collections/savanna/25-savanna.webp
-[26]: https://kura.pro/alienstudio/images/collections/savanna/26-savanna.webp
-[27]: https://kura.pro/alienstudio/images/collections/savanna/27-savanna.webp
-[28]: https://kura.pro/alienstudio/images/collections/savanna/28-savanna.webp
-[29]: https://kura.pro/alienstudio/images/collections/savanna/29-savanna.webp
-[30]: https://kura.pro/alienstudio/images/collections/savanna/30-savanna.webp
-[31]: https://kura.pro/alienstudio/images/collections/savanna/31-savanna.webp
-[32]: https://kura.pro/alienstudio/images/collections/savanna/32-savanna.webp
-[33]: https://kura.pro/alienstudio/images/collections/savanna/33-savanna.webp
-[34]: https://kura.pro/alienstudio/images/collections/savanna/34-savanna.webp
-[35]: https://kura.pro/alienstudio/images/collections/savanna/35-savanna.webp
-[36]: https://kura.pro/alienstudio/images/collections/savanna/36-savanna.webp
-[37]: https://kura.pro/alienstudio/images/collections/savanna/37-savanna.webp
-[38]: https://kura.pro/alienstudio/images/collections/savanna/38-savanna.webp
-[39]: https://kura.pro/alienstudio/images/collections/savanna/39-savanna.webp
-[40]: https://kura.pro/alienstudio/images/collections/savanna/40-savanna.webp
-[41]: https://kura.pro/alienstudio/images/collections/savanna/41-savanna.webp
-[42]: https://kura.pro/alienstudio/images/collections/savanna/42-savanna.webp
-[43]: https://kura.pro/alienstudio/images/collections/savanna/43-savanna.webp
-[44]: https://kura.pro/alienstudio/images/collections/savanna/44-savanna.webp
+[01]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/01-savanna.webp
+[02]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/02-savanna.webp
+[03]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/03-savanna.webp
+[04]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/04-savanna.webp
+[05]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/05-savanna.webp
+[06]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/06-savanna.webp
+[07]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/07-savanna.webp
+[08]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/08-savanna.webp
+[09]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/09-savanna.webp
+[10]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/10-savanna.webp
+[11]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/11-savanna.webp
+[12]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/12-savanna.webp
+[13]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/13-savanna.webp
+[14]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/14-savanna.webp
+[15]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/15-savanna.webp
+[16]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/16-savanna.webp
+[17]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/17-savanna.webp
+[18]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/18-savanna.webp
+[19]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/19-savanna.webp
+[20]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/20-savanna.webp
+[21]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/21-savanna.webp
+[22]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/22-savanna.webp
+[23]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/23-savanna.webp
+[24]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/24-savanna.webp
+[25]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/25-savanna.webp
+[26]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/26-savanna.webp
+[27]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/27-savanna.webp
+[28]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/28-savanna.webp
+[29]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/29-savanna.webp
+[30]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/30-savanna.webp
+[31]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/31-savanna.webp
+[32]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/32-savanna.webp
+[33]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/33-savanna.webp
+[34]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/34-savanna.webp
+[35]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/35-savanna.webp
+[36]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/36-savanna.webp
+[37]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/37-savanna.webp
+[38]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/38-savanna.webp
+[39]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/39-savanna.webp
+[40]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/40-savanna.webp
+[41]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/41-savanna.webp
+[42]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/42-savanna.webp
+[43]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/43-savanna.webp
+[44]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/44-savanna.webp
 
-[divider]: https://kura.pro/common/images/elements/divider.svg "Divider Image"
+[divider]: https://cloudcdn.pro/common/images/elements/divider.svg "Divider Image"

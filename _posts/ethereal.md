@@ -7,40 +7,40 @@ banner_alt: "A Vision in Golden Light"
 banner_height: "100vh"
 banner_width: "100vw"
 banner_url: ""
-banner: "https://kura.pro/alienstudio/images/collections/ethereal/ethereal-01.webp"
-cdn: "https://kura.pro"
+banner: "https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-01.webp"
+cdn: "https://cloudcdn.pro"
 changefreq: "weekly"
 charset: "utf-8"
 cname: ""
-copyright: "© 2024 Alien Studio Photography. All rights reserved."
+copyright: "© 2024 - 2026 Alien Studio Photography. All rights reserved."
 cta_alt: "Rustic dawn ethereal"
 cta_height: "100vh"
 cta_width: "100vw"
 cta_url: ""
-cta: "https://kura.pro/alienstudio/images/collections/ethereal/ethereal-21.webp"
+cta: "https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-21.webp"
 date: "Jan 13, 2024"
-description: "Explore the Ethereal Collection, where surreal art and photorealism converge, inspired by Odilon Redon's dream-like worlds."
+description: "A 35-photograph exhibition where surrealism and photorealism meet, inspired by Odilon Redon's dream-like worlds and cosmic light."
 download: ""
 format-detection: "telephone=no"
 hreflang: "en"
-icon: "https://kura.pro/alienstudio/images/favicon.ico"
+icon: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 id: "https://alienstudio.com/ethereal/index.html"
 image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 image_height: "100vh"
 image_width: "100vw"
-image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
-keywords: "Ethereal Collection, surreal art, photorealism, Odilon Redon, abstract interpretation, 8k UHD photography, artistic expression, light and color, dream-like, mystical exploration"
+image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+keywords: "Ethereal photography, surreal art photography, Odilon Redon inspired, photorealism, cosmic dreamscapes, abstract fine art"
 language: "en-GB"
 layout: "collection"
 locale: "en_GB"
 logo_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 logo_height: "44"
 logo_width: "44"
-logo: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+logo: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 menu: "active"
 measurementID: "G-F37SP9MF2L"
 name: "The Ethereal Collection"
-permalink: "https://alienstudio.com/ethereal/index.html"
+permalink: "https://alienstudio.com/ethereal/"
 rating: "general"
 referrer: "no-referrer"
 revisit-after: "7 days"
@@ -49,7 +49,7 @@ short_name: "ethereal"
 subtitle: ""
 tags: "Ethereal, Surreal, Photorealism, Redon, Abstract, 8K, Artistic, Color, Dream, Mystical"
 theme-color: "253, 106, 19"
-title: "The Ethereal Collection: Surreal Art Meets Photorealism"
+title: "Ethereal: Surreal Dreamscapes & Photorealism | Alien Studio"
 url: "https://alienstudio.com/ethereal/index.html"
 viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 
@@ -58,7 +58,7 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 atom_link: "https://alienstudio.com/ethereal/rss.xml"
 category: "Software, Static Site Generator, Rust"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin SSG (version 0.0.26)"
+generator: "Static Site Generator (SSG) (version 0.0.26)"
 item_description: "Explore the Ethereal Collection, where surreal art and photorealism converge, inspired by Odilon Redon's dream-like worlds."
 item_guid: "https://alienstudio.com/ethereal/rss.xml"
 item_link: "https://alienstudio.com/ethereal/rss.xml"
@@ -70,7 +70,7 @@ promo_color: "253, 106, 19"
 promo_title: "Discover and Buy Unique Photography Books, Prints, and Accessories Today!"
 promo_text: "Visit Alien Studio Shop on Etsy"
 promo_link: "https://www.etsy.com/shop/AlienStudioShop"
-promo_banner: "https://kura.pro/alienstudio/images/collections/ethereal/ethereal-21.webp"
+promo_banner: "https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-21.webp"
 pub_date: "2024-01-13T06:06:06+01:00"
 ttl: "60"
 type: "website"
@@ -83,7 +83,7 @@ apple_touch_icon_sizes: "192x192"
 apple-mobile-web-app-capable: "yes"
 apple-mobile-web-app-status-bar-inset: "black"
 apple-mobile-web-app-status-bar-style: "black-translucent"
-apple-mobile-web-app-title: "The Ethereal Collection: Surreal Art Meets Photorealism"
+apple-mobile-web-app-title: "Ethereal: Surreal Dreamscapes & Photorealism | Alien Studio"
 apple-touch-fullscreen: "yes"
 
 # MS Application - The MS Application front matter (YAML).
@@ -91,14 +91,14 @@ apple-touch-fullscreen: "yes"
 msapplication-config: "https://alienstudio.com/browserconfig.xml"
 msapplication-tap-highlight: "no"
 msapplication-TileColor: "253, 106, 19"
-msapplication_tile_image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+msapplication_tile_image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 
 # Twitter Card - The Twitter Card front matter (YAML).
 
 twitter_card: "summary"
 twitter_creator: "@AlienStudioArt"
 twitter_description: "Explore the Ethereal Collection, where surreal art and photorealism converge, inspired by Odilon Redon's dream-like worlds."
-twitter_image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+twitter_image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 twitter_image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 twitter_site: "@AlienStudioArt"
 twitter_title: "The Ethereal Collection: Surreal Art Meets Photorealism"
@@ -112,8 +112,8 @@ author_location: "London, UK"
 thanks: "Thanks for reading!"
 site_last_updated: "2024-01-13"
 site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"
-site_components: "Shokunin SSG, Shokunin CLI, Shokunin Templates, Shokunin Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
-site_software: "Shokunin, Rust"
+site_components: "Static Site Generator (SSG), Static Site Generator CLI, Static Site Generator Templates, Static Site Generator Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
+site_software: "Static Site Generator, Rust"
 
 ---
 
@@ -143,7 +143,7 @@ Each viewer's encounter with the Ethereal Collection is unique, shaped by person
 
 The Ethereal Collection stands as a testament to the evolving landscape of contemporary art, where the surreal meets the real in a sublime dance of light, color, and imagination. It challenges viewers to rethink the boundaries of artistic expression and to embrace the limitless potential of the imagination.
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
 ## Spotlight on the Collection
 
@@ -176,32 +176,32 @@ In this exclusive showcase, we present a curated selection of thumbnails from th
 ![A Resting face with vibrant color splashes][25].class=\"external fade-in zoom-in w-25 p-3 float-start\"
 ![A serene face emerges from a swirl of fiery colors][26].class=\"external fade-in zoom-in w-25 p-3 float-start\"
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
-[01]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-01.webp
-[02]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-02.webp
-[03]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-03.webp
-[04]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-04.webp
-[05]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-05.webp
-[06]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-06.webp
-[07]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-07.webp
-[08]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-08.webp
-[09]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-09.webp
-[10]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-10.webp
-[11]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-11.webp
-[12]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-12.webp
-[13]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-13.webp
-[14]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-14.webp
-[15]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-15.webp
-[16]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-16.webp
-[17]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-17.webp
-[18]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-18.webp
-[19]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-19.webp
-[20]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-20.webp
-[21]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-21.webp
-[22]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-22.webp
-[23]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-23.webp
-[24]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-24.webp
-[25]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-25.webp
-[26]: https://kura.pro/alienstudio/images/collections/ethereal/ethereal-26.webp
-[divider]: https://kura.pro/common/images/elements/divider.svg "Divider Image"
+[01]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-01.webp
+[02]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-02.webp
+[03]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-03.webp
+[04]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-04.webp
+[05]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-05.webp
+[06]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-06.webp
+[07]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-07.webp
+[08]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-08.webp
+[09]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-09.webp
+[10]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-10.webp
+[11]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-11.webp
+[12]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-12.webp
+[13]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-13.webp
+[14]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-14.webp
+[15]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-15.webp
+[16]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-16.webp
+[17]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-17.webp
+[18]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-18.webp
+[19]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-19.webp
+[20]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-20.webp
+[21]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-21.webp
+[22]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-22.webp
+[23]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-23.webp
+[24]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-24.webp
+[25]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-25.webp
+[26]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-26.webp
+[divider]: https://cloudcdn.pro/common/images/elements/divider.svg "Divider Image"

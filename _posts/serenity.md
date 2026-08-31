@@ -7,40 +7,40 @@ banner_alt: "A Vision in Golden Light"
 banner_height: "100vh"
 banner_width: "100vw"
 banner_url: ""
-banner: "https://kura.pro/alienstudio/images/collections/serenity/serenity-08.webp"
-cdn: "https://kura.pro"
+banner: "https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-08.webp"
+cdn: "https://cloudcdn.pro"
 changefreq: "weekly"
 charset: "utf-8"
 cname: ""
-copyright: "© 2024 Alien Studio Photography. All rights reserved."
+copyright: "© 2024 - 2026 Alien Studio Photography. All rights reserved."
 cta_alt: "Rustic dawn serenity"
 cta_height: "100vh"
 cta_width: "100vw"
 cta_url: ""
-cta: "https://kura.pro/alienstudio/images/collections/serenity/serenity-21.webp"
+cta: "https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-21.webp"
 date: "Jan 13, 2024"
-description: "Explore Serenity: Inspired by Tatiana Skorokhod, a photo set with gravity-defying objects in still lifes, echoing family life and solitude in an AI era."
+description: "A 30-photograph fine art collection blending Tatiana Skorokhod's contemplative still life with themes of solitude, perception, and quiet beauty."
 download: ""
 format-detection: "telephone=no"
 hreflang: "en"
-icon: "https://kura.pro/alienstudio/images/favicon.ico"
+icon: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 id: "https://alienstudio.com/serenity/index.html"
 image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 image_height: "100vh"
 image_width: "100vw"
-image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
-keywords: "Serenity, Tatiana Skorokhod, Photorealistic, Still Life, AI World, Family Life, Solitude, Modernism, Perception, Art Collection"
+image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+keywords: "Serenity photography, Tatiana Skorokhod still life, fine art still life, contemplative photography, solitude in art, peaceful aesthetic"
 language: "en-GB"
 layout: "collection"
 locale: "en_GB"
 logo_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 logo_height: "44"
 logo_width: "44"
-logo: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+logo: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 menu: "active"
 measurementID: "G-F37SP9MF2L"
 name: "The Serenity Collection"
-permalink: "https://alienstudio.com/serenity/index.html"
+permalink: "https://alienstudio.com/serenity/"
 rating: "general"
 referrer: "no-referrer"
 revisit-after: "7 days"
@@ -49,7 +49,7 @@ short_name: "serenity"
 subtitle: ""
 tags: "Serenity, Skorokhod, Photorealism, Still Life, AI, Family, Solitude, Modernism, Perception, Art"
 theme-color: "253, 106, 19"
-title: "Serenity: A Journey into AI-Inspired Realistic Still Life"
+title: "Serenity: Contemplative Still Life & Solitude | Alien Studio"
 url: "https://alienstudio.com/serenity/index.html"
 viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 
@@ -58,7 +58,7 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 atom_link: "https://alienstudio.com/serenity/rss.xml"
 category: "Software, Static Site Generator, Rust"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin SSG (version 0.0.26)"
+generator: "Static Site Generator (SSG) (version 0.0.26)"
 item_description: "Explore Serenity: Inspired by Tatiana Skorokhod, a photo set with gravity-defying objects in still lifes, echoing family life and solitude in an AI era."
 item_guid: "https://alienstudio.com/serenity/rss.xml"
 item_link: "https://alienstudio.com/serenity/rss.xml"
@@ -70,7 +70,7 @@ promo_color: "253, 106, 19"
 promo_title: "Discover and Buy Unique Photography Books, Prints, and Accessories Today!"
 promo_text: "Visit Alien Studio Shop on Etsy"
 promo_link: "https://www.etsy.com/shop/AlienStudioShop"
-promo_banner: "https://kura.pro/alienstudio/images/collections/serenity/serenity-21.webp"
+promo_banner: "https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-21.webp"
 pub_date: "2024-01-13T06:06:06+01:00"
 ttl: "60"
 type: "website"
@@ -83,7 +83,7 @@ apple_touch_icon_sizes: "192x192"
 apple-mobile-web-app-capable: "yes"
 apple-mobile-web-app-status-bar-inset: "black"
 apple-mobile-web-app-status-bar-style: "black-translucent"
-apple-mobile-web-app-title: "Serenity: A Journey into AI-Inspired Realistic Still Life"
+apple-mobile-web-app-title: "Serenity: Contemplative Still Life & Solitude | Alien Studio"
 apple-touch-fullscreen: "yes"
 
 # MS Application - The MS Application front matter (YAML).
@@ -91,14 +91,14 @@ apple-touch-fullscreen: "yes"
 msapplication-config: "https://alienstudio.com/browserconfig.xml"
 msapplication-tap-highlight: "no"
 msapplication-TileColor: "253, 106, 19"
-msapplication_tile_image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+msapplication_tile_image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 
 # Twitter Card - The Twitter Card front matter (YAML).
 
 twitter_card: "summary"
 twitter_creator: "@AlienStudioArt"
 twitter_description: "Explore Serenity: Inspired by Tatiana Skorokhod, a photo set with gravity-defying objects in still lifes, echoing family life and solitude in an AI era."
-twitter_image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+twitter_image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 twitter_image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 twitter_site: "@AlienStudioArt"
 twitter_title: "Serenity: A Journey into AI-Inspired Realistic Still Life"
@@ -112,8 +112,8 @@ author_location: "London, UK"
 thanks: "Thanks for reading!"
 site_last_updated: "2024-01-13"
 site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"
-site_components: "Shokunin SSG, Shokunin CLI, Shokunin Templates, Shokunin Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
-site_software: "Shokunin, Rust"
+site_components: "Static Site Generator (SSG), Static Site Generator CLI, Static Site Generator Templates, Static Site Generator Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
+site_software: "Static Site Generator, Rust"
 
 ---
 
@@ -145,7 +145,7 @@ Serenity has resonated with audiences and critics alike, sparking conversations 
 
 Serenity is more than a photo collection; it's a thought-provoking exploration of how AI has transformed our world. It challenges viewers to rethink their perceptions of reality, offering a unique perspective on the past, present, and future of human experience.
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
 ## Spotlight on the Collection
 
@@ -172,26 +172,26 @@ In this special showcase, we invite you to explore select thumbnails from the Se
 ![A Lush citrus crescendo][19].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
 ![A Serene orchard glow][20].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
 
-![divider][divider].class=\"m-10 w-100\"
+<hr class="my-5" />.class=\"m-10 w-100\"
 
-[01]: https://kura.pro/alienstudio/images/collections/serenity/serenity-01.webp
-[02]: https://kura.pro/alienstudio/images/collections/serenity/serenity-02.webp
-[03]: https://kura.pro/alienstudio/images/collections/serenity/serenity-03.webp
-[04]: https://kura.pro/alienstudio/images/collections/serenity/serenity-04.webp
-[05]: https://kura.pro/alienstudio/images/collections/serenity/serenity-05.webp
-[06]: https://kura.pro/alienstudio/images/collections/serenity/serenity-06.webp
-[07]: https://kura.pro/alienstudio/images/collections/serenity/serenity-07.webp
-[08]: https://kura.pro/alienstudio/images/collections/serenity/serenity-08.webp
-[09]: https://kura.pro/alienstudio/images/collections/serenity/serenity-09.webp
-[10]: https://kura.pro/alienstudio/images/collections/serenity/serenity-10.webp
-[11]: https://kura.pro/alienstudio/images/collections/serenity/serenity-11.webp
-[12]: https://kura.pro/alienstudio/images/collections/serenity/serenity-12.webp
-[13]: https://kura.pro/alienstudio/images/collections/serenity/serenity-13.webp
-[14]: https://kura.pro/alienstudio/images/collections/serenity/serenity-14.webp
-[15]: https://kura.pro/alienstudio/images/collections/serenity/serenity-15.webp
-[16]: https://kura.pro/alienstudio/images/collections/serenity/serenity-16.webp
-[17]: https://kura.pro/alienstudio/images/collections/serenity/serenity-17.webp
-[18]: https://kura.pro/alienstudio/images/collections/serenity/serenity-18.webp
-[19]: https://kura.pro/alienstudio/images/collections/serenity/serenity-19.webp
-[20]: https://kura.pro/alienstudio/images/collections/serenity/serenity-20.webp
-[divider]: https://kura.pro/common/images/elements/divider.svg "Divider Image"
+[01]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-01.webp
+[02]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-02.webp
+[03]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-03.webp
+[04]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-04.webp
+[05]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-05.webp
+[06]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-06.webp
+[07]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-07.webp
+[08]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-08.webp
+[09]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-09.webp
+[10]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-10.webp
+[11]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-11.webp
+[12]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-12.webp
+[13]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-13.webp
+[14]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-14.webp
+[15]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-15.webp
+[16]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-16.webp
+[17]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-17.webp
+[18]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-18.webp
+[19]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-19.webp
+[20]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-20.webp
+[divider]: https://cloudcdn.pro/common/images/elements/divider.svg "Divider Image"

@@ -6,35 +6,35 @@ author: "The Alien Studio Team"
 banner_alt: "Stylish hat, striking eyes, her allure amidst the city’s rhythm"
 banner_height: "100vh"
 banner_width: "100vw"
-banner: "https://kura.pro/alienstudio/images/collections/metropolis/metropolis-18.webp"
-cdn: "https://kura.pro"
+banner: "https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-18.webp"
+cdn: "https://cloudcdn.pro"
 changefreq: "weekly"
 charset: "UTF-8"
 cname: ""
-copyright: "© 2024 Alien Studio Photography. All rights reserved."
+copyright: "© 2024 - 2026 Alien Studio Photography. All rights reserved."
 date: "Jan 13, 2024"
-description: "By accessing this website, you acknowledge and agree to be bound by these Terms and Conditions of Use and all applicable laws and regulations."
+description: "Terms and conditions of use for Alien Studio. Review licensing, intellectual property rights, and fine art reproduction policies."
 format-detection: "telephone=no"
 form-id: ""
 hreflang: "en"
-icon: "https://kura.pro/alienstudio/images/favicon.ico"
+icon: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 id: "https://alienstudio.com/terms/index.html"
 image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 image_height: "100vh"
 image_width: "100vw"
-image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
-keywords: "Terms of Use,Website Rules, Intellectual Property Rights, Third-party Links, User Responsibilities, Limitation of Liability, Website Use Agreement, Governing Laws for Online Use, Website Terms Changes, Contact"
+image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
+keywords: "terms of use, fine art licensing, intellectual property, gallery terms, Alien Studio legal"
 language: "en-GB"
 layout: "link"
 locale: "en_GB"
 logo_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 logo_height: "44"
 logo_width: "44"
-logo: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+logo: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 menu: "active"
 measurementID: "G-F37SP9MF2L"
 name: "Terms of use"
-permalink: "https://alienstudio.com/terms/index.html"
+permalink: "https://alienstudio.com/terms/"
 rating: "general"
 referrer: "no-referrer"
 revisit-after: "7 days"
@@ -43,7 +43,7 @@ short_name: "alienstudio"
 subtitle: "What You Need to Know Before Using Our Services"
 tags: "agreement, copyright, intellectual property, liability, limitation, links, privacy, terms, trademark, use, website"
 theme-color: "255,255,255"
-title: "Terms and Conditions of Use"
+title: "Terms and Conditions of Use | Alien Studio"
 url: "https://alienstudio.com/terms/index.html"
 viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 
@@ -52,7 +52,7 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 atom_link: "https://alienstudio.com/terms/rss.xml"
 category: "Technology"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin SSG (version 0.0.26)"
+generator: "Static Site Generator (SSG) (version 0.0.26)"
 item_description: "By accessing this website, you acknowledge and agree to be bound by these Terms and Conditions of Use and all applicable laws and regulations."
 item_guid: "https://alienstudio.com/terms/rss.xml"
 item_link: "https://alienstudio.com/terms/rss.xml"
@@ -72,7 +72,7 @@ apple_touch_icon_sizes: "192x192"
 apple-mobile-web-app-capable: "yes"
 apple-mobile-web-app-status-bar-inset: "black"
 apple-mobile-web-app-status-bar-style: "black-translucent"
-apple-mobile-web-app-title: "Terms and Conditions of Use"
+apple-mobile-web-app-title: "Terms and Conditions of Use | Alien Studio"
 apple-touch-fullscreen: "yes"
 
 # MS Application - The MS Application front matter (YAML).
@@ -84,7 +84,7 @@ msapplication-navbutton-color: "255,255,255"
 twitter_card: "summary"
 twitter_creator: "@AlienStudioArt"
 twitter_description: "By accessing this website, you acknowledge and agree to be bound by these Terms and Conditions of Use and all applicable laws and regulations."
-twitter_image: "https://kura.pro/alienstudio/images/logos/alienstudio.webp"
+twitter_image: "https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg"
 twitter_image_alt: "Logo of Alien Studio: Redefining visual storytelling in the digital age."
 twitter_site: "@AlienStudioArt"
 twitter_title: "Terms and Conditions of Use"
@@ -98,77 +98,40 @@ author_location: "London, UK"
 thanks: "Thanks for reading!"
 site_last_updated: "2024-01-13"
 site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"
-site_components: "Shokunin SSG, Shokunin CLI, Shokunin Templates, Shokunin Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
-site_software: "Shokunin, Rust"
+site_components: "Static Site Generator (SSG), Static Site Generator CLI, Static Site Generator Templates, Static Site Generator Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
+site_software: "Static Site Generator, Rust"
 
 ---
 
-## Agreement to Terms of Use
+## 1. Agreement to Terms
 
-These Terms and Conditions of Use (the "Terms and Conditions of Use") apply to
-the website located at <https://alienstudio.com/> (the "Website").
+These Terms and Conditions of Use constitute a legally binding agreement between you and Alien Studio Photography ("Alien Studio", "we", "us", or "our"). If you do not agree with any part of these terms, you must discontinue use of the website immediately.
 
-BY USING THE SITE, YOU AGREE TO THESE TERMS OF USE; IF YOU DO NOT AGREE, DO NOT
-USE THE SITE.
+## 2. Intellectual Property Rights & Copyright
 
-### Intellectual Property
+All visual works, curated photographic collections (including Savanna, Xǐqìng, Odyssey, Ethereal, Metropolis, Radiance, and Serenity), high-resolution imagery, editorial narratives, website code, and branding assets are the exclusive intellectual property of Alien Studio Photography and are protected under international copyright, trademark, and unfair competition laws.
+- **Personal Non-Commercial Use:** You may view, browse, and share links to our exhibitions for personal, educational, and non-commercial purposes.
+- **Commercial Reproduction Prohibited:** No artwork, photograph, or text may be reproduced, redistributed, sublicensed, sold, or incorporated into commercial products without prior written authorization from Alien Studio.
 
-The Website and its original content, features, and functionality are and will
-remain the exclusive property of Alien Studio. This Website is protected
-by United States and international copyright, trademark, and other laws.
+## 3. Fine Art Acquisitions & Storefront Policies
 
-### Links to Other Sites and to the Alien Studio Site
+Physical fine art prints, archival canvas pieces, and photography books are made available through our verified storefront on Etsy ([AlienStudioShop ⧉](https://www.etsy.com/shop/AlienStudioShop)). Purchases made on Etsy are governed by Etsy's buyer protection standards and our shop's fulfillment policies.
 
-Our Website may contain links to third-party Web sites ("Linked Sites") or
-services that are not owned or controlled by Alien Studio. These Linked
-Sites are provided solely as a convenience to our visitors.
+## 4. Prohibited Conduct
 
-Alien Studio has no control over and assumes no responsibility for the
-content, privacy policies, or practises of any Linked Sites or services. We do
-not warrant the offerings of any of these entities/individuals, their
-websites or services.
+When using Alien Studio, you agree not to:
+- Engage in automated scraping, data extraction, or bulk harvesting of high-resolution images.
+- Attempt to bypass Content Security Policies, Subresource Integrity checks, or network controls.
+- Misrepresent or remove copyright watermarks, artist credits, or metadata notices.
 
-### Limitation of Liability
+## 5. Disclaimer of Warranties & Limitation of Liability
 
-BANKING ON QUANTUM DOES NOT PROMISE THAT THE SITE OR ANY CONTENT, SERVICE OR
-FEATURE OF THE SITE WILL BE ERROR-FREE OR UNINTERRUPTED, OR THAT ANY DEFECTS
-WILL BE CORRECTED, OR THAT YOUR USE OF THE SITE WILL PROVIDE SPECIFIC RESULTS.
-THE SITE AND ITS CONTENT ARE DELIVERED ON AN "AS-IS" AND "AS-AVAILABLE" BASIS.
-ALL INFORMATION PROVIDED ON THE SITE IS SUBJECT TO CHANGE WITHOUT NOTICE.
-BANKING ON QUANTUM CANNOT ENSURE THAT ANY FILES OR OTHER DATA YOU DOWNLOAD FROM
-THE SITE WILL BE FREE OF VIRUSES OR CONTAMINATION OR DESTRUCTIVE FEATURES.
-BANKING ON QUANTUM ANY AND ALL LIABILITY FOR THE ACTS, OMISSIONS AND CONDUCT OF
-ANY THIRD PARTIES IN CONNECTION WITH OR RELATED TO YOUR USE OF THE SITE AND/OR
-ANY BANKING ON QUANTUM SERVICES. IN NO EVENT SHALL BANKING ON QUANTUM, NOR ITS
-DIRECTORS, EMPLOYEES, PARTNERS, AGENTS, SUPPLIERS, OR AFFILIATES, BE LIABLE FOR
-ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES,
-INCLUDING WITHOUT LIMITATION, LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER
-INTANGIBLE LOSSES, RESULTING FROM YOUR ACCESS TO OR USE OF OR INABILITY TO
-ACCESS OR USE THE WEBSITE.
+THE WEBSITE AND ALL CONTENT ARE PROVIDED ON AN "AS-IS" AND "AS-AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. ALIEN STUDIO PHOTOGRAPHY DOES NOT WARRANT THAT ACCESS WILL BE UNINTERRUPTED OR ERROR-FREE. IN NO EVENT SHALL ALIEN STUDIO PHOTOGRAPHY, ITS DIRECTORS, OR ITS AFFILIATES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF YOUR ACCESS TO OR USE OF THE WEBSITE.
 
-## Privacy
+## 6. Governing Law & Jurisdiction
 
-Alien Studio’s [Privacy Policy](/privacy/index.html) applies to use of
-this Site, and its terms are made a part of these Terms of Use by this
-reference. Additionally, by using the Site, you acknowledge and agree that
-Internet transmissions are never completely private or secure. You understand
-that any message or information you send to the Site may be read or intercepted
-by others.
+These Terms of Use shall be governed by and construed in accordance with the laws of England and Wales, without giving effect to any principles of conflicts of law. Any legal disputes arising hereunder shall be subject to the exclusive jurisdiction of the competent courts of London, United Kingdom.
 
-## Governing Law
+## 7. Contact Information
 
-These Terms shall be interpreted and enacted in accordance with the laws of the
-United States, disregarding any conflict of law stipulations.
-
-## Changes
-
-We reserve the right, at our sole discretion, to change, modify, add, or remove
-parts of these Terms of Use, at any time. It is your responsibility to check
-these Terms of Use periodically for changes. By continuing to access or use
-our Website after any revisions become effective, you agree to be bound by the
-revised terms.
-
-## Contact Us
-
-If you have any questions about these Terms, please
-[contact us](/contact/index.html)
+For licensing inquiries, legal questions, or commercial acquisition requests, please contact our team at [contact@alienstudio.com](mailto:contact@alienstudio.com).

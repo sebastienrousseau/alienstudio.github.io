@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://alienstudio.com/made-with-shokunin/index.html/sitemap.xml

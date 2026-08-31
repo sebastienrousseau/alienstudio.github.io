@@ -1,0 +1,20 @@
+# Generated site-level configuration for alienstudio.github.io
+site_name = "Alien Studio"
+site_title = "Alien Studio: Revolutionising Art with AI Photography"
+site_description = "Pioneering the future of photography, where Artificial Intelligence and lens converge to reshape the art world and reality."
+base_url = "https://alienstudio.com"
+language = "en-GB"
+
+content_dir = "_posts"
+template_dir = "_layouts"
+output_dir = "docs"
+
+[agents]
+agents_txt = true
+ai_plugin = true
+
+[agents.mcp]
+enabled = true
+
+[edge_headers]
+targets = ["netlify", "cloudflare", "vercel"]

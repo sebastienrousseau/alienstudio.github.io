@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://alienstudio.com/metropolis/index.html/sitemap.xml
