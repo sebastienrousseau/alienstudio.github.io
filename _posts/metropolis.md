@@ -47,7 +47,6 @@ revisit-after: "7 days"
 robots: "index, follow"
 short_name: "metropolis"
 subtitle: ""
-tags: "Metropolis, Photography, Klein, Diversity, Contrast, Grainy, Modern, Urban, Bold, Artistic"
 theme-color: "33, 184, 205"
 title: "Metropolis: Dynamic Street Photography | Alien Studio"
 url: "https://alienstudio.com/metropolis/index.html"
@@ -125,34 +124,34 @@ At its heart, the collection captures a diverse tapestry of human life, featurin
 
 The Metropolis Collection is not just a photographic series; it's an immersive experience that bridges the gap between the candid simplicity of human moments and the sophisticated realm of high-end photography.
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 ## Spotlight on the Collection
 
 In this special showcase, we present to you a selection of thumbnails from the Metropolis Collection. Each of these thumbnails serves as an entry point to a more expansive narrative, encapsulating the spirit of our varied and impromptu subjects, bathed in the mesmerizing glow of sunset. As you peruse these previews, observe the fine nuances, the dance of light and darkness, and the emotional resonance each photograph imparts. This gallery is more than a mere exhibition; it is a beckoning into the deep, narrative-rich beauty encapsulated in every moment of the Metropolis Collection.
 
-![A Pensive woman, lit by distant lights, lost in thought amidst a city's pulse][01].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Solitary figure in rain, contemplative gaze, warm glow of a passing train][02].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Serene young woman, stark clarity in her eyes, against a blurred urban backdrop][03].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Rain-drenched introspection, a woman's distant gaze mirrors the city's whisper][04].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Man's profile in contemplation, city life a blurred echo behind him][05].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Young woman, sunlight caress, amidst a bustling crowd, a moment's peace][06].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Elegant hat, eyes speak volumes, city lights soften her thoughtful gaze][07].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Youthful beauty, lit by day's end, amidst the urban flow, a silent story][08].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Mature grace, eyes looking forward, wisdom set against the city's rhythm][09].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Youthful stare, city's glow softens, a portrait of quiet urban moments][10].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Direct gaze, city's buzz fades, her presence as striking as the daylight][11].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Woman looking sideways, city life whispers, caught between the light and shadow][12].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![An Elder's wise gaze, city lights blur, a lifetime etched in his eyes][13].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Young woman, city's morning light, a quiet defiance in her eyes][14].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Pensive beauty, city's twilight, her thoughts lost in the crowd][15].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Gentleman's sombre stare, hat sharp, amidst the city's hushed tales][16].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Woman's gaze, city at sunset, a moment's quiet in the chaos][17].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Stylish hat, striking eyes, her allure amidst the city's rhythm][18].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A still presence against the metro's motion][19].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Staring soulfully, amidst city bustle, a portrait of serene youth][20].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
+![A Pensive woman, lit by distant lights, lost in thought amidst a city's pulse][01]
+![A Solitary figure in rain, contemplative gaze, warm glow of a passing train][02]
+![A Serene young woman, stark clarity in her eyes, against a blurred urban backdrop][03]
+![A Rain-drenched introspection, a woman's distant gaze mirrors the city's whisper][04]
+![A Man's profile in contemplation, city life a blurred echo behind him][05]
+![A Young woman, sunlight caress, amidst a bustling crowd, a moment's peace][06]
+![A Elegant hat, eyes speak volumes, city lights soften her thoughtful gaze][07]
+![A Youthful beauty, lit by day's end, amidst the urban flow, a silent story][08]
+![A Mature grace, eyes looking forward, wisdom set against the city's rhythm][09]
+![A Youthful stare, city's glow softens, a portrait of quiet urban moments][10]
+![A Direct gaze, city's buzz fades, her presence as striking as the daylight][11]
+![A Woman looking sideways, city life whispers, caught between the light and shadow][12]
+![An Elder's wise gaze, city lights blur, a lifetime etched in his eyes][13]
+![A Young woman, city's morning light, a quiet defiance in her eyes][14]
+![A Pensive beauty, city's twilight, her thoughts lost in the crowd][15]
+![A Gentleman's sombre stare, hat sharp, amidst the city's hushed tales][16]
+![A Woman's gaze, city at sunset, a moment's quiet in the chaos][17]
+![A Stylish hat, striking eyes, her allure amidst the city's rhythm][18]
+![A still presence against the metro's motion][19]
+![A Staring soulfully, amidst city bustle, a portrait of serene youth][20]
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 [01]: https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-01.webp
 [02]: https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-02.webp

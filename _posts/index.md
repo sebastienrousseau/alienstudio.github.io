@@ -43,7 +43,6 @@ revisit-after: "7 days"
 robots: "index, follow"
 short_name: "alienstudio"
 subtitle: "Pioneering the future of photography, where Artificial Intelligence and lens converge to reshape the art world and reality. Be inspired, be amazed, evolve."
-tags: "AlienStudio, AI, Photography, Art, Technology, Digital, Innovation, Contemporary, Gallery, Storytelling"
 theme-color: "33, 184, 205"
 title: "Alien Studio: Revolutionising Art with AI Photography | Official Gallery"
 url: "https://alienstudio.com/index.html"
@@ -136,9 +135,9 @@ Our story began with a spark – the idea of merging AI and photography to creat
 
 Immerse yourself in a world of extraordinary visual experiences. Discover AI-enhanced art that pushes boundaries, ignites curiosity, and inspires a new wave of artistic exploration.
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-![A magnificent Lion](https://cloudcdn.pro/alienstudio/v1/collections/savanna/04-savanna.webp).class=\"fade-in w-25 m-3 float-end\"
+![A magnificent Lion](https://cloudcdn.pro/alienstudio/v1/collections/savanna/04-savanna.webp)
 
 ### Savanna
 
@@ -146,9 +145,9 @@ Explore Kruger National Park at sunset in high-res photos. Witness stunning wild
 
 [Explore the collection ❯](/savanna/index.html "The Savanna Collection")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-![A child meets a dragon dance mask](https://cloudcdn.pro/alienstudio/v1/collections/xiqing/08-xiqing.webp).class=\"fade-in w-25 m-3 float-start\"
+![A child meets a dragon dance mask](https://cloudcdn.pro/alienstudio/v1/collections/xiqing/08-xiqing.webp)
 
 ### Xǐqìng
 
@@ -158,9 +157,9 @@ Explore Xǐqìng, a photo collection inspired by Lu Shengzhong, capturing Chines
 
 [Visit Alien Studio's Xǐqìng Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Xǐqìng Collection on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-![Marigold merchant's gaze](https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-01.webp).class=\"fade-in w-25 m-3 float-end\"
+![Marigold merchant's gaze](https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-01.webp)
 
 ### Odyssey
 
@@ -170,9 +169,9 @@ Explore the Odyssey Collection, a vivid journey from India to San Francisco, sho
 
 [Visit Alien Studio's Odyssey Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Odyssey Collection on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-![A lone silhouette against a fiery cosmic backdrop](https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-01.webp).class=\"fade-in w-25 m-3 float-start\"
+![A lone silhouette against a fiery cosmic backdrop](https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-01.webp)
 
 ### Ethereal
 
@@ -182,9 +181,9 @@ Explore the Ethereal Collection, where surreal art and photorealism converge, in
 
 [Visit Alien Studio's Ethereal Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Ethereal Collection on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-![Youthful beauty, lit by day's end, amidst the urban flow, a silent story](https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-08.webp).class=\"fade-in w-25 m-3 float-end\"
+![Youthful beauty, lit by day's end, amidst the urban flow, a silent story](https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-08.webp)
 
 ### Metropolis
 
@@ -194,9 +193,9 @@ The Metropolis Collection celebrates a groundbreaking journey into the world of 
 
 [Visit Alien Studio's Metropolis Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Metropolis Collection on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-![Sunset’s muse, a serene glance](https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-08.webp).class=\"fade-in w-25 m-3 float-start\"
+![Sunset’s muse, a serene glance](https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-08.webp)
 
 ### Radiance
 
@@ -206,9 +205,9 @@ The Radiance Collection is a testament to life's ephemeral beauty, inspired by M
 
 [Visit Alien Studio's Radiance Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop?section_id=47064782 "Visit Alien Studio's Radiance Collection on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-![Glistening dawn serenity](https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-01.webp).class=\"fade-in w-25 m-3 float-end\"
+![Glistening dawn serenity](https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-01.webp)
 
 ### Serenity
 
@@ -218,6 +217,6 @@ Serenity is a groundbreaking photo collection that seamlessly blends the artistr
 
 [Visit Alien Studio's Serenity Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Serenity Collection on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 [divider]: https://cloudcdn.pro/common/images/elements/divider.svg "Divider Image"

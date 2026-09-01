@@ -44,7 +44,6 @@ revisit-after: "7 days"
 robots: "index, follow"
 short_name: "alienstudio"
 subtitle: "Learn how to use the Next-Level Static Site Generator"
-tags: "website, builder, SEO, accessibility, Static Site Generator (SSG), easy, fast, secure, reliable, free"
 theme-color: "255, 42, 0"
 title: "Built with Static Site Generator (SSG) | Fast Rust SSG"
 url: "https://alienstudio.com/made-with-ssg/index.html"
@@ -109,7 +108,7 @@ site_software: "Static Site Generator, Rust"
 
 ---
 
-[![Banner][01].class=\"w-50 p-3 me-3 float-end\"][00]
+[![Banner][01]][00]
 
 ## Embrace Static Site Generator (SSG) for Effortless Website Creation
 

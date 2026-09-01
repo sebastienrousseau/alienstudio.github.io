@@ -47,7 +47,6 @@ revisit-after: "7 days"
 robots: "index, follow"
 short_name: "radiance"
 subtitle: ""
-tags: "Radiance, Sunset, Diversity, Spontaneity, Photography, Vibrant, Detailed, Beauty, Natural, Connection"
 theme-color: "253, 106, 19"
 title: "Radiance: Ephemeral Light & Sunset Muse | Alien Studio"
 url: "https://alienstudio.com/radiance/index.html"
@@ -127,34 +126,34 @@ The collection's dynamic composition breathes life into each frame, illustrating
 
 More than a mere assembly of photographs, Radiance is an ode to the magic of unplanned moments, a canvas where the diversity of human experiences shines brightly under the sun's final glow. It's a journey through the fleeting, yet profound instances that define our shared humanity.
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 ## Spotlight on the Collection
 
 In this special showcase, we invite you to explore select thumbnails from the Radiance Collection. Each thumbnail is a gateway to a larger story, a snapshot that captures the essence of our diverse and spontaneous subjects under the enchanting sunset light. As you browse these previews, notice the intricate details, the interplay of light and shadow, and the emotional depth that each image conveys. This gallery is not just a display; it's an invitation to experience the profound beauty and storytelling captured in each moment of the Radiance Collection.
 
-![A Contemplative woman bathed in sunset, a calm amidst a backdrop of vibrant lives][01].class=\"magnifying-icon external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Trailblazer in sunset, hat tipped against the glow of an ending day.][02].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Quiet reflection meets twilight's glow, day's joy etched in light][03].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Confident gaze amidst festive lights; evening's allure captured][04].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Wistful eyes, golden hour's embrace; tranquillity in chaos][05].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Stylish reflection, sunset's dance in shades; urban cool][06].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Shared laughter, familial warmth in sunset's glow; joy abounds][07].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Sunset’s muse, a serene glance][08].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Sunny smile, carefree spirit; the essence of summer][09].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Contemplative peace, nature's audience at dusk; harmony][10].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Quiet contemplation, twilight's companion; introspective pause][11].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Joyous connection, familial bonds in twilight; love shines][12].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Soulful explorer, sunset adventures await; freedom calls][13].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![An Age's wisdom at sunset; eyes that speak of life's tales][14].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Joyful youth against the sunset; laughter in the air][15].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Soulful elder in the field; wisdom glowing at dusk][16].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Serenity in line, vibrant reflections of the day's end][17].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Family's journey in golden light, together into dusk][18].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Contemplative youth in twilight; serenity surrounds][19].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Curious eyes, bathed in sunset; innocence meets the world][20].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
+![A Contemplative woman bathed in sunset, a calm amidst a backdrop of vibrant lives][01]
+![A Trailblazer in sunset, hat tipped against the glow of an ending day.][02]
+![A Quiet reflection meets twilight's glow, day's joy etched in light][03]
+![A Confident gaze amidst festive lights; evening's allure captured][04]
+![A Wistful eyes, golden hour's embrace; tranquillity in chaos][05]
+![A Stylish reflection, sunset's dance in shades; urban cool][06]
+![A Shared laughter, familial warmth in sunset's glow; joy abounds][07]
+![A Sunset’s muse, a serene glance][08]
+![A Sunny smile, carefree spirit; the essence of summer][09]
+![A Contemplative peace, nature's audience at dusk; harmony][10]
+![A Quiet contemplation, twilight's companion; introspective pause][11]
+![A Joyous connection, familial bonds in twilight; love shines][12]
+![A Soulful explorer, sunset adventures await; freedom calls][13]
+![An Age's wisdom at sunset; eyes that speak of life's tales][14]
+![A Joyful youth against the sunset; laughter in the air][15]
+![A Soulful elder in the field; wisdom glowing at dusk][16]
+![A Serenity in line, vibrant reflections of the day's end][17]
+![A Family's journey in golden light, together into dusk][18]
+![A Contemplative youth in twilight; serenity surrounds][19]
+![A Curious eyes, bathed in sunset; innocence meets the world][20]
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 [01]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-01.webp
 [02]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-02.webp

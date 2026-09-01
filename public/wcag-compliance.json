@@ -14,7 +14,7 @@
       "level": "A",
       "title": "Info and Relationships",
       "status": "automated",
-      "all_pages_pass": false
+      "all_pages_pass": true
     },
     {
       "criterion": "1.4.3",

@@ -47,7 +47,6 @@ revisit-after: "7 days"
 robots: "index, follow"
 short_name: "serenity"
 subtitle: ""
-tags: "Serenity, Skorokhod, Photorealism, Still Life, AI, Family, Solitude, Modernism, Perception, Art"
 theme-color: "253, 106, 19"
 title: "Serenity: Contemplative Still Life & Solitude | Alien Studio"
 url: "https://alienstudio.com/serenity/index.html"
@@ -145,34 +144,34 @@ Serenity has resonated with audiences and critics alike, sparking conversations 
 
 Serenity is more than a photo collection; it's a thought-provoking exploration of how AI has transformed our world. It challenges viewers to rethink their perceptions of reality, offering a unique perspective on the past, present, and future of human experience.
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 ## Spotlight on the Collection
 
 In this special showcase, we invite you to explore select thumbnails from the Serenity Collection. Each thumbnail is a gateway to a larger story, a snapshot that captures the essence of our diverse and spontaneous subjects under the enchanting sunset light. As you browse these previews, notice the intricate details, the interplay of light and shadow, and the emotional depth that each image conveys. This gallery is not just a display; it's an invitation to experience the profound beauty and storytelling captured in each moment of the Serenity Collection.
 
-![A Glistening dawn serenity][01].class=\"magnifying-icon external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Butterfly's sunlit perch][02].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Cherry boughs in bloom][03].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Fiery flora in calm][04].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Golden liquid light][05].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Blossom amidst citrus][06].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Berry soft morning glow][07].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Sparkling citrus dance][08].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Earthy pottery in light][09].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Verdant citrus harmony][10].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Spring whispers in blue][11].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Rustic citrus bounty][12].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Berry and blossom glow][13].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Mineral tranquillity][14].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Morning's gentle bloom][15].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Autumnal warmth in jars][16].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Twilight's reflective calm][17].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Dew-kissed fruit tableau][18].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Lush citrus crescendo][19].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Serene orchard glow][20].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
+![A Glistening dawn serenity][01]
+![A Butterfly's sunlit perch][02]
+![A Cherry boughs in bloom][03]
+![A Fiery flora in calm][04]
+![A Golden liquid light][05]
+![A Blossom amidst citrus][06]
+![A Berry soft morning glow][07]
+![A Sparkling citrus dance][08]
+![A Earthy pottery in light][09]
+![A Verdant citrus harmony][10]
+![A Spring whispers in blue][11]
+![A Rustic citrus bounty][12]
+![A Berry and blossom glow][13]
+![A Mineral tranquillity][14]
+![A Morning's gentle bloom][15]
+![A Autumnal warmth in jars][16]
+![A Twilight's reflective calm][17]
+![A Dew-kissed fruit tableau][18]
+![A Lush citrus crescendo][19]
+![A Serene orchard glow][20]
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 [01]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-01.webp
 [02]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-02.webp

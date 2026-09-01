@@ -1,174 +1,84 @@
 [
   {
     "date": "Jan 13, 2024",
-    "description": "Explore Alien Studio's unique AI-enhanced photography collection. Redefining visual expression with a blend of art and technology.",
-    "locale": "en_GB",
-    "tags": [
-      "AI",
-      "Art",
-      "Creative",
-      "Digital",
-      "Gallery",
-      "Innovation",
-      "Online",
-      "Photography",
-      "Technology",
-      "Visual"
-    ],
-    "title": "Alien Studio: AI-Enhanced Art Meets Traditional Photography",
-    "url": "https://alienstudio.com/about/",
-    "wordCount": 1010
-  },
-  {
-    "date": "Jan 13, 2024",
-    "description": "This statement explains the accessibility of our website, what we are doing to address it, and how to contact us about web accessibility.",
-    "locale": "en_GB",
-    "tags": [
-      "accessibility",
-      "ada",
-      "assistive-tech",
-      "color-blindness",
-      "compliance",
-      "design",
-      "inclusivity",
-      "screen-reader",
-      "usability",
-      "ux",
-      "wcag",
-      "web-design"
-    ],
-    "title": "Accessibility Statement",
-    "url": "https://alienstudio.com/accessibility/",
-    "wordCount": 250
-  },
-  {
-    "date": "Jan 13, 2024",
-    "description": "Explore Alien Studio’s Contemporary Collection blending AI, photography, and digital media to redefine art and expression in today's world.",
-    "locale": "en_GB",
-    "tags": [
-      "AI",
-      "Art",
-      "Contemporary",
-      "Digital",
-      "Expression",
-      "Future",
-      "Photography",
-      "Portraits",
-      "Society",
-      "Technology"
-    ],
-    "title": "Contemporary AI Conversations: Art and Technology Fusion",
-    "url": "https://alienstudio.com/collections/",
-    "wordCount": 709
-  },
-  {
-    "date": "Jan 13, 2024",
-    "description": "Help Alien Studio flourish! Share your journey with our collections & website. Your feedback propels us forward. Engage with us and be part of our growth story.",
+    "description": "Learn about Alien Studio's origin, philosophy, and mission to redefine photography through the ethical fusion of AI and traditional camera craftsmanship.",
     "locale": "en_GB",
     "tags": [],
-    "title": "Contact us",
-    "url": "https://alienstudio.com/contact/",
+    "title": "About Alien Studio: Pioneering AI Visual Art & Mission",
+    "url": "http://127.0.0.1:8000/about/",
+    "wordCount": 960
+  },
+  {
+    "date": "Jan 13, 2024",
+    "description": "Alien Studio's commitment to digital inclusion, WCAG 2.1 Level AAA compliance, high-contrast typography, and accessible web experiences for all visitors.",
+    "locale": "en_GB",
+    "tags": [],
+    "title": "Accessibility Statement | Alien Studio",
+    "url": "http://127.0.0.1:8000/accessibility/",
+    "wordCount": 285
+  },
+  {
+    "date": "Jan 13, 2024",
+    "description": "Explore 7 curated AI photography collections: Savanna, Xǐqìng, Odyssey, Ethereal, Metropolis, Radiance, and Serenity. High-res fine art and exhibition prints.",
+    "locale": "en_GB",
+    "tags": [],
+    "title": "Contemporary AI Photography Collections | Alien Studio Gallery",
+    "url": "http://127.0.0.1:8000/collections/",
+    "wordCount": 677
+  },
+  {
+    "date": "Jan 13, 2024",
+    "description": "Get in touch with Alien Studio for gallery exhibition inquiries, fine art print acquisitions, commercial licensing, and custom commissions.",
+    "locale": "en_GB",
+    "tags": [],
+    "title": "Contact Alien Studio: Art Acquisitions & Inquiries",
+    "url": "http://127.0.0.1:8000/contact/",
     "wordCount": 133
   },
   {
     "date": "Jan 13, 2024",
-    "description": "Explore the Ethereal Collection, where surreal art and photorealism converge, inspired by Odilon Redon's dream-like worlds.",
+    "description": "A 35-photograph exhibition where surrealism and photorealism meet, inspired by Odilon Redon's dream-like worlds and cosmic light.",
     "locale": "en_GB",
-    "tags": [
-      "8K",
-      "Abstract",
-      "Artistic",
-      "Color",
-      "Dream",
-      "Ethereal",
-      "Mystical",
-      "Photorealism",
-      "Redon",
-      "Surreal"
-    ],
-    "title": "The Ethereal Collection: Surreal Art Meets Photorealism",
-    "url": "https://alienstudio.com/ethereal/",
-    "wordCount": 979
+    "tags": [],
+    "title": "Ethereal: Surreal Dreamscapes & Photorealism | Alien Studio",
+    "url": "http://127.0.0.1:8000/ethereal/",
+    "wordCount": 823
   },
   {
     "date": "Mar 04, 2024",
-    "description": "Explore Alien Studio's pioneering role in blending AI technology with photography to redefine the art world. Discover groundbreaking AI-enhanced art.",
+    "description": "Explore Alien Studio's pioneering AI photography gallery. Discover 7 fine art collections blending machine learning with master photographic techniques.",
     "locale": "en_GB",
-    "tags": [
-      "AI",
-      "AlienStudio",
-      "Art",
-      "Contemporary",
-      "Digital",
-      "Gallery",
-      "Innovation",
-      "Photography",
-      "Storytelling",
-      "Technology"
-    ],
-    "title": "Alien Studio: Revolutionising Art with AI Photography",
-    "url": "https://alienstudio.com/index.html",
-    "wordCount": 736
+    "tags": [],
+    "title": "Alien Studio: Revolutionising Art with AI Photography | Official Gallery",
+    "url": "http://127.0.0.1:8000/index.html",
+    "wordCount": 699
   },
   {
     "date": "Jan 13, 2024",
-    "description": "The Static Site Generator (SSG) is a lightning-fast tool for Search Engine Optimisation (SEO) and compliance to Accessibility Standards.",
+    "description": "Alien Studio is proudly built with Static Site Generator (SSG)—a lightning-fast Rust-based static site generator engineered for zero tracking, WCAG AAA compliance, and SEO.",
     "locale": "en_GB",
-    "tags": [
-      "SEO",
-      "Static Site Generator (SSG)",
-      "accessibility",
-      "builder",
-      "easy",
-      "fast",
-      "free",
-      "reliable",
-      "secure",
-      "website"
-    ],
-    "title": "Website created with Static Site Generator (SSG)",
-    "url": "https://alienstudio.com/made-with-ssg/",
-    "wordCount": 129
+    "tags": [],
+    "title": "Built with Static Site Generator (SSG) | Fast Rust SSG",
+    "url": "http://127.0.0.1:8000/made-with-ssg/",
+    "wordCount": 126
   },
   {
     "date": "Jan 13, 2024",
-    "description": "Discover Metropolis: A tribute to W. Klein's style, blending bold, grainy street scenes with diverse human stories. A modern twist on classic photography.",
+    "description": "A 38-photograph series exploring dynamic urban motion and street culture, inspired by the high-contrast aesthetic of William Klein.",
     "locale": "en_GB",
-    "tags": [
-      "Artistic",
-      "Bold",
-      "Contrast",
-      "Diversity",
-      "Grainy",
-      "Klein",
-      "Metropolis",
-      "Modern",
-      "Photography",
-      "Urban"
-    ],
-    "title": "Metropolis: Vivid Human Narratives in Street Photography",
-    "url": "https://alienstudio.com/metropolis/",
-    "wordCount": 680
+    "tags": [],
+    "title": "Metropolis: Dynamic Street Photography | Alien Studio",
+    "url": "http://127.0.0.1:8000/metropolis/",
+    "wordCount": 556
   },
   {
     "date": "Jan 13, 2024",
-    "description": "Explore the Odyssey Collection, a vivid journey from India to San Francisco, showcasing the diverse tapestry of global culture and daily life.",
+    "description": "A 36-photograph global journey from the vibrant streets of India to the golden horizons of San Francisco. Candid street culture and daily life.",
     "locale": "en_GB",
-    "tags": [
-      "Culture",
-      "Diversity",
-      "Exploration",
-      "Journey",
-      "McCurry",
-      "Narratives",
-      "Odyssey",
-      "Photography",
-      "Portraits",
-      "Urban"
-    ],
-    "title": "Odyssey Collection: A Global Mosaic of Cultures and Stories",
-    "url": "https://alienstudio.com/odyssey/",
-    "wordCount": 906
+    "tags": [],
+    "title": "Odyssey: Global Photographic Journey from India to SF | Alien Studio",
+    "url": "http://127.0.0.1:8000/odyssey/",
+    "wordCount": 755
   },
   {
     "date": "Jan 13, 2024",
@@ -176,163 +86,79 @@
     "locale": "en_GB",
     "tags": [],
     "title": "No Internet Connection detected. Please try again later.",
-    "url": "https://alienstudio.com/offline/",
+    "url": "http://127.0.0.1:8000/offline/",
     "wordCount": 48
   },
   {
     "date": "Jan 13, 2024",
-    "description": "This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Website",
+    "description": "Learn how Alien Studio protects your privacy with zero tracking cookies, encrypted HTTPS connections, and strict data protection practices.",
     "locale": "en_GB",
-    "tags": [
-      "Google Analytics",
-      "Microsoft Clarity",
-      "clicks",
-      "contact",
-      "mouse movements",
-      "personal data",
-      "privacy",
-      "rights",
-      "scrolls",
-      "tracking tools",
-      "user behaviour analytics"
-    ],
-    "title": "Alien Studio Privacy: How We Use Your Data",
-    "url": "https://alienstudio.com/privacy/",
-    "wordCount": 290
+    "tags": [],
+    "title": "Privacy Policy | Alien Studio",
+    "url": "http://127.0.0.1:8000/privacy/",
+    "wordCount": 295
   },
   {
     "date": "Jan 13, 2024",
-    "description": "Explore the Radiance Collection - diverse, spontaneous sunset moments captured in vibrant, detailed photos. A tribute to life's fleeting beauty.",
+    "description": "A 30-photograph study of ephemeral golden hour light and sunset portraits, inspired by Mike Monaghan's ethereal color mastery.",
     "locale": "en_GB",
-    "tags": [
-      "Beauty",
-      "Connection",
-      "Detailed",
-      "Diversity",
-      "Natural",
-      "Photography",
-      "Radiance",
-      "Spontaneity",
-      "Sunset",
-      "Vibrant"
-    ],
-    "title": "Radiance Series: Capturing Diversity & Spontaneity at Sunset",
-    "url": "https://alienstudio.com/radiance/",
-    "wordCount": 664
+    "tags": [],
+    "title": "Radiance: Ephemeral Light & Sunset Muse | Alien Studio",
+    "url": "http://127.0.0.1:8000/radiance/",
+    "wordCount": 539
   },
   {
     "date": "Mar 04, 2024",
-    "description": "Explore Kruger National Park at sunset in high-res photos. Witness stunning wildlife and landscapes in a visual journey.",
+    "description": "A 44-photograph journey through Kruger National Park at sunset. Experience wildlife, golden hour lighting, and savanna landscapes in ultra-high resolution.",
     "locale": "en_GB",
-    "tags": [
-      "DSLR",
-      "Kruger",
-      "Landscape",
-      "Lenses",
-      "Nature",
-      "Photography",
-      "Savanna",
-      "Sunset",
-      "Techniques",
-      "Wildlife"
-    ],
-    "title": "Savanna Sunset: A Photographic Journey Through Kruger Park",
-    "url": "https://alienstudio.com/savanna/",
-    "wordCount": 1284
+    "tags": [],
+    "title": "Savanna Sunset: Kruger National Park AI Photography | Alien Studio",
+    "url": "http://127.0.0.1:8000/savanna/",
+    "wordCount": 1038
   },
   {
     "date": "Jan 13, 2024",
-    "description": "Explore Serenity: Inspired by Tatiana Skorokhod, a photo set with gravity-defying objects in still lifes, echoing family life and solitude in an AI era.",
+    "description": "A 30-photograph fine art collection blending Tatiana Skorokhod's contemplative still life with themes of solitude, perception, and quiet beauty.",
     "locale": "en_GB",
-    "tags": [
-      "AI",
-      "Art",
-      "Family",
-      "Modernism",
-      "Perception",
-      "Photorealism",
-      "Serenity",
-      "Skorokhod",
-      "Solitude",
-      "Still Life"
-    ],
-    "title": "Serenity: A Journey into AI-Inspired Realistic Still Life",
-    "url": "https://alienstudio.com/serenity/",
-    "wordCount": 711
+    "tags": [],
+    "title": "Serenity: Contemplative Still Life & Solitude | Alien Studio",
+    "url": "http://127.0.0.1:8000/serenity/",
+    "wordCount": 586
   },
   {
     "date": "Jan 13, 2024",
     "description": "Delve deeper into this website by exploring topics and tags, and get to the subjects that matter most to you.",
     "locale": "en_GB",
-    "tags": [
-      "delve deeper",
-      "explore by tag",
-      "explore topics",
-      "get to the subjects",
-      "matter most",
-      "website",
-      "website content",
-      "website navigation",
-      "website search",
-      "website tags",
-      "website topics"
-    ],
+    "tags": [],
     "title": "Explore by Tags",
-    "url": "https://alienstudio.com/tags/",
+    "url": "http://127.0.0.1:8000/tags/",
     "wordCount": 1
   },
   {
     "date": "Jan 13, 2024",
-    "description": "By accessing this website, you acknowledge and agree to be bound by these Terms and Conditions of Use and all applicable laws and regulations.",
+    "description": "Terms and conditions of use for Alien Studio. Review licensing, intellectual property rights, and fine art reproduction policies.",
     "locale": "en_GB",
-    "tags": [
-      "agreement",
-      "copyright",
-      "intellectual property",
-      "liability",
-      "limitation",
-      "links",
-      "privacy",
-      "terms",
-      "trademark",
-      "use",
-      "website"
-    ],
-    "title": "Terms and Conditions of Use",
-    "url": "https://alienstudio.com/terms/",
-    "wordCount": 518
+    "tags": [],
+    "title": "Terms and Conditions of Use | Alien Studio",
+    "url": "http://127.0.0.1:8000/terms/",
+    "wordCount": 389
   },
   {
     "date": "Jan 13, 2024",
     "description": "We just received your message and appreciate your interest and query. We are working on your request and will get in touch as soon as possible.",
     "locale": "en_GB",
-    "tags": [
-      "contact",
-      "help",
-      "support"
-    ],
+    "tags": [],
     "title": "Thank you for contacting Alien Studio. We will be in touch shortly.",
-    "url": "https://alienstudio.com/thanks/",
+    "url": "http://127.0.0.1:8000/thanks/",
     "wordCount": 38
   },
   {
     "date": "Mar 04, 2024",
-    "description": "Explore Xǐqìng, a photo collection inspired by Lu Shengzhong, capturing Chinese New Year's spirit through paper-cut dragons and cultural narratives.",
+    "description": "A 40-photograph celebration of Chinese New Year inspired by paper-cut master Lu Shengzhong. Vibrant dragons, cultural heritage, and festive visual stories.",
     "locale": "en_GB",
-    "tags": [
-      "Art",
-      "Bokeh",
-      "Contemporary",
-      "Culture",
-      "Dragon",
-      "Lu-Shengzhong",
-      "Paper-Cutting",
-      "Photography",
-      "Tradition",
-      "Xǐqìng"
-    ],
-    "title": "Xǐqìng Exhibition: A Modern Tribute to Chinese Paper Art",
-    "url": "https://alienstudio.com/xiqing/",
-    "wordCount": 1097
+    "tags": [],
+    "title": "Xǐqìng: Chinese New Year Visual Narratives | Alien Studio",
+    "url": "http://127.0.0.1:8000/xiqing/",
+    "wordCount": 921
   }
 ]

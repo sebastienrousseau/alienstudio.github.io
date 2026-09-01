@@ -47,7 +47,6 @@ revisit-after: "7 days"
 robots: "index, follow"
 short_name: "ethereal"
 subtitle: ""
-tags: "Ethereal, Surreal, Photorealism, Redon, Abstract, 8K, Artistic, Color, Dream, Mystical"
 theme-color: "253, 106, 19"
 title: "Ethereal: Surreal Dreamscapes & Photorealism | Alien Studio"
 url: "https://alienstudio.com/ethereal/index.html"
@@ -143,40 +142,40 @@ Each viewer's encounter with the Ethereal Collection is unique, shaped by person
 
 The Ethereal Collection stands as a testament to the evolving landscape of contemporary art, where the surreal meets the real in a sublime dance of light, color, and imagination. It challenges viewers to rethink the boundaries of artistic expression and to embrace the limitless potential of the imagination.
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 ## Spotlight on the Collection
 
 In this exclusive showcase, we present a curated selection of thumbnails from the Ethereal Collection, each serving as a portal to a larger, more profound narrative. These snapshots encapsulate the quintessence of our varied and enigmatic subjects, all bathed in the mystical glow of twilight. As you peruse these previews, immerse yourself in the meticulous details, the harmonious dance of light and shadow, and the deep emotional resonance each image imparts. This gallery transcends mere exhibition; it extends a heartfelt invitation to delve into the captivating beauty and rich storytelling imbued in every captured moment of the Ethereal Collection.
 
-![A lone silhouette against a fiery cosmic backdrop][01].class=\"magnifying-icon external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![An Ethereal clouds glow with golden light][02].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A serene face amidst luminous flora][03].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Solitude on a reflective, misty waterline][04].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A tranquil profile in a golden haze][05].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Sunlit abstract forms in a colourful haze][06].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Dual profiles against a vibrant orb][07].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A silhouette before a misty, golden sun][08].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A cosmic dance of vibrant hues][09].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A lone boatman in a fiery mist][10].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A tranquil face in pastel brushstrokes][11].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Figure amidst a vibrant, dreamy scape][12].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Lone silhouette under an archaic arch][13].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Peaceful repose in warm, textured hues][14].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Cliffs and moon in surreal harmony][15].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A solitary figure against glowing light][16].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Floral explosion in an underwater realm][17].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![An Enraptured face amidst cloudlike forms][18].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Serene countenance in a misty haze][19].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Contemplative face with textured overlay][20].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Silhouette gazing into a luminous mist][21].class=\"magnifying-icon external fade-in zoom-in w-25 p-3 float-start\"
-![A Face adorned with petals in shadow][22].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![A Celestial clouds in a cosmic explosion][23].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![A Golden profile with a dreamy backdrop][24].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![A Resting face with vibrant color splashes][25].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![A serene face emerges from a swirl of fiery colors][26].class=\"external fade-in zoom-in w-25 p-3 float-start\"
+![A lone silhouette against a fiery cosmic backdrop][01]
+![An Ethereal clouds glow with golden light][02]
+![A serene face amidst luminous flora][03]
+![Solitude on a reflective, misty waterline][04]
+![A tranquil profile in a golden haze][05]
+![A Sunlit abstract forms in a colourful haze][06]
+![A Dual profiles against a vibrant orb][07]
+![A silhouette before a misty, golden sun][08]
+![A cosmic dance of vibrant hues][09]
+![A lone boatman in a fiery mist][10]
+![A tranquil face in pastel brushstrokes][11]
+![A Figure amidst a vibrant, dreamy scape][12]
+![A Lone silhouette under an archaic arch][13]
+![A Peaceful repose in warm, textured hues][14]
+![A Cliffs and moon in surreal harmony][15]
+![A solitary figure against glowing light][16]
+![A Floral explosion in an underwater realm][17]
+![An Enraptured face amidst cloudlike forms][18]
+![A Serene countenance in a misty haze][19]
+![A Contemplative face with textured overlay][20]
+![A Silhouette gazing into a luminous mist][21]
+![A Face adorned with petals in shadow][22]
+![A Celestial clouds in a cosmic explosion][23]
+![A Golden profile with a dreamy backdrop][24]
+![A Resting face with vibrant color splashes][25]
+![A serene face emerges from a swirl of fiery colors][26]
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 [01]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-01.webp
 [02]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-02.webp
