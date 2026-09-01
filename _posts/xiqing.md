@@ -47,7 +47,6 @@ revisit-after: "7 days"
 robots: "index, follow"
 short_name: "xǐqìng"
 subtitle: ""
-tags: "Xǐqìng, Paper-Cutting, Lu-Shengzhong, Dragon, Photography, Culture, Bokeh, Tradition, Contemporary, Art"
 theme-color: "255, 91, 132"
 title: "Xǐqìng: Chinese New Year Visual Narratives | Alien Studio"
 url: "https://alienstudio.com/xiqing/index.html"
@@ -147,44 +146,44 @@ Xǐqìng stands out for its unique blend of tradition and modernity. The exhibit
 
 The Xǐqìng exhibition is more than just a display of artistic talent; it's a bridge connecting the past to the present, traditional art to contemporary interpretation. Through its vivid portrayal of Chinese New Year and the symbolism of the dragon, Xǐqìng invites viewers to explore the depths of Chinese culture. It stands as a testament to the enduring relevance of traditional art forms in modern artistic expression.
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 ## Spotlight on the Collection
 
 In this special showcase, we invite you to explore select thumbnails from the Xǐqìng Collection. Each thumbnail thumbnail serves as an entry point into a more expansive narrative, a condensed representation that encapsulates the spirit of your varied and dynamic subjects, illuminated by the captivating glow of dusk. As you peruse these previews, observe the meticulous craftsmanship, the dynamic contrast between illumination and obscurity, and the poignant expressiveness each image embodies. This gallery is not just a display; it's an invitation to experience the profound beauty and storytelling captured in each moment of the Xǐqìng Collection.
 
-![A child marvels at a glowing dragon sculpture][01].class=\"magnifying-icon external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![An ornate dragon twists among clouds][02].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A paper dragon is cradled in hands][03].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A vibrant blooms surround a serpentine dragon creature][04].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A woman contemplates a delicate dragon wheel][05].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A vibrant dragon amid blooms][06].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A girl with a dragon statue][07].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A child meets a dragon dance mask][08].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Dragon figurines on display][09].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A boy smiles with dragon lanterns][10].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A close-up of a detailed dragon sculpture][11].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A smiling girl in traditional attire][12].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Woman with ornate dragon headpiece][13].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Detailed dragon sculpture on display][14].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Close-up of woman with dragon mask][15].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Giant dragon mural in vivid hues][16].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Smiling child at a festive table][17].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Blue dragon head against warm lights][18].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Woman in floral attire at festival][19].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Fierce dragon sculpture in fiery tones][20].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A child with red dragon headdress][21].class=\"magnifying-icon external fade-in zoom-in w-25 p-3 float-start\"
-![A Young girl in dragon costume][22].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![A Blue dragon statue among lights][23].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![A Child playing with a dragon toy][24].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![An Artist with colorful dragon figures][25].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Children enjoying dragon dance][26].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![A dragon on blooming backdrop][27].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![A Boy in awe of dragon parade][28].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![An Elder with traditional food spread][29].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![A Family in festival attire with food][30].class=\"external fade-in zoom-in w-25 p-3 float-start\"
+![A child marvels at a glowing dragon sculpture][01]
+![An ornate dragon twists among clouds][02]
+![A paper dragon is cradled in hands][03]
+![A vibrant blooms surround a serpentine dragon creature][04]
+![A woman contemplates a delicate dragon wheel][05]
+![A vibrant dragon amid blooms][06]
+![A girl with a dragon statue][07]
+![A child meets a dragon dance mask][08]
+![Dragon figurines on display][09]
+![A boy smiles with dragon lanterns][10]
+![A close-up of a detailed dragon sculpture][11]
+![A smiling girl in traditional attire][12]
+![Woman with ornate dragon headpiece][13]
+![Detailed dragon sculpture on display][14]
+![Close-up of woman with dragon mask][15]
+![Giant dragon mural in vivid hues][16]
+![Smiling child at a festive table][17]
+![Blue dragon head against warm lights][18]
+![Woman in floral attire at festival][19]
+![Fierce dragon sculpture in fiery tones][20]
+![A child with red dragon headdress][21]
+![A Young girl in dragon costume][22]
+![A Blue dragon statue among lights][23]
+![A Child playing with a dragon toy][24]
+![An Artist with colorful dragon figures][25]
+![Children enjoying dragon dance][26]
+![A dragon on blooming backdrop][27]
+![A Boy in awe of dragon parade][28]
+![An Elder with traditional food spread][29]
+![A Family in festival attire with food][30]
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 [01]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/01-xiqing.webp
 [02]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/02-xiqing.webp

@@ -47,7 +47,6 @@ revisit-after: "7 days"
 robots: "index, follow"
 short_name: "odyssey"
 subtitle: ""
-tags: "Odyssey, Diversity, Culture, Photography, McCurry, Exploration, Urban, Journey, Portraits, Narratives"
 theme-color: "253, 106, 19"
 title: "Odyssey: Global Photographic Journey from India to SF | Alien Studio"
 url: "https://alienstudio.com/odyssey/index.html"
@@ -143,39 +142,39 @@ The collection offers fresh perspectives on familiar vistas, challenging viewers
 
 The Odyssey Collection is a remarkable photographic journey that captures the essence of our global diversity. It is an homage to the beauty of our world, the complexity of our societies, and the unique stories of individuals. This collection not only entertains but also educates, offering insights into the lives and cultures of people from around the globe.
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 ## Spotlight on the Odyssey Collection
 
 In this special segment, we unveil a handpicked selection of images from the Odyssey Collection, each acting as a window to a broader, more intricate narrative. These photographs embody the very essence of the diverse and vibrant cultures they represent, illuminated by the natural light of their environments. As you explore these visual introductions, engage with the subtle interplay of colours, the intricate textures, and the profound emotional depth each image conveys. This gallery is more than just a display; it's an open invitation to embark on a journey through the mesmerising beauty and profound storytelling inherent in every moment captured by the Odyssey Collection.
 
-![A Marigold merchant's gaze][01].class=\"magnifying-icon external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![An Urban chic in transit][02].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Hues of tradition sweep][03].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Wisdom's timeless gaze][04].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Metropolitan reflections][05].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Vibrant wisdom peruses][06].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Market tales in smiles][07].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A City soul in contemplation][08].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Turquoise tranquillity waits][09].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Streetwise vibrancy rests][10].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Youthful gaze, vibrant hope][11].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Mystery in golden drapes][12].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Resolute gaze amidst blooms][13].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Contemplation on a rainy day][14].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Colourful solitude, urban brightness][15].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![An Autumn gaze in a bustling market][16].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![An Elder’s quiet reflection on a city tram][17].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Youthful serenity against vibrant textures][18].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Sage’s vibrant presence by the bay][19].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Resilience amidst the monsoon's challenge][20].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![A Youthful serenity, golden radiance][21].class=\"magnifying-icon external fade-in zoom-in w-25 p-3 float-start\"
-![An Hopeful eyes in the rain-soaked street][22].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![A Rainy introspection, windowed soul][23].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![A Wisdom's gaze by colourful walls][24].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Innocence peering through rustic blue][25].class=\"external fade-in zoom-in w-25 p-3 float-start\"
+![A Marigold merchant's gaze][01]
+![An Urban chic in transit][02]
+![A Hues of tradition sweep][03]
+![Wisdom's timeless gaze][04]
+![A Metropolitan reflections][05]
+![A Vibrant wisdom peruses][06]
+![A Market tales in smiles][07]
+![A City soul in contemplation][08]
+![A Turquoise tranquillity waits][09]
+![A Streetwise vibrancy rests][10]
+![A Youthful gaze, vibrant hope][11]
+![A Mystery in golden drapes][12]
+![A Resolute gaze amidst blooms][13]
+![A Contemplation on a rainy day][14]
+![A Colourful solitude, urban brightness][15]
+![An Autumn gaze in a bustling market][16]
+![An Elder’s quiet reflection on a city tram][17]
+![A Youthful serenity against vibrant textures][18]
+![A Sage’s vibrant presence by the bay][19]
+![A Resilience amidst the monsoon's challenge][20]
+![A Youthful serenity, golden radiance][21]
+![An Hopeful eyes in the rain-soaked street][22]
+![A Rainy introspection, windowed soul][23]
+![A Wisdom's gaze by colourful walls][24]
+![Innocence peering through rustic blue][25]
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 [01]: https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-01.webp
 [02]: https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-02.webp

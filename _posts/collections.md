@@ -42,7 +42,6 @@ revisit-after: "7 days"
 robots: "index, follow"
 short_name: "radiance"
 subtitle: ""
-tags: "Art, AI, Digital, Photography, Contemporary, Technology, Expression, Society, Portraits, Future"
 theme-color: "105, 162, 128"
 title: "Contemporary AI Photography Collections | Alien Studio Gallery"
 url: "https://alienstudio.com/collections/index.html"
@@ -114,7 +113,7 @@ site_software: "Static Site Generator, Rust"
 
 Alien Studio's Contemporary Collection stands at the forefront of a new era in art, where the boundaries between technology and traditional artistic expression are not just blurred but wholly reimagined. This collection is a testament to how artificial intelligence, photography, and digital media are not just tools but active participants in the creative process, pushing the genre into uncharted territories.
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 ## The Fusion of Art and Technology
 
@@ -140,7 +139,7 @@ As we stand at the crossroads of an evolving artistic landscape, Alien Studio’
 
 Immerse yourself in a world of extraordinary visual experiences. Discover AI-enhanced art that pushes boundaries, ignites curiosity, and inspires a new wave of artistic exploration.
 
-!["A Vision in Golden Light"](https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-01.webp).class=\"fade-in w-25 m-3 float-start\"
+!["A Vision in Golden Light"](https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-01.webp)
 
 ### Ethereal
 
@@ -150,9 +149,9 @@ Explore the Ethereal Collection, where surreal art and photorealism converge, in
 
 [Visit Alien Studio's Ethereal Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Ethereal Collection on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-!["A Youthful beauty, lit by day’s end, amidst the urban flow, a silent story"](https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-08.webp).class=\"fade-in w-25 m-3 float-end\"
+!["A Youthful beauty, lit by day’s end, amidst the urban flow, a silent story"](https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-08.webp)
 
 ### Metropolis
 
@@ -162,9 +161,9 @@ The Metropolis Collection celebrates a groundbreaking journey into the world of 
 
 [Visit Alien Studio's Metropolis Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Metropolis Collection on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-!["A Vision in Golden Light"](https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-08.webp).class=\"fade-in w-25 m-3 float-start\"
+!["A Vision in Golden Light"](https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-08.webp)
 
 ### Radiance
 
@@ -174,17 +173,17 @@ The Radiance Collection is a testament to life's ephemeral beauty, inspired by M
 
 [Visit Alien Studio's Radiance Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop?section_id=47064782 "Visit Alien Studio's Radiance Collection on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-!["Staring lion in golden grass"](https://cloudcdn.pro/alienstudio/v1/collections/savanna/04-savanna.webp).class=\"fade-in w-25 m-3 float-end\"
+!["Staring lion in golden grass"](https://cloudcdn.pro/alienstudio/v1/collections/savanna/04-savanna.webp)
 
 ### Savanna
 
 Explore Kruger National Park at sunset in high-res photos. Witness stunning wildlife and landscapes in a visual journey.
 
-[Explore the collection ❯](/savanna/index.html "The Savanna Collection")<hr class="my-5" />.class=\"m-10 w-100\"
+[Explore the collection ❯](/savanna/index.html "The Savanna Collection")<hr class="my-5">
 
-!["A Glistening dawn serenity"](https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-01.webp).class=\"fade-in w-25 m-3 float-start\"
+!["A Glistening dawn serenity"](https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-01.webp)
 
 ### Serenity
 
@@ -194,9 +193,9 @@ Serenity is a groundbreaking photo collection that seamlessly blends the artistr
 
 [Visit Alien Studio's Serenity Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Serenity Collection on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-!["A Vision in Golden Light"](https://cloudcdn.pro/alienstudio/v1/collections/xiqing/08-xiqing.webp).class=\"fade-in w-25 m-3 float-end\"
+!["A Vision in Golden Light"](https://cloudcdn.pro/alienstudio/v1/collections/xiqing/08-xiqing.webp)
 
 ### Xǐqìng
 
@@ -206,6 +205,6 @@ The Xǐqìng Collection is a a photo collection inspired by Lu Shengzhong, captu
 
 [Visit Alien Studio's Xǐqìng Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Xǐqìng Collection on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 [divider]: https://cloudcdn.pro/common/images/elements/divider.svg "Divider Image"

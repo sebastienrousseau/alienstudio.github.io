@@ -214,23 +214,7 @@
       });
     }
 
-    // 5. Photo Lightbox Modal Engine with Left/Right Arrows & Keyboard Nav
-    var galleryPhotos = [];
-    var currentPhotoIndex = -1;
-
-    function refreshGalleryPhotos() {
-      var imgElements = document.querySelectorAll('.photo-gallery-grid img, .photo-grid img, .gallery-grid img, .photo-card img, .gallery-card img');
-      galleryPhotos = [];
-      imgElements.forEach(function(img) {
-        if (img.src && !img.closest('.navbar') && !img.closest('footer') && !img.classList.contains('hero-banner-img') && !img.classList.contains('navbar-brand')) {
-          galleryPhotos.push({
-            src: img.src,
-            alt: img.alt || 'Photograph'
-          });
-        }
-      });
-    }
-
+            // 5. Photo Lightbox Modal Engine
     var lightboxModal = document.getElementById('photoLightboxModal');
     if (!lightboxModal) {
       lightboxModal = document.createElement('div');
@@ -243,56 +227,23 @@
         '<div class="photo-lightbox-content">' +
         '  <div class="photo-lightbox-media-wrap">' +
         '    <button type="button" class="photo-lightbox-close" aria-label="Close photo preview">✕</button>' +
-        '    <button type="button" class="photo-lightbox-nav photo-lightbox-prev" aria-label="Previous photograph">' +
-        '      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>' +
-        '    </button>' +
-        '    <button type="button" class="photo-lightbox-nav photo-lightbox-next" aria-label="Next photograph">' +
-        '      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>' +
-        '    </button>' +
         '    <img src="" alt="" class="photo-lightbox-img" id="lightboxImg" />' +
         '  </div>' +
-        '  <div class="photo-lightbox-footer">' +
-        '    <div class="photo-lightbox-caption" id="lightboxCaption"></div>' +
-        '    <div class="photo-lightbox-counter" id="lightboxCounter"></div>' +
-        '  </div>' +
+        '  <div class="photo-lightbox-caption" id="lightboxCaption"></div>' +
         '</div>';
       document.body.appendChild(lightboxModal);
     }
 
     var lightboxImg = document.getElementById('lightboxImg');
     var lightboxCaption = document.getElementById('lightboxCaption');
-    var lightboxCounter = document.getElementById('lightboxCounter');
     var lightboxClose = lightboxModal.querySelector('.photo-lightbox-close');
-    var lightboxPrev = lightboxModal.querySelector('.photo-lightbox-prev');
-    var lightboxNext = lightboxModal.querySelector('.photo-lightbox-next');
     var lightboxBackdrop = lightboxModal.querySelector('.photo-lightbox-backdrop');
 
-    function showPhotoAtIndex(idx) {
-      if (!galleryPhotos.length) return;
-      if (idx < 0) idx = galleryPhotos.length - 1;
-      if (idx >= galleryPhotos.length) idx = 0;
-      currentPhotoIndex = idx;
-      var item = galleryPhotos[idx];
-      if (lightboxImg) {
-        lightboxImg.src = item.src;
-        lightboxImg.alt = item.alt;
-      }
-      if (lightboxCaption) {
-        lightboxCaption.textContent = item.alt;
-      }
-      if (lightboxCounter) {
-        lightboxCounter.textContent = (idx + 1) + ' / ' + galleryPhotos.length;
-      }
-    }
-
     function openLightbox(src, alt) {
-      refreshGalleryPhotos();
-      var foundIdx = galleryPhotos.findIndex(function(p) { return p.src === src; });
-      if (foundIdx === -1) {
-        galleryPhotos.push({ src: src, alt: alt || 'Photograph' });
-        foundIdx = galleryPhotos.length - 1;
-      }
-      showPhotoAtIndex(foundIdx);
+      if (!lightboxImg) return;
+      lightboxImg.src = src;
+      lightboxImg.alt = alt || 'Photo Preview';
+      if (lightboxCaption) lightboxCaption.textContent = alt || '';
       lightboxModal.classList.add('active');
       document.body.style.overflow = 'hidden';
     }
@@ -304,43 +255,26 @@
       document.body.style.overflow = '';
     }
 
-    function prevPhoto(e) {
-      if (e) e.stopPropagation();
-      showPhotoAtIndex(currentPhotoIndex - 1);
-    }
-
-    function nextPhoto(e) {
-      if (e) e.stopPropagation();
-      showPhotoAtIndex(currentPhotoIndex + 1);
-    }
-
     if (lightboxClose) lightboxClose.addEventListener('click', closeLightbox);
     if (lightboxBackdrop) lightboxBackdrop.addEventListener('click', closeLightbox);
-    if (lightboxPrev) lightboxPrev.addEventListener('click', prevPhoto);
-    if (lightboxNext) lightboxNext.addEventListener('click', nextPhoto);
 
     document.addEventListener('keydown', function(e) {
-      if (!lightboxModal || !lightboxModal.classList.contains('active')) return;
-      if (e.key === 'Escape') {
+      if (e.key === 'Escape' && lightboxModal && lightboxModal.classList.contains('active')) {
         closeLightbox();
-      } else if (e.key === 'ArrowLeft') {
-        prevPhoto();
-      } else if (e.key === 'ArrowRight') {
-        nextPhoto();
       }
     });
 
     document.addEventListener('click', function(e) {
-      var photoTarget = e.target.closest('.photo-card, .photo-img-wrapper, .gallery-card, .gallery-img-wrapper, .photo-gallery-item, figure');
+      var photoTarget = e.target.closest('.photo-card, .photo-img-wrapper, .gallery-card, .gallery-img-wrapper, figure');
       if (photoTarget) {
         var img = photoTarget.querySelector('img');
-        if (img && img.src && !img.classList.contains('hero-banner-img')) {
+        if (img && img.src) {
           e.preventDefault();
           openLightbox(img.src, img.alt);
         }
       }
     });
-  }
+    }
 
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initApp);

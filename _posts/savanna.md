@@ -47,7 +47,6 @@ revisit-after: "7 days"
 robots: "index, follow"
 short_name: "savanna"
 subtitle: ""
-tags: "Kruger, Photography, Sunset, Wildlife, Savanna, DSLR, Lenses, Landscape, Techniques, Nature"
 theme-color: "255, 112, 0"
 title: "Savanna Sunset: Kruger National Park AI Photography | Alien Studio"
 url: "https://alienstudio.com/savanna/index.html"
@@ -145,58 +144,58 @@ The rule of thirds is a fundamental composition technique used throughout the ex
 
 The **Savanna** exhibition at Kruger National Park is a masterclass in photography, showcasing not only the technical skills required to capture stunning sunset scenes but also the artistic eye needed to tell a compelling story through images. It is a celebration of nature, a testament to the power of photography, and an invitation to see the world in a different light.
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 ## Spotlight on the Collection
 
 In this unique exhibition, we present to you a curated selection of thumbnails from the **Savanna** collection. Each thumbnail acts as a gateway into a broader story, a distilled essence that captures the vibrant and diverse life within Kruger National Park, all under the enchanting light of sunset. As you navigate through these previews, take note of the exquisite detail, the striking balance between light and shadow, and the profound depth of emotion each photograph conveys. This gallery is more than a mere presentation; it is an open invitation to immerse yourself in the rich narratives and breathtaking beauty encapsulated in every frame of the **Savanna** collection.
 
-![Golden sunrise behind tree][01].class=\"magnifying-icon external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Sunset with two silhouette trees][02].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Lion's face close-up at dusk][03].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Staring lion in golden grass][04].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Three flying vultures in light][05].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Herd of elephants at sunset][06].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Deer in golden sunlight][07].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Eagle soaring with spread wings][08].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Tree backlight by sunset in savanna][09].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Lioness portrait in sunset light][10].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Zebra facing camera at sunset][11].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Sunset over savanna with hut][12].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Lush savanna with towering mountain][13].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Misty sunrise with tree silhouette][14].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Lone tree in orange sunrise][15].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Path leading to mountain at sunset][16].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Sunset and tree with mountain backdrop][17].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Elephants in misty golden savanna][18].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Misty dawn in savanna with tree][19].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Tree silhouette with foggy sunrise and antelope][20].class=\"external copyright-label fade-in zoom-in w-25 p-3 float-start\"
-![Cheetah in golden savanna sunset][21].class=\"magnifying-icon external fade-in zoom-in w-25 p-3 float-start\"
-![Sunburst over savanna landscape][22].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Lion in golden light of sunset][23].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Lion cub among golden grasses][24].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Giraffe on path at golden sunset][25].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Elephant wading in sunset reflection][26].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Woman in hat during golden hour][27].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Majestic lion in sunset savanna][28].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Sunrays through tree in misty dawn][29].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Silhouette tree at vibrant sunset][30].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Tree at sunrise in savanna][31].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Mountain silhouette at dusk][32].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Tiger on road at sunset][33].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Stag by water at golden hour][34].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Lone tree with mountain backdrop][35].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Sleeping lion amid flowers][36].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Tree silhouette against sunset][37].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Lion gazes at sunset savanna][38].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Lion sleeps in orange flowers][39].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![River flows by a green mountain][40].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Lioness stands in golden grass][41].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Sunrise over misty savanna][42].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Lone tree at savanna sunset][43].class=\"external fade-in zoom-in w-25 p-3 float-start\"
-![Two elephants at sunrise][44].class=\"external fade-in zoom-in w-25 p-3 float-start\"
+![Golden sunrise behind tree][01]
+![Sunset with two silhouette trees][02]
+![Lion's face close-up at dusk][03]
+![Staring lion in golden grass][04]
+![Three flying vultures in light][05]
+![Herd of elephants at sunset][06]
+![Deer in golden sunlight][07]
+![Eagle soaring with spread wings][08]
+![Tree backlight by sunset in savanna][09]
+![Lioness portrait in sunset light][10]
+![Zebra facing camera at sunset][11]
+![Sunset over savanna with hut][12]
+![Lush savanna with towering mountain][13]
+![Misty sunrise with tree silhouette][14]
+![Lone tree in orange sunrise][15]
+![Path leading to mountain at sunset][16]
+![Sunset and tree with mountain backdrop][17]
+![Elephants in misty golden savanna][18]
+![Misty dawn in savanna with tree][19]
+![Tree silhouette with foggy sunrise and antelope][20]
+![Cheetah in golden savanna sunset][21]
+![Sunburst over savanna landscape][22]
+![Lion in golden light of sunset][23]
+![Lion cub among golden grasses][24]
+![Giraffe on path at golden sunset][25]
+![Elephant wading in sunset reflection][26]
+![Woman in hat during golden hour][27]
+![Majestic lion in sunset savanna][28]
+![Sunrays through tree in misty dawn][29]
+![Silhouette tree at vibrant sunset][30]
+![Tree at sunrise in savanna][31]
+![Mountain silhouette at dusk][32]
+![Tiger on road at sunset][33]
+![Stag by water at golden hour][34]
+![Lone tree with mountain backdrop][35]
+![Sleeping lion amid flowers][36]
+![Tree silhouette against sunset][37]
+![Lion gazes at sunset savanna][38]
+![Lion sleeps in orange flowers][39]
+![River flows by a green mountain][40]
+![Lioness stands in golden grass][41]
+![Sunrise over misty savanna][42]
+![Lone tree at savanna sunset][43]
+![Two elephants at sunrise][44]
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 [01]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/01-savanna.webp
 [02]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/02-savanna.webp

@@ -1,5 +1,5 @@
-# Alien Studio
+# MySsgSite
 
-> Pioneering the future of photography, where Artificial Intelligence and lens converge to reshape the art world and reality.
+> A site built with SSG
 
 Language: en-GB

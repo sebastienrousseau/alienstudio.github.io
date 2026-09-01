@@ -41,7 +41,6 @@ revisit-after: "7 days"
 robots: "index, follow"
 short_name: "alienstudio"
 subtitle: "An innovative online photographic gallery blending AI with traditional photography to create unique visual experiences."
-tags: "AI, Photography, Art, Innovation, Gallery, Visual, Digital, Creative, Online, Technology"
 theme-color: "253, 106, 19"
 title: "About Alien Studio: Pioneering AI Visual Art & Mission"
 url: "https://alienstudio.com/about/index.html"
@@ -130,9 +129,9 @@ Alien Studio stands as a beacon of innovation in the world of photography. Our a
 
 Immerse yourself in a world of extraordinary visual experiences. Discover AI-enhanced art that pushes boundaries, ignites curiosity, and inspires a new wave of artistic exploration.
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-![A Marigold merchant’s gaze](https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
+![A Marigold merchant’s gaze](https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-01.webp)
 
 ### Odyssey
 
@@ -142,9 +141,9 @@ Explore the Odyssey Collection, a vivid journey from India to San Francisco, sho
 
 [Visit Alien Studio's Odyssey Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Odyssey Collection on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-![A lone silhouette against a fiery cosmic backdrop](https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
+![A lone silhouette against a fiery cosmic backdrop](https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-01.webp)
 
 ### Ethereal
 
@@ -154,9 +153,9 @@ Explore the Ethereal Collection, where surreal art and photorealism converge, in
 
 [Visit Alien Studio's Ethereal Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Ethereal Collection on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-![A Youthful beauty, lit by day’s end, amidst the urban flow, a silent story](https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-08.webp).class=\"fade-in w-25 m-3 float-start rounded-circle\"
+![A Youthful beauty, lit by day’s end, amidst the urban flow, a silent story](https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-08.webp)
 
 ### Metropolis
 
@@ -166,9 +165,9 @@ The Metropolis Collection celebrates a groundbreaking journey into the world of 
 
 [Visit Alien Studio Shop on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio Shop on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-![A Sunset’s muse, a serene glance](https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-08.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
+![A Sunset’s muse, a serene glance](https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-08.webp)
 
 ### Radiance
 
@@ -178,9 +177,9 @@ The Radiance Collection is a testament to life's ephemeral beauty, inspired by M
 
 [Visit Alien Studio Shop on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio Shop on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-![Staring lion in golden grass](https://cloudcdn.pro/alienstudio/v1/collections/savanna/04-savanna.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
+![Staring lion in golden grass](https://cloudcdn.pro/alienstudio/v1/collections/savanna/04-savanna.webp)
 
 ### Savanna
 
@@ -190,9 +189,9 @@ Explore Kruger National Park at sunset in high-res photos. Witness stunning wild
 
 [Visit Alien Studio Shop on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio Shop on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-![A Glistening dawn serenity](https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-01.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
+![A Glistening dawn serenity](https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-01.webp)
 
 ### Serenity
 
@@ -202,9 +201,9 @@ Serenity is a groundbreaking photo collection that seamlessly blends the artistr
 
 [Visit Alien Studio Shop on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio Shop on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
-![A child meets a dragon dance mask](https://cloudcdn.pro/alienstudio/v1/collections/xiqing/08-xiqing.webp).class=\"fade-in w-25 m-3 float-start rounded-circle rounded\"
+![A child meets a dragon dance mask](https://cloudcdn.pro/alienstudio/v1/collections/xiqing/08-xiqing.webp)
 
 ### Xǐqìng
 
@@ -214,7 +213,7 @@ The Xǐqìng Collection is a a photo collection inspired by Lu Shengzhong, captu
 
 [Visit Alien Studio's Xǐqìng Collection on Etsy ❯](https://www.etsy.com/shop/AlienStudioShop "Visit Alien Studio's Xǐqìng Collection on Etsy")
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 ## Workshops and Collaborations
 
@@ -232,7 +231,7 @@ We invite you to explore our collections and be a part of this revolutionary mov
 
 We invite you to [connect with us][00] to learn more about our work or explore potential collaborations.
 
-<hr class="my-5" />.class=\"m-10 w-100\"
+<hr class="my-5">
 
 [00]: /contact/index.html "Contact Us"
 [divider]: https://cloudcdn.pro/common/images/elements/divider.svg "Divider Image"

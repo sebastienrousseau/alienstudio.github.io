@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://alienstudio.com/about/index.html/sitemap.xml
+Sitemap: https://alienstudio.com/about/sitemap.xml

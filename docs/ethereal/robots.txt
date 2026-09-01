@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://alienstudio.com/ethereal/index.html/sitemap.xml
+Sitemap: https://alienstudio.com/ethereal/sitemap.xml

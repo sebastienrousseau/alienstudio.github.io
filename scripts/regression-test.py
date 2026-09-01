@@ -100,10 +100,8 @@ def run_regression_test(repo_path, cdn_manifest_path=None):
             errors.append(f"{rel_fpath}: Missing Content-Security-Policy meta tag")
         else:
             csp_val = csp_match.group(1)
-            if "style-src" in csp_val and "'unsafe-inline'" not in csp_val:
-                errors.append(f"{rel_fpath}: CSP style-src missing 'unsafe-inline'")
-            if "script-src" in csp_val and "'unsafe-inline'" not in csp_val:
-                errors.append(f"{rel_fpath}: CSP script-src missing 'unsafe-inline'")
+            if "default-src" not in csp_val or "style-src" not in csp_val or "script-src" not in csp_val:
+                errors.append(f"{rel_fpath}: CSP missing required directives")
 
         # B. Check for HTML leaks in <head> meta descriptions
         head_match = re.search(r'<head>(.*?)</head>', content, re.DOTALL | re.IGNORECASE)
@@ -155,7 +153,8 @@ def run_regression_test(repo_path, cdn_manifest_path=None):
 
         for src in src_re.findall(content):
             if src.startswith("/") and not src.startswith("//"):
-                target = src.lstrip("/")
+                parsed_src = urlparse(src)
+                target = parsed_src.path.lstrip("/")
                 target_file = os.path.join(docs_dir, target)
                 if not os.path.exists(target_file):
                     errors.append(f"{rel_fpath}: Local asset 404 -> {src}")
