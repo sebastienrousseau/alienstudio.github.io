@@ -8,6 +8,7 @@ banner_height: "100vh"
 banner_width: "100vw"
 banner_url: ""
 banner: "https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-08.webp"
+banner_local: "/images/serenity-768.webp"
 cdn: "https://cloudcdn.pro"
 changefreq: "weekly"
 charset: "utf-8"
@@ -150,27 +151,26 @@ Serenity is more than a photo collection; it's a thought-provoking exploration o
 
 In this special showcase, we invite you to explore select thumbnails from the Serenity Collection. Each thumbnail is a gateway to a larger story, a snapshot that captures the essence of our diverse and spontaneous subjects under the enchanting sunset light. As you browse these previews, notice the intricate details, the interplay of light and shadow, and the emotional depth that each image conveys. This gallery is not just a display; it's an invitation to experience the profound beauty and storytelling captured in each moment of the Serenity Collection.
 
-![A Glistening dawn serenity][01]
-![A Butterfly's sunlit perch][02]
-![A Cherry boughs in bloom][03]
-![A Fiery flora in calm][04]
-![A Golden liquid light][05]
-![A Blossom amidst citrus][06]
-![A Berry soft morning glow][07]
-![A Sparkling citrus dance][08]
-![A Earthy pottery in light][09]
-![A Verdant citrus harmony][10]
-![A Spring whispers in blue][11]
-![A Rustic citrus bounty][12]
-![A Berry and blossom glow][13]
-![A Mineral tranquillity][14]
-![A Morning's gentle bloom][15]
-![A Autumnal warmth in jars][16]
-![A Twilight's reflective calm][17]
-![A Dew-kissed fruit tableau][18]
-![A Lush citrus crescendo][19]
-![A Serene orchard glow][20]
-
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="1"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-01.webp" alt="A Glistening dawn serenity" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="2"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-02.webp" alt="A Butterfly's sunlit perch" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="3"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-03.webp" alt="A Cherry boughs in bloom" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="4"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-04.webp" alt="A Fiery flora in calm" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="5"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-05.webp" alt="A Golden liquid light" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="6"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-06.webp" alt="A Blossom amidst citrus" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="7"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-07.webp" alt="A Berry soft morning glow" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="8"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-08.webp" alt="A Sparkling citrus dance" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="9"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-09.webp" alt="A Earthy pottery in light" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="10"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-10.webp" alt="A Verdant citrus harmony" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="11"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-11.webp" alt="A Spring whispers in blue" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="12"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-12.webp" alt="A Rustic citrus bounty" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="13"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-13.webp" alt="A Berry and blossom glow" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="14"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-14.webp" alt="A Mineral tranquillity" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="15"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-15.webp" alt="A Morning's gentle bloom" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="16"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-16.webp" alt="A Autumnal warmth in jars" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="17"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-17.webp" alt="A Twilight's reflective calm" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="18"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-18.webp" alt="A Dew-kissed fruit tableau" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="19"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-19.webp" alt="A Lush citrus crescendo" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="20"><img src="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-20.webp" alt="A Serene orchard glow" width="1200" height="900" loading="lazy" decoding="async"></button></p>
 <hr class="my-5">
 
 [01]: https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-01.webp

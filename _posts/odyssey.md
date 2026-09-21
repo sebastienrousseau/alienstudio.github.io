@@ -8,6 +8,7 @@ banner_height: "100vh"
 banner_width: "100vw"
 banner_url: ""
 banner: "https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-01.webp"
+banner_local: "/images/odyssey-768.webp"
 cdn: "https://cloudcdn.pro"
 changefreq: "weekly"
 charset: "utf-8"
@@ -148,32 +149,31 @@ The Odyssey Collection is a remarkable photographic journey that captures the es
 
 In this special segment, we unveil a handpicked selection of images from the Odyssey Collection, each acting as a window to a broader, more intricate narrative. These photographs embody the very essence of the diverse and vibrant cultures they represent, illuminated by the natural light of their environments. As you explore these visual introductions, engage with the subtle interplay of colours, the intricate textures, and the profound emotional depth each image conveys. This gallery is more than just a display; it's an open invitation to embark on a journey through the mesmerising beauty and profound storytelling inherent in every moment captured by the Odyssey Collection.
 
-![A Marigold merchant's gaze][01]
-![An Urban chic in transit][02]
-![A Hues of tradition sweep][03]
-![Wisdom's timeless gaze][04]
-![A Metropolitan reflections][05]
-![A Vibrant wisdom peruses][06]
-![A Market tales in smiles][07]
-![A City soul in contemplation][08]
-![A Turquoise tranquillity waits][09]
-![A Streetwise vibrancy rests][10]
-![A Youthful gaze, vibrant hope][11]
-![A Mystery in golden drapes][12]
-![A Resolute gaze amidst blooms][13]
-![A Contemplation on a rainy day][14]
-![A Colourful solitude, urban brightness][15]
-![An Autumn gaze in a bustling market][16]
-![An Elder’s quiet reflection on a city tram][17]
-![A Youthful serenity against vibrant textures][18]
-![A Sage’s vibrant presence by the bay][19]
-![A Resilience amidst the monsoon's challenge][20]
-![A Youthful serenity, golden radiance][21]
-![An Hopeful eyes in the rain-soaked street][22]
-![A Rainy introspection, windowed soul][23]
-![A Wisdom's gaze by colourful walls][24]
-![Innocence peering through rustic blue][25]
-
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="1"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-01.webp" alt="A Marigold merchant's gaze" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="2"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-02.webp" alt="An Urban chic in transit" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="3"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-03.webp" alt="A Hues of tradition sweep" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="4"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-04.webp" alt="Wisdom's timeless gaze" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="5"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-05.webp" alt="A Metropolitan reflections" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="6"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-06.webp" alt="A Vibrant wisdom peruses" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="7"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-07.webp" alt="A Market tales in smiles" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="8"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-08.webp" alt="A City soul in contemplation" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="9"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-09.webp" alt="A Turquoise tranquillity waits" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="10"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-10.webp" alt="A Streetwise vibrancy rests" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="11"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-11.webp" alt="A Youthful gaze, vibrant hope" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="12"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-12.webp" alt="A Mystery in golden drapes" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="13"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-13.webp" alt="A Resolute gaze amidst blooms" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="14"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-14.webp" alt="A Contemplation on a rainy day" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="15"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-15.webp" alt="A Colourful solitude, urban brightness" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="16"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-16.webp" alt="An Autumn gaze in a bustling market" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="17"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-17.webp" alt="An Elder’s quiet reflection on a city tram" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="18"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-18.webp" alt="A Youthful serenity against vibrant textures" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="19"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-19.webp" alt="A Sage’s vibrant presence by the bay" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="20"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-20.webp" alt="A Resilience amidst the monsoon's challenge" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="21"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-21.webp" alt="A Youthful serenity, golden radiance" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="22"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-22.webp" alt="An Hopeful eyes in the rain-soaked street" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="23"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-23.webp" alt="A Rainy introspection, windowed soul" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="24"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-24.webp" alt="A Wisdom's gaze by colourful walls" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="25"><img src="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-25.webp" alt="Innocence peering through rustic blue" width="1200" height="900" loading="lazy" decoding="async"></button></p>
 <hr class="my-5">
 
 [01]: https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-01.webp

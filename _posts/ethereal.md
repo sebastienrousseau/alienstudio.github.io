@@ -8,6 +8,7 @@ banner_height: "100vh"
 banner_width: "100vw"
 banner_url: ""
 banner: "https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-01.webp"
+banner_local: "/images/ethereal-768.webp"
 cdn: "https://cloudcdn.pro"
 changefreq: "weekly"
 charset: "utf-8"
@@ -148,33 +149,32 @@ The Ethereal Collection stands as a testament to the evolving landscape of conte
 
 In this exclusive showcase, we present a curated selection of thumbnails from the Ethereal Collection, each serving as a portal to a larger, more profound narrative. These snapshots encapsulate the quintessence of our varied and enigmatic subjects, all bathed in the mystical glow of twilight. As you peruse these previews, immerse yourself in the meticulous details, the harmonious dance of light and shadow, and the deep emotional resonance each image imparts. This gallery transcends mere exhibition; it extends a heartfelt invitation to delve into the captivating beauty and rich storytelling imbued in every captured moment of the Ethereal Collection.
 
-![A lone silhouette against a fiery cosmic backdrop][01]
-![An Ethereal clouds glow with golden light][02]
-![A serene face amidst luminous flora][03]
-![Solitude on a reflective, misty waterline][04]
-![A tranquil profile in a golden haze][05]
-![A Sunlit abstract forms in a colourful haze][06]
-![A Dual profiles against a vibrant orb][07]
-![A silhouette before a misty, golden sun][08]
-![A cosmic dance of vibrant hues][09]
-![A lone boatman in a fiery mist][10]
-![A tranquil face in pastel brushstrokes][11]
-![A Figure amidst a vibrant, dreamy scape][12]
-![A Lone silhouette under an archaic arch][13]
-![A Peaceful repose in warm, textured hues][14]
-![A Cliffs and moon in surreal harmony][15]
-![A solitary figure against glowing light][16]
-![A Floral explosion in an underwater realm][17]
-![An Enraptured face amidst cloudlike forms][18]
-![A Serene countenance in a misty haze][19]
-![A Contemplative face with textured overlay][20]
-![A Silhouette gazing into a luminous mist][21]
-![A Face adorned with petals in shadow][22]
-![A Celestial clouds in a cosmic explosion][23]
-![A Golden profile with a dreamy backdrop][24]
-![A Resting face with vibrant color splashes][25]
-![A serene face emerges from a swirl of fiery colors][26]
-
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="1"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-01.webp" alt="A lone silhouette against a fiery cosmic backdrop" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="2"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-02.webp" alt="An Ethereal clouds glow with golden light" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="3"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-03.webp" alt="A serene face amidst luminous flora" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="4"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-04.webp" alt="Solitude on a reflective, misty waterline" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="5"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-05.webp" alt="A tranquil profile in a golden haze" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="6"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-06.webp" alt="A Sunlit abstract forms in a colourful haze" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="7"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-07.webp" alt="A Dual profiles against a vibrant orb" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="8"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-08.webp" alt="A silhouette before a misty, golden sun" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="9"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-09.webp" alt="A cosmic dance of vibrant hues" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="10"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-10.webp" alt="A lone boatman in a fiery mist" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="11"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-11.webp" alt="A tranquil face in pastel brushstrokes" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="12"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-12.webp" alt="A Figure amidst a vibrant, dreamy scape" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="13"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-13.webp" alt="A Lone silhouette under an archaic arch" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="14"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-14.webp" alt="A Peaceful repose in warm, textured hues" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="15"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-15.webp" alt="A Cliffs and moon in surreal harmony" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="16"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-16.webp" alt="A solitary figure against glowing light" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="17"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-17.webp" alt="A Floral explosion in an underwater realm" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="18"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-18.webp" alt="An Enraptured face amidst cloudlike forms" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="19"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-19.webp" alt="A Serene countenance in a misty haze" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="20"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-20.webp" alt="A Contemplative face with textured overlay" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="21"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-21.webp" alt="A Silhouette gazing into a luminous mist" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="22"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-22.webp" alt="A Face adorned with petals in shadow" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="23"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-23.webp" alt="A Celestial clouds in a cosmic explosion" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="24"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-24.webp" alt="A Golden profile with a dreamy backdrop" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="25"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-25.webp" alt="A Resting face with vibrant color splashes" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="26"><img src="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-26.webp" alt="A serene face emerges from a swirl of fiery colors" width="1200" height="900" loading="lazy" decoding="async"></button></p>
 <hr class="my-5">
 
 [01]: https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-01.webp

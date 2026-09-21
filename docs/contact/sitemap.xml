@@ -5,4 +5,117 @@
         xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-    </urlset>
+    <?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//offline/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//accessibility/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//collections/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//404/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//thanks/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//made-with-ssg/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//radiance/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//savanna/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//serenity/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//xiqing/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//tags/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//about/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//odyssey/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//terms/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//ethereal/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//metropolis/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//privacy/index.html</loc>
+</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact//contact/index.html</loc>
+</url></urlset>

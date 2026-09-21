@@ -15,16 +15,15 @@ help:
 	@echo "  make clean      - Remove build artifacts and temporary files"
 
 build:
-	@rm -rf public docs/tags
-	@if [ -x "/Users/seb/Code/Public/Rust/static-site-generator/target/release/ssg" ]; then \
-		/Users/seb/Code/Public/Rust/static-site-generator/target/release/ssg build --content _posts --template _layouts --output public; \
-	elif command -v ssg >/dev/null 2>&1; then \
-		ssg build --content _posts --template _layouts --output public; \
+	@if command -v ssg >/dev/null 2>&1; then \
+		ssg build -f ssg.toml; \
+	elif [ -x "/Users/seb/Code/Public/Rust/static-site-generator/target/release/ssg" ]; then \
+		/Users/seb/Code/Public/Rust/static-site-generator/target/release/ssg build -f ssg.toml; \
 	elif [ -x "$$HOME/.cargo/bin/ssg" ]; then \
-		"$$HOME/.cargo/bin/ssg" build --content _posts --template _layouts --output public; \
+		"$$HOME/.cargo/bin/ssg" build -f ssg.toml; \
+	else \
+		echo "SSG is not installed locally" >&2; exit 1; \
 	fi
-	@cp -R public/* docs/ 2>/dev/null || true
-	@/usr/bin/python3 scripts/post-build.py 2>/dev/null || true
 
 audit: contrast validate
 	@if pa11y-ci --version >/dev/null 2>&1; then \
@@ -39,7 +38,7 @@ validate:
 	@/usr/bin/python3 scripts/validate-frontmatter.py
 
 compress:
-	@bash scripts/compress-assets.sh public
+	@bash scripts/compress-assets.sh docs
 
 prune:
 	@bash scripts/prune-branches.sh origin

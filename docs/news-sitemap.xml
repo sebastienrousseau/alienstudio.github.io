@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-  <loc>http://127.0.0.1:8000/404/</loc>
+  <loc>https://alienstudio.com/404/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -14,7 +14,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/about/</loc>
+  <loc>https://alienstudio.com/about/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -26,7 +26,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/accessibility/</loc>
+  <loc>https://alienstudio.com/accessibility/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -38,7 +38,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/collections/</loc>
+  <loc>https://alienstudio.com/collections/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -50,7 +50,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/contact/</loc>
+  <loc>https://alienstudio.com/contact/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -62,7 +62,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/ethereal/</loc>
+  <loc>https://alienstudio.com/ethereal/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -74,7 +74,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/made-with-ssg/</loc>
+  <loc>https://alienstudio.com/made-with-ssg/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -86,7 +86,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/metropolis/</loc>
+  <loc>https://alienstudio.com/metropolis/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -98,7 +98,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/odyssey/</loc>
+  <loc>https://alienstudio.com/odyssey/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -110,7 +110,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/offline/</loc>
+  <loc>https://alienstudio.com/offline/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -122,7 +122,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/privacy/</loc>
+  <loc>https://alienstudio.com/privacy/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -134,7 +134,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/radiance/</loc>
+  <loc>https://alienstudio.com/radiance/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -146,7 +146,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/savanna/</loc>
+  <loc>https://alienstudio.com/savanna/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -158,7 +158,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/serenity/</loc>
+  <loc>https://alienstudio.com/serenity/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -170,7 +170,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/tags/</loc>
+  <loc>https://alienstudio.com/tags/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -182,7 +182,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/terms/</loc>
+  <loc>https://alienstudio.com/terms/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -194,7 +194,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/thanks/</loc>
+  <loc>https://alienstudio.com/thanks/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>
@@ -206,7 +206,7 @@
   </news:news>
 </url>
 <url>
-  <loc>http://127.0.0.1:8000/xiqing/</loc>
+  <loc>https://alienstudio.com/xiqing/</loc>
   <news:news>
     <news:publication>
       <news:name>The Alien Studio Team</news:name>

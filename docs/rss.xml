@@ -4,15 +4,15 @@
     <title>Alien Studio: Revolutionising Art with AI Photography | Official Gallery</title>
     <link>https://alienstudio.com/</link>
     <description>Explore Alien Studio&#x27;s pioneering AI photography gallery. Discover 7 fine art collections blending machine learning with master photographic techniques.</description>
-    <atom:link href="http://127.0.0.1:8000/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://alienstudio.com/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <lastBuildDate>Mon, 04 Mar 2024 06:06:06 +0100</lastBuildDate>
     <copyright>© 2024 - 2026 Alien Studio Photography. All rights reserved.</copyright>
     <item>
       <title>Savanna Sunset: Kruger National Park AI Photography | Alien Studio</title>
-      <link>http://127.0.0.1:8000/savanna/</link>
+      <link>https://alienstudio.com/savanna/</link>
       <description>A 44-photograph journey through Kruger National Park at sunset. Experience wildlife, golden hour lighting, and savanna landscapes in ultra-high resolution.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/savanna/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/savanna/</guid>
       <pubDate>Mon, 04 Mar 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/alienstudio/v1/collections/savanna/04-savanna.webp" type="image/webp" length="0"/>
@@ -20,9 +20,9 @@
     </item>
     <item>
       <title>Xǐqìng: Chinese New Year Visual Narratives | Alien Studio</title>
-      <link>http://127.0.0.1:8000/xiqing/</link>
+      <link>https://alienstudio.com/xiqing/</link>
       <description>A 40-photograph celebration of Chinese New Year inspired by paper-cut master Lu Shengzhong. Vibrant dragons, cultural heritage, and festive visual stories.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/xiqing/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/xiqing/</guid>
       <pubDate>Mon, 04 Mar 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/08-xiqing.webp" type="image/webp" length="0"/>
@@ -30,9 +30,9 @@
     </item>
     <item>
       <title>404 Not Found: I couldn't find the page you were looking for</title>
-      <link>http://127.0.0.1:8000/404/</link>
+      <link>https://alienstudio.com/404/</link>
       <description>It looks like the web page you are attempting to access has either been removed, renamed, or is currently unavailable.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/404/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/404/</guid>
       <pubDate>Sat, 13 Jan 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-16.webp" type="image/webp" length="0"/>
@@ -40,9 +40,9 @@
     </item>
     <item>
       <title>About Alien Studio: Pioneering AI Visual Art & Mission</title>
-      <link>http://127.0.0.1:8000/about/</link>
+      <link>https://alienstudio.com/about/</link>
       <description>Learn about Alien Studio&apos;s origin, philosophy, and mission to redefine photography through the ethical fusion of AI and traditional camera craftsmanship.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/about/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/about/</guid>
       <pubDate>Sat, 13 Jan 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-18.webp" type="image/webp" length="0"/>
@@ -50,9 +50,9 @@
     </item>
     <item>
       <title>Accessibility Statement | Alien Studio</title>
-      <link>http://127.0.0.1:8000/accessibility/</link>
+      <link>https://alienstudio.com/accessibility/</link>
       <description>Alien Studio&apos;s commitment to digital inclusion, WCAG 2.1 Level AAA compliance, high-contrast typography, and accessible web experiences for all visitors.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/accessibility/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/accessibility/</guid>
       <pubDate>Sat, 13 Jan 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-09.webp" type="image/webp" length="0"/>
@@ -60,19 +60,19 @@
     </item>
     <item>
       <title>Built with Static Site Generator (SSG) | Fast Rust SSG</title>
-      <link>http://127.0.0.1:8000/made-with-ssg/</link>
+      <link>https://alienstudio.com/made-with-ssg/</link>
       <description>Alien Studio is proudly built with Static Site Generator (SSG)—a lightning-fast Rust-based static site generator engineered for zero tracking, WCAG AAA compliance, and SEO.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/made-with-ssg/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/made-with-ssg/</guid>
       <pubDate>Sat, 13 Jan 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
-      <enclosure url="http://127.0.0.1:8000/" type="image/jpeg" length="0"/>
+      <enclosure url="https://alienstudio.com/" type="image/jpeg" length="0"/>
       <category>Software, Static Site Generator, Rust</category>
     </item>
     <item>
       <title>Contact Alien Studio: Art Acquisitions & Inquiries</title>
-      <link>http://127.0.0.1:8000/contact/</link>
+      <link>https://alienstudio.com/contact/</link>
       <description>Get in touch with Alien Studio for gallery exhibition inquiries, fine art print acquisitions, commercial licensing, and custom commissions.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/contact/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/contact/</guid>
       <pubDate>Sat, 13 Jan 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/stocks/images/robert-haverly-_kmr5wKVW7E.webp" type="image/webp" length="0"/>
@@ -80,9 +80,9 @@
     </item>
     <item>
       <title>Contemporary AI Photography Collections | Alien Studio Gallery</title>
-      <link>http://127.0.0.1:8000/collections/</link>
+      <link>https://alienstudio.com/collections/</link>
       <description>Explore 7 curated AI photography collections: Savanna, Xǐqìng, Odyssey, Ethereal, Metropolis, Radiance, and Serenity. High-res fine art and exhibition prints.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/collections/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/collections/</guid>
       <pubDate>Sat, 13 Jan 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/stocks/images/timon-studler-ABGaVhJxwDQ.webp" type="image/webp" length="0"/>
@@ -90,9 +90,9 @@
     </item>
     <item>
       <title>Ethereal: Surreal Dreamscapes & Photorealism | Alien Studio</title>
-      <link>http://127.0.0.1:8000/ethereal/</link>
+      <link>https://alienstudio.com/ethereal/</link>
       <description>A 35-photograph exhibition where surrealism and photorealism meet, inspired by Odilon Redon&apos;s dream-like worlds and cosmic light.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/ethereal/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/ethereal/</guid>
       <pubDate>Sat, 13 Jan 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/alienstudio/v1/collections/ethereal/ethereal-01.webp" type="image/webp" length="0"/>
@@ -100,9 +100,9 @@
     </item>
     <item>
       <title>Explore by Tags</title>
-      <link>http://127.0.0.1:8000/tags/</link>
+      <link>https://alienstudio.com/tags/</link>
       <description>Delve deeper into this website by exploring topics and tags, and get to the subjects that matter most to you.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/tags/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/tags/</guid>
       <pubDate>Sat, 13 Jan 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/stocks/images/daniele-franchi-Vl6YuVBLEys.webp" type="image/webp" length="0"/>
@@ -110,9 +110,9 @@
     </item>
     <item>
       <title>Metropolis: Dynamic Street Photography | Alien Studio</title>
-      <link>http://127.0.0.1:8000/metropolis/</link>
+      <link>https://alienstudio.com/metropolis/</link>
       <description>A 38-photograph series exploring dynamic urban motion and street culture, inspired by the high-contrast aesthetic of William Klein.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/metropolis/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/metropolis/</guid>
       <pubDate>Sat, 13 Jan 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-08.webp" type="image/webp" length="0"/>
@@ -120,9 +120,9 @@
     </item>
     <item>
       <title>No Internet Connection detected. Please try again later.</title>
-      <link>http://127.0.0.1:8000/offline/</link>
+      <link>https://alienstudio.com/offline/</link>
       <description>I apologise for the inconvenience. To continue, please connect to a Wi-Fi network or enable cellular data</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/offline/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/offline/</guid>
       <pubDate>Sat, 13 Jan 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-05.webp" type="image/webp" length="0"/>
@@ -130,9 +130,9 @@
     </item>
     <item>
       <title>Odyssey: Global Photographic Journey from India to SF | Alien Studio</title>
-      <link>http://127.0.0.1:8000/odyssey/</link>
+      <link>https://alienstudio.com/odyssey/</link>
       <description>A 36-photograph global journey from the vibrant streets of India to the golden horizons of San Francisco. Candid street culture and daily life.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/odyssey/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/odyssey/</guid>
       <pubDate>Sat, 13 Jan 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/alienstudio/v1/collections/odyssey/odyssey-01.webp" type="image/webp" length="0"/>
@@ -140,9 +140,9 @@
     </item>
     <item>
       <title>Privacy Policy | Alien Studio</title>
-      <link>http://127.0.0.1:8000/privacy/</link>
+      <link>https://alienstudio.com/privacy/</link>
       <description>Learn how Alien Studio protects your privacy with zero tracking cookies, encrypted HTTPS connections, and strict data protection practices.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/privacy/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/privacy/</guid>
       <pubDate>Sat, 13 Jan 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-13.webp" type="image/webp" length="0"/>
@@ -150,9 +150,9 @@
     </item>
     <item>
       <title>Radiance: Ephemeral Light & Sunset Muse | Alien Studio</title>
-      <link>http://127.0.0.1:8000/radiance/</link>
+      <link>https://alienstudio.com/radiance/</link>
       <description>A 30-photograph study of ephemeral golden hour light and sunset portraits, inspired by Mike Monaghan&apos;s ethereal color mastery.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/radiance/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/radiance/</guid>
       <pubDate>Sat, 13 Jan 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-08.webp" type="image/webp" length="0"/>
@@ -160,9 +160,9 @@
     </item>
     <item>
       <title>Serenity: Contemplative Still Life & Solitude | Alien Studio</title>
-      <link>http://127.0.0.1:8000/serenity/</link>
+      <link>https://alienstudio.com/serenity/</link>
       <description>A 30-photograph fine art collection blending Tatiana Skorokhod&apos;s contemplative still life with themes of solitude, perception, and quiet beauty.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/serenity/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/serenity/</guid>
       <pubDate>Sat, 13 Jan 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/alienstudio/v1/collections/serenity/serenity-08.webp" type="image/webp" length="0"/>
@@ -170,9 +170,9 @@
     </item>
     <item>
       <title>Terms and Conditions of Use | Alien Studio</title>
-      <link>http://127.0.0.1:8000/terms/</link>
+      <link>https://alienstudio.com/terms/</link>
       <description>Terms and conditions of use for Alien Studio. Review licensing, intellectual property rights, and fine art reproduction policies.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/terms/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/terms/</guid>
       <pubDate>Sat, 13 Jan 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-18.webp" type="image/webp" length="0"/>
@@ -180,9 +180,9 @@
     </item>
     <item>
       <title>Thank you for contacting Alien Studio. We will be in touch shortly.</title>
-      <link>http://127.0.0.1:8000/thanks/</link>
+      <link>https://alienstudio.com/thanks/</link>
       <description>We just received your message and appreciate your interest and query. We are working on your request and will get in touch as soon as possible.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/thanks/</guid>
+      <guid isPermaLink="true">https://alienstudio.com/thanks/</guid>
       <pubDate>Sat, 13 Jan 2024 06:06:06 +0100</pubDate>
       <author>The Alien Studio Team</author>
       <enclosure url="https://cloudcdn.pro/alienstudio/v1/banners/banner-alienstudio.svg" type="image/jpeg" length="0"/>

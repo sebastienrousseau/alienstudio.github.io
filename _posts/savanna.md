@@ -8,6 +8,7 @@ banner_height: "100vh"
 banner_width: "100vw"
 banner_url: ""
 banner: "https://cloudcdn.pro/alienstudio/v1/collections/savanna/04-savanna.webp"
+banner_local: "/images/savanna-768.webp"
 cdn: "https://cloudcdn.pro"
 changefreq: "weekly"
 charset: "utf-8"
@@ -150,51 +151,50 @@ The **Savanna** exhibition at Kruger National Park is a masterclass in photograp
 
 In this unique exhibition, we present to you a curated selection of thumbnails from the **Savanna** collection. Each thumbnail acts as a gateway into a broader story, a distilled essence that captures the vibrant and diverse life within Kruger National Park, all under the enchanting light of sunset. As you navigate through these previews, take note of the exquisite detail, the striking balance between light and shadow, and the profound depth of emotion each photograph conveys. This gallery is more than a mere presentation; it is an open invitation to immerse yourself in the rich narratives and breathtaking beauty encapsulated in every frame of the **Savanna** collection.
 
-![Golden sunrise behind tree][01]
-![Sunset with two silhouette trees][02]
-![Lion's face close-up at dusk][03]
-![Staring lion in golden grass][04]
-![Three flying vultures in light][05]
-![Herd of elephants at sunset][06]
-![Deer in golden sunlight][07]
-![Eagle soaring with spread wings][08]
-![Tree backlight by sunset in savanna][09]
-![Lioness portrait in sunset light][10]
-![Zebra facing camera at sunset][11]
-![Sunset over savanna with hut][12]
-![Lush savanna with towering mountain][13]
-![Misty sunrise with tree silhouette][14]
-![Lone tree in orange sunrise][15]
-![Path leading to mountain at sunset][16]
-![Sunset and tree with mountain backdrop][17]
-![Elephants in misty golden savanna][18]
-![Misty dawn in savanna with tree][19]
-![Tree silhouette with foggy sunrise and antelope][20]
-![Cheetah in golden savanna sunset][21]
-![Sunburst over savanna landscape][22]
-![Lion in golden light of sunset][23]
-![Lion cub among golden grasses][24]
-![Giraffe on path at golden sunset][25]
-![Elephant wading in sunset reflection][26]
-![Woman in hat during golden hour][27]
-![Majestic lion in sunset savanna][28]
-![Sunrays through tree in misty dawn][29]
-![Silhouette tree at vibrant sunset][30]
-![Tree at sunrise in savanna][31]
-![Mountain silhouette at dusk][32]
-![Tiger on road at sunset][33]
-![Stag by water at golden hour][34]
-![Lone tree with mountain backdrop][35]
-![Sleeping lion amid flowers][36]
-![Tree silhouette against sunset][37]
-![Lion gazes at sunset savanna][38]
-![Lion sleeps in orange flowers][39]
-![River flows by a green mountain][40]
-![Lioness stands in golden grass][41]
-![Sunrise over misty savanna][42]
-![Lone tree at savanna sunset][43]
-![Two elephants at sunrise][44]
-
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="1"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/01-savanna.webp" alt="Golden sunrise behind tree" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="2"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/02-savanna.webp" alt="Sunset with two silhouette trees" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="3"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/03-savanna.webp" alt="Lion's face close-up at dusk" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="4"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/04-savanna.webp" alt="Staring lion in golden grass" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="5"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/05-savanna.webp" alt="Three flying vultures in light" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="6"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/06-savanna.webp" alt="Herd of elephants at sunset" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="7"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/07-savanna.webp" alt="Deer in golden sunlight" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="8"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/08-savanna.webp" alt="Eagle soaring with spread wings" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="9"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/09-savanna.webp" alt="Tree backlight by sunset in savanna" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="10"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/10-savanna.webp" alt="Lioness portrait in sunset light" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="11"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/11-savanna.webp" alt="Zebra facing camera at sunset" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="12"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/12-savanna.webp" alt="Sunset over savanna with hut" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="13"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/13-savanna.webp" alt="Lush savanna with towering mountain" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="14"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/14-savanna.webp" alt="Misty sunrise with tree silhouette" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="15"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/15-savanna.webp" alt="Lone tree in orange sunrise" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="16"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/16-savanna.webp" alt="Path leading to mountain at sunset" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="17"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/17-savanna.webp" alt="Sunset and tree with mountain backdrop" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="18"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/18-savanna.webp" alt="Elephants in misty golden savanna" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="19"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/19-savanna.webp" alt="Misty dawn in savanna with tree" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="20"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/20-savanna.webp" alt="Tree silhouette with foggy sunrise and antelope" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="21"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/21-savanna.webp" alt="Cheetah in golden savanna sunset" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="22"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/22-savanna.webp" alt="Sunburst over savanna landscape" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="23"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/23-savanna.webp" alt="Lion in golden light of sunset" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="24"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/24-savanna.webp" alt="Lion cub among golden grasses" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="25"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/25-savanna.webp" alt="Giraffe on path at golden sunset" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="26"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/26-savanna.webp" alt="Elephant wading in sunset reflection" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="27"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/27-savanna.webp" alt="Woman in hat during golden hour" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="28"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/28-savanna.webp" alt="Majestic lion in sunset savanna" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="29"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/29-savanna.webp" alt="Sunrays through tree in misty dawn" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="30"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/30-savanna.webp" alt="Silhouette tree at vibrant sunset" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="31"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/31-savanna.webp" alt="Tree at sunrise in savanna" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="32"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/32-savanna.webp" alt="Mountain silhouette at dusk" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="33"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/33-savanna.webp" alt="Tiger on road at sunset" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="34"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/34-savanna.webp" alt="Stag by water at golden hour" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="35"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/35-savanna.webp" alt="Lone tree with mountain backdrop" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="36"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/36-savanna.webp" alt="Sleeping lion amid flowers" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="37"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/37-savanna.webp" alt="Tree silhouette against sunset" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="38"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/38-savanna.webp" alt="Lion gazes at sunset savanna" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="39"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/39-savanna.webp" alt="Lion sleeps in orange flowers" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="40"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/40-savanna.webp" alt="River flows by a green mountain" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="41"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/41-savanna.webp" alt="Lioness stands in golden grass" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="42"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/42-savanna.webp" alt="Sunrise over misty savanna" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="43"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/43-savanna.webp" alt="Lone tree at savanna sunset" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="44"><img src="https://cloudcdn.pro/alienstudio/v1/collections/savanna/44-savanna.webp" alt="Two elephants at sunrise" width="1200" height="900" loading="lazy" decoding="async"></button></p>
 <hr class="my-5">
 
 [01]: https://cloudcdn.pro/alienstudio/v1/collections/savanna/01-savanna.webp
