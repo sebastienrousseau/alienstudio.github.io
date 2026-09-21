@@ -66,7 +66,6 @@
   "site_software": "Static Site Generator, Rust",
   "site_standards": "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML",
   "subtitle": "Check your connection and try again.",
-  "tags": "",
   "thanks": "Thanks for reading!",
   "theme-color": "255,255,255",
   "title": "No Internet Connection detected. Please try again later.",

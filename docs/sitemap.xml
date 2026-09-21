@@ -5,4 +5,98 @@
         xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-    </urlset>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-03-04</lastmod>
+  <loc>https://alienstudio.com/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-03-04</lastmod>
+  <loc>https://alienstudio.com/offline/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/accessibility/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/collections/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/404/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/thanks/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/made-with-ssg/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/radiance/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/savanna/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-03-04</lastmod>
+  <loc>https://alienstudio.com/serenity/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/xiqing/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-03-04</lastmod>
+  <loc>https://alienstudio.com/tags/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/about/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/odyssey/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/terms/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/ethereal/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/metropolis/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/privacy/</loc>
+</url>
+<url>
+  <changefreq>weekly</changefreq>
+  <lastmod>2024-01-13</lastmod>
+  <loc>https://alienstudio.com/contact/</loc>
+</url></urlset>

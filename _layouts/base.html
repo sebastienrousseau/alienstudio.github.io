@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{language}}" class="no-js">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{title}}</title>
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; base-uri 'none'; object-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' data: https://cloudcdn.pro; font-src 'self'; connect-src 'self'; manifest-src 'self'; form-action 'self' https://formspree.io"
+    />
+    {{!primary}}
+    {{!opengraph}}
+    {{!twitter}}
+    {{!apple}}
+    {{!microsoft}}
+    <meta property="og:image" content="{{banner}}" />
+    <meta property="og:image:alt" content="{{banner_alt}}" />
+    <meta name="twitter:image" content="{{banner}}" />
+    <link rel="canonical" href="{{permalink}}" />
+    <link rel="alternate" type="application/rss+xml" title="Alien Studio — RSS" href="/rss.xml" />
+    <link rel="alternate" type="application/atom+xml" title="Alien Studio — Atom" href="/atom.xml" />
+    <link rel="alternate" type="application/feed+json" title="Alien Studio — JSON Feed" href="/feed.json" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="icon" type="image/svg+xml" href="https://cloudcdn.pro/alienstudio/v1/logos/alienstudio.svg" />
+    {{#block "preload"}}{{/block}}
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#0a0a0a" />
+    <meta name="view-transition" content="same-origin" />
+    <link rel="stylesheet" href="/skeletonic.min.css" />
+    <link rel="stylesheet" href="/styles.css" />
+    <script src="/theme-init.js"></script>
+  </head>
+  <body class="style-kairo alien-studio">
+    <a class="skip-link" href="#main">Skip to main content</a>
+    {{> header}}
+    <main id="main">{{#block "main"}}{{/block}}</main>
+    {{> footer}}
+    <script src="/main.js" defer></script>
+  </body>
+</html>

@@ -8,6 +8,7 @@ banner_height: "100vh"
 banner_width: "100vw"
 banner_url: ""
 banner: "https://cloudcdn.pro/alienstudio/v1/collections/xiqing/08-xiqing.webp"
+banner_local: "/images/xiqing-768.webp"
 cdn: "https://cloudcdn.pro"
 changefreq: "weekly"
 charset: "utf-8"
@@ -152,37 +153,36 @@ The Xǐqìng exhibition is more than just a display of artistic talent; it's a b
 
 In this special showcase, we invite you to explore select thumbnails from the Xǐqìng Collection. Each thumbnail thumbnail serves as an entry point into a more expansive narrative, a condensed representation that encapsulates the spirit of your varied and dynamic subjects, illuminated by the captivating glow of dusk. As you peruse these previews, observe the meticulous craftsmanship, the dynamic contrast between illumination and obscurity, and the poignant expressiveness each image embodies. This gallery is not just a display; it's an invitation to experience the profound beauty and storytelling captured in each moment of the Xǐqìng Collection.
 
-![A child marvels at a glowing dragon sculpture][01]
-![An ornate dragon twists among clouds][02]
-![A paper dragon is cradled in hands][03]
-![A vibrant blooms surround a serpentine dragon creature][04]
-![A woman contemplates a delicate dragon wheel][05]
-![A vibrant dragon amid blooms][06]
-![A girl with a dragon statue][07]
-![A child meets a dragon dance mask][08]
-![Dragon figurines on display][09]
-![A boy smiles with dragon lanterns][10]
-![A close-up of a detailed dragon sculpture][11]
-![A smiling girl in traditional attire][12]
-![Woman with ornate dragon headpiece][13]
-![Detailed dragon sculpture on display][14]
-![Close-up of woman with dragon mask][15]
-![Giant dragon mural in vivid hues][16]
-![Smiling child at a festive table][17]
-![Blue dragon head against warm lights][18]
-![Woman in floral attire at festival][19]
-![Fierce dragon sculpture in fiery tones][20]
-![A child with red dragon headdress][21]
-![A Young girl in dragon costume][22]
-![A Blue dragon statue among lights][23]
-![A Child playing with a dragon toy][24]
-![An Artist with colorful dragon figures][25]
-![Children enjoying dragon dance][26]
-![A dragon on blooming backdrop][27]
-![A Boy in awe of dragon parade][28]
-![An Elder with traditional food spread][29]
-![A Family in festival attire with food][30]
-
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="1"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/01-xiqing.webp" alt="A child marvels at a glowing dragon sculpture" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="2"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/02-xiqing.webp" alt="An ornate dragon twists among clouds" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="3"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/03-xiqing.webp" alt="A paper dragon is cradled in hands" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="4"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/04-xiqing.webp" alt="A vibrant blooms surround a serpentine dragon creature" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="5"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/05-xiqing.webp" alt="A woman contemplates a delicate dragon wheel" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="6"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/06-xiqing.webp" alt="A vibrant dragon amid blooms" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="7"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/07-xiqing.webp" alt="A girl with a dragon statue" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="8"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/08-xiqing.webp" alt="A child meets a dragon dance mask" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="9"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/09-xiqing.webp" alt="Dragon figurines on display" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="10"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/10-xiqing.webp" alt="A boy smiles with dragon lanterns" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="11"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/11-xiqing.webp" alt="A close-up of a detailed dragon sculpture" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="12"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/12-xiqing.webp" alt="A smiling girl in traditional attire" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="13"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/13-xiqing.webp" alt="Woman with ornate dragon headpiece" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="14"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/14-xiqing.webp" alt="Detailed dragon sculpture on display" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="15"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/15-xiqing.webp" alt="Close-up of woman with dragon mask" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="16"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/16-xiqing.webp" alt="Giant dragon mural in vivid hues" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="17"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/17-xiqing.webp" alt="Smiling child at a festive table" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="18"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/18-xiqing.webp" alt="Blue dragon head against warm lights" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="19"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/19-xiqing.webp" alt="Woman in floral attire at festival" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="20"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/20-xiqing.webp" alt="Fierce dragon sculpture in fiery tones" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="21"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/21-xiqing.webp" alt="A child with red dragon headdress" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="22"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/22-xiqing.webp" alt="A Young girl in dragon costume" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="23"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/23-xiqing.webp" alt="A Blue dragon statue among lights" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="24"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/24-xiqing.webp" alt="A Child playing with a dragon toy" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="25"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/25-xiqing.webp" alt="An Artist with colorful dragon figures" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="26"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/26-xiqing.webp" alt="Children enjoying dragon dance" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="27"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/27-xiqing.webp" alt="A dragon on blooming backdrop" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="28"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/28-xiqing.webp" alt="A Boy in awe of dragon parade" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="29"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/29-xiqing.webp" alt="An Elder with traditional food spread" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="30"><img src="https://cloudcdn.pro/alienstudio/v1/collections/xiqing/30-xiqing.webp" alt="A Family in festival attire with food" width="1200" height="900" loading="lazy" decoding="async"></button></p>
 <hr class="my-5">
 
 [01]: https://cloudcdn.pro/alienstudio/v1/collections/xiqing/01-xiqing.webp

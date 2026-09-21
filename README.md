@@ -7,13 +7,13 @@
 <h1 align="center">Alien Studio</h1>
 
 <p align="center">
-  Creative digital architecture studio specializing in high-performance web systems, spatial computing interfaces, and interactive design systems.
+  An online gallery exploring the point where artificial intelligence and photography meet.
 </p>
 
 <p align="center">
   <a href="https://github.com/sebastienrousseau/alienstudio.github.io/actions"><img src="https://img.shields.io/github/actions/workflow/status/sebastienrousseau/alienstudio.github.io/ci.yml?style=for-the-badge&logo=github" alt="Build" /></a>
   <a href="https://github.com/sebastienrousseau/alienstudio.github.io/releases"><img src="https://img.shields.io/github/v/release/sebastienrousseau/alienstudio.github.io?style=for-the-badge&color=fc8d62&logo=git" alt="Release" /></a>
-  <a href="https://static-site-generator.com/"><img src="https://img.shields.io/badge/SSG-0.0.56-66c2a5?style=for-the-badge&labelColor=555555&logo=rust" alt="Built with SSG" /></a>
+  <a href="https://static-site-generator.com/"><img src="https://img.shields.io/badge/SSG-0.0.63-66c2a5?style=for-the-badge&labelColor=555555&logo=rust" alt="Built with SSG" /></a>
   <a href="https://scorecard.dev/viewer/?uri=github.com/sebastienrousseau/alienstudio.github.io"><img src="https://img.shields.io/ossf-scorecard/github.com/sebastienrousseau/alienstudio.github.io?style=for-the-badge&label=OpenSSF%20Scorecard&logo=openssf" alt="OpenSSF Scorecard" /></a>
 </p>
 
@@ -30,7 +30,7 @@
 
 - [Features](#features) — core capabilities and performance highlights
 - [Technology Stack](#technology-stack) — SSG, Rust, and modern web standards
-- [Accessibility & Compliance](#accessibility--compliance) — 100% WCAG 2.1 AAA and Lighthouse scores
+- [Accessibility & Compliance](#accessibility--compliance) — WCAG 2.2 AAA and Lighthouse verification
 
 **Operational**
 
@@ -42,7 +42,9 @@
 
 ## Overview
 
-`alienstudio.github.io` is engineered for speed, privacy, and accessibility. Built with **Static Site Generator (SSG)** and the **Skeletonic Design System**, it delivers lightning-fast static page generation, zero third-party tracking cookies, and responsive Apple Human Interface Guidelines (HIG) navigation.
+`alienstudio.github.io` is the source for [alienstudio.com](https://alienstudio.com/), a seven-collection AI photography gallery. It uses the editorial **Kairo** theme, **Static Site Generator (SSG)**, and **Skeletonic CSS 3.0.0**, with no runtime framework or tracking cookies.
+
+![Alien Studio homepage using the Kairo editorial theme](_layouts/images/screenshot.webp)
 
 ---
 
@@ -65,10 +67,13 @@ git clone https://github.com/sebastienrousseau/alienstudio.github.io.git
 cd alienstudio.github.io
 
 # Compile with Static Site Generator (SSG)
-ssg build --content _posts --template _layouts --output docs
+ssg build -f ssg.toml
 
-# Or serve locally using Makefile
-make serve
+# Or use the repository build target
+make build
+
+# Preview the compiled site
+python3 -m http.server 8101 --directory docs
 ```
 
 ---
@@ -76,12 +81,13 @@ make serve
 ## Features
 
 - **Static Site Generator (SSG) Compilation**: High-throughput Markdown and Tera template processing with pre-rendered HTML.
-- **Apple HIG Responsive Navigation**: Sticky blur glass header with horizontal/vertical element alignment, squarcle buttons, and mobile hamburger drawer.
+- **Kairo Editorial Theme**: Oversized typography, cinematic photography, and responsive collection grids adapted from the SSG theme gallery.
 - **Subresource Integrity (SRI)**: SHA-384 cryptographic hashing on all external and internal stylesheets and scripts.
 - **Content Security Policy (CSP)**: Hardened security headers restricting unvetted origins while permitting high-performance execution.
 - **Full Client Search Engine**: Instant multi-term indexing and live modal search via `search-index.json`.
 - **System Theme Auto-Detection**: Instant switching between Light, Dark, and System modes with zero visual flash.
-- **100% WCAG AAA Compliance**: High contrast ratios, full keyboard navigation, ARIA landmarks, and semantic heading hierarchies.
+- **WCAG 2.2 AAA Foundation**: AAA contrast, full keyboard navigation, ARIA landmarks, and semantic heading hierarchies.
+- **Responsive Photography**: Locally optimized hero and collection-preview assets plus native lazy loading for all 185 gallery images.
 
 ---
 
@@ -90,9 +96,13 @@ make serve
 | Component | Technology | Description |
 |---|---|---|
 | **Static Engine** | [Static Site Generator (SSG)](https://static-site-generator.com/) | High-speed Rust static site generator |
-| **Design Framework** | [Skeletonic CSS](https://skeletonic.io) | Minimalist, zero-dependency layout engine |
+| **Design Framework** | [Skeletonic CSS 3.0.0](https://skeletonic.com/) | Lightweight, accessible, zero-dependency CSS foundation |
 | **Icons & Assets** | [CloudCDN](https://cloudcdn.pro) | Distributed edge CDN for SVG vector assets |
 | **Runtime** | Vanilla ECMAScript | Zero runtime framework overhead |
+
+## Accessibility & Compliance
+
+The generated site is checked with SSG's 10-pillar quality gate, axe across desktop/mobile and light/dark modes, and Lighthouse. The homepage and the largest 44-image collection each score 100 in Lighthouse Performance, Accessibility, Best Practices, and SEO when served with production-equivalent compression and cache headers.
 
 ---
 
@@ -101,11 +111,11 @@ make serve
 Run automated regression tests and the 10-pillar quality audit:
 
 ```bash
-# Run repository regression test
-python3 scripts/regression-test.py
+# Compile through the locally installed SSG
+make build
 
-# Run portfolio master quality gate
-make test
+# Run contrast, frontmatter, and regression gates
+make audit
 ```
 
 ---

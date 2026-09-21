@@ -5,17 +5,17 @@
     "topics": 0
   },
   "links": {
-    "index": "http://127.0.0.1:8000/api/agents/index.json",
-    "person": "http://127.0.0.1:8000/api/agents/person.json",
-    "posts": "http://127.0.0.1:8000/api/agents/posts.json",
-    "topics": "http://127.0.0.1:8000/api/agents/topics.json"
+    "index": "https://alienstudio.com/api/agents/index.json",
+    "person": "https://alienstudio.com/api/agents/person.json",
+    "posts": "https://alienstudio.com/api/agents/posts.json",
+    "topics": "https://alienstudio.com/api/agents/topics.json"
   },
   "site": {
-    "description": "A site built with SSG",
+    "description": "Pioneering the future of photography, where Artificial Intelligence and lens converge to reshape the art world and reality.",
     "language": "en-GB",
-    "name": "MySsgSite",
-    "title": "",
-    "url": "http://127.0.0.1:8000"
+    "name": "Alien Studio",
+    "title": "Alien Studio: Revolutionising Art with AI Photography",
+    "url": "https://alienstudio.com"
   },
-  "version": "0.0.58"
+  "version": "0.0.63"
 }

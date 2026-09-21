@@ -8,6 +8,7 @@ banner_height: "100vh"
 banner_width: "100vw"
 banner_url: ""
 banner: "https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-08.webp"
+banner_local: "/images/radiance-768.webp"
 cdn: "https://cloudcdn.pro"
 changefreq: "weekly"
 charset: "utf-8"
@@ -132,27 +133,26 @@ More than a mere assembly of photographs, Radiance is an ode to the magic of unp
 
 In this special showcase, we invite you to explore select thumbnails from the Radiance Collection. Each thumbnail is a gateway to a larger story, a snapshot that captures the essence of our diverse and spontaneous subjects under the enchanting sunset light. As you browse these previews, notice the intricate details, the interplay of light and shadow, and the emotional depth that each image conveys. This gallery is not just a display; it's an invitation to experience the profound beauty and storytelling captured in each moment of the Radiance Collection.
 
-![A Contemplative woman bathed in sunset, a calm amidst a backdrop of vibrant lives][01]
-![A Trailblazer in sunset, hat tipped against the glow of an ending day.][02]
-![A Quiet reflection meets twilight's glow, day's joy etched in light][03]
-![A Confident gaze amidst festive lights; evening's allure captured][04]
-![A Wistful eyes, golden hour's embrace; tranquillity in chaos][05]
-![A Stylish reflection, sunset's dance in shades; urban cool][06]
-![A Shared laughter, familial warmth in sunset's glow; joy abounds][07]
-![A Sunset’s muse, a serene glance][08]
-![A Sunny smile, carefree spirit; the essence of summer][09]
-![A Contemplative peace, nature's audience at dusk; harmony][10]
-![A Quiet contemplation, twilight's companion; introspective pause][11]
-![A Joyous connection, familial bonds in twilight; love shines][12]
-![A Soulful explorer, sunset adventures await; freedom calls][13]
-![An Age's wisdom at sunset; eyes that speak of life's tales][14]
-![A Joyful youth against the sunset; laughter in the air][15]
-![A Soulful elder in the field; wisdom glowing at dusk][16]
-![A Serenity in line, vibrant reflections of the day's end][17]
-![A Family's journey in golden light, together into dusk][18]
-![A Contemplative youth in twilight; serenity surrounds][19]
-![A Curious eyes, bathed in sunset; innocence meets the world][20]
-
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="1"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-01.webp" alt="A Contemplative woman bathed in sunset, a calm amidst a backdrop of vibrant lives" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="2"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-02.webp" alt="A Trailblazer in sunset, hat tipped against the glow of an ending day." width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="3"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-03.webp" alt="A Quiet reflection meets twilight's glow, day's joy etched in light" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="4"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-04.webp" alt="A Confident gaze amidst festive lights; evening's allure captured" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="5"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-05.webp" alt="A Wistful eyes, golden hour's embrace; tranquillity in chaos" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="6"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-06.webp" alt="A Stylish reflection, sunset's dance in shades; urban cool" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="7"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-07.webp" alt="A Shared laughter, familial warmth in sunset's glow; joy abounds" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="8"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-08.webp" alt="A Sunset’s muse, a serene glance" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="9"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-09.webp" alt="A Sunny smile, carefree spirit; the essence of summer" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="10"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-10.webp" alt="A Contemplative peace, nature's audience at dusk; harmony" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="11"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-11.webp" alt="A Quiet contemplation, twilight's companion; introspective pause" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="12"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-12.webp" alt="A Joyous connection, familial bonds in twilight; love shines" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="13"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-13.webp" alt="A Soulful explorer, sunset adventures await; freedom calls" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="14"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-14.webp" alt="An Age's wisdom at sunset; eyes that speak of life's tales" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="15"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-15.webp" alt="A Joyful youth against the sunset; laughter in the air" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="16"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-16.webp" alt="A Soulful elder in the field; wisdom glowing at dusk" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="17"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-17.webp" alt="A Serenity in line, vibrant reflections of the day's end" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="18"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-18.webp" alt="A Family's journey in golden light, together into dusk" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="19"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-19.webp" alt="A Contemplative youth in twilight; serenity surrounds" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="20"><img src="https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-20.webp" alt="A Curious eyes, bathed in sunset; innocence meets the world" width="1200" height="900" loading="lazy" decoding="async"></button></p>
 <hr class="my-5">
 
 [01]: https://cloudcdn.pro/alienstudio/v1/collections/radiance/radiance-01.webp

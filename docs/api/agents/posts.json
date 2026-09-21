@@ -5,7 +5,7 @@
     "locale": "en_GB",
     "tags": [],
     "title": "About Alien Studio: Pioneering AI Visual Art & Mission",
-    "url": "http://127.0.0.1:8000/about/",
+    "url": "https://alienstudio.com/about/",
     "wordCount": 960
   },
   {
@@ -14,7 +14,7 @@
     "locale": "en_GB",
     "tags": [],
     "title": "Accessibility Statement | Alien Studio",
-    "url": "http://127.0.0.1:8000/accessibility/",
+    "url": "https://alienstudio.com/accessibility/",
     "wordCount": 285
   },
   {
@@ -23,7 +23,7 @@
     "locale": "en_GB",
     "tags": [],
     "title": "Contemporary AI Photography Collections | Alien Studio Gallery",
-    "url": "http://127.0.0.1:8000/collections/",
+    "url": "https://alienstudio.com/collections/",
     "wordCount": 677
   },
   {
@@ -32,7 +32,7 @@
     "locale": "en_GB",
     "tags": [],
     "title": "Contact Alien Studio: Art Acquisitions & Inquiries",
-    "url": "http://127.0.0.1:8000/contact/",
+    "url": "https://alienstudio.com/contact/",
     "wordCount": 133
   },
   {
@@ -41,8 +41,8 @@
     "locale": "en_GB",
     "tags": [],
     "title": "Ethereal: Surreal Dreamscapes & Photorealism | Alien Studio",
-    "url": "http://127.0.0.1:8000/ethereal/",
-    "wordCount": 823
+    "url": "https://alienstudio.com/ethereal/",
+    "wordCount": 1109
   },
   {
     "date": "Mar 04, 2024",
@@ -50,7 +50,7 @@
     "locale": "en_GB",
     "tags": [],
     "title": "Alien Studio: Revolutionising Art with AI Photography | Official Gallery",
-    "url": "http://127.0.0.1:8000/index.html",
+    "url": "https://alienstudio.com/index.html",
     "wordCount": 699
   },
   {
@@ -59,7 +59,7 @@
     "locale": "en_GB",
     "tags": [],
     "title": "Built with Static Site Generator (SSG) | Fast Rust SSG",
-    "url": "http://127.0.0.1:8000/made-with-ssg/",
+    "url": "https://alienstudio.com/made-with-ssg/",
     "wordCount": 126
   },
   {
@@ -68,8 +68,8 @@
     "locale": "en_GB",
     "tags": [],
     "title": "Metropolis: Dynamic Street Photography | Alien Studio",
-    "url": "http://127.0.0.1:8000/metropolis/",
-    "wordCount": 556
+    "url": "https://alienstudio.com/metropolis/",
+    "wordCount": 776
   },
   {
     "date": "Jan 13, 2024",
@@ -77,8 +77,8 @@
     "locale": "en_GB",
     "tags": [],
     "title": "Odyssey: Global Photographic Journey from India to SF | Alien Studio",
-    "url": "http://127.0.0.1:8000/odyssey/",
-    "wordCount": 755
+    "url": "https://alienstudio.com/odyssey/",
+    "wordCount": 1030
   },
   {
     "date": "Jan 13, 2024",
@@ -86,7 +86,7 @@
     "locale": "en_GB",
     "tags": [],
     "title": "No Internet Connection detected. Please try again later.",
-    "url": "http://127.0.0.1:8000/offline/",
+    "url": "https://alienstudio.com/offline/",
     "wordCount": 48
   },
   {
@@ -95,7 +95,7 @@
     "locale": "en_GB",
     "tags": [],
     "title": "Privacy Policy | Alien Studio",
-    "url": "http://127.0.0.1:8000/privacy/",
+    "url": "https://alienstudio.com/privacy/",
     "wordCount": 295
   },
   {
@@ -104,8 +104,8 @@
     "locale": "en_GB",
     "tags": [],
     "title": "Radiance: Ephemeral Light & Sunset Muse | Alien Studio",
-    "url": "http://127.0.0.1:8000/radiance/",
-    "wordCount": 539
+    "url": "https://alienstudio.com/radiance/",
+    "wordCount": 759
   },
   {
     "date": "Mar 04, 2024",
@@ -113,8 +113,8 @@
     "locale": "en_GB",
     "tags": [],
     "title": "Savanna Sunset: Kruger National Park AI Photography | Alien Studio",
-    "url": "http://127.0.0.1:8000/savanna/",
-    "wordCount": 1038
+    "url": "https://alienstudio.com/savanna/",
+    "wordCount": 1522
   },
   {
     "date": "Jan 13, 2024",
@@ -122,8 +122,8 @@
     "locale": "en_GB",
     "tags": [],
     "title": "Serenity: Contemplative Still Life & Solitude | Alien Studio",
-    "url": "http://127.0.0.1:8000/serenity/",
-    "wordCount": 586
+    "url": "https://alienstudio.com/serenity/",
+    "wordCount": 806
   },
   {
     "date": "Jan 13, 2024",
@@ -131,7 +131,7 @@
     "locale": "en_GB",
     "tags": [],
     "title": "Explore by Tags",
-    "url": "http://127.0.0.1:8000/tags/",
+    "url": "https://alienstudio.com/tags/",
     "wordCount": 1
   },
   {
@@ -140,7 +140,7 @@
     "locale": "en_GB",
     "tags": [],
     "title": "Terms and Conditions of Use | Alien Studio",
-    "url": "http://127.0.0.1:8000/terms/",
+    "url": "https://alienstudio.com/terms/",
     "wordCount": 389
   },
   {
@@ -149,7 +149,7 @@
     "locale": "en_GB",
     "tags": [],
     "title": "Thank you for contacting Alien Studio. We will be in touch shortly.",
-    "url": "http://127.0.0.1:8000/thanks/",
+    "url": "https://alienstudio.com/thanks/",
     "wordCount": 38
   },
   {
@@ -158,7 +158,7 @@
     "locale": "en_GB",
     "tags": [],
     "title": "Xǐqìng: Chinese New Year Visual Narratives | Alien Studio",
-    "url": "http://127.0.0.1:8000/xiqing/",
-    "wordCount": 921
+    "url": "https://alienstudio.com/xiqing/",
+    "wordCount": 1251
   }
 ]

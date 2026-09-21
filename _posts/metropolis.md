@@ -8,6 +8,7 @@ banner_height: "100vh"
 banner_width: "100vw"
 banner_url: ""
 banner: "https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-08.webp"
+banner_local: "/images/metropolis-768.webp"
 cdn: "https://cloudcdn.pro"
 changefreq: "weekly"
 charset: "utf-8"
@@ -130,27 +131,26 @@ The Metropolis Collection is not just a photographic series; it's an immersive e
 
 In this special showcase, we present to you a selection of thumbnails from the Metropolis Collection. Each of these thumbnails serves as an entry point to a more expansive narrative, encapsulating the spirit of our varied and impromptu subjects, bathed in the mesmerizing glow of sunset. As you peruse these previews, observe the fine nuances, the dance of light and darkness, and the emotional resonance each photograph imparts. This gallery is more than a mere exhibition; it is a beckoning into the deep, narrative-rich beauty encapsulated in every moment of the Metropolis Collection.
 
-![A Pensive woman, lit by distant lights, lost in thought amidst a city's pulse][01]
-![A Solitary figure in rain, contemplative gaze, warm glow of a passing train][02]
-![A Serene young woman, stark clarity in her eyes, against a blurred urban backdrop][03]
-![A Rain-drenched introspection, a woman's distant gaze mirrors the city's whisper][04]
-![A Man's profile in contemplation, city life a blurred echo behind him][05]
-![A Young woman, sunlight caress, amidst a bustling crowd, a moment's peace][06]
-![A Elegant hat, eyes speak volumes, city lights soften her thoughtful gaze][07]
-![A Youthful beauty, lit by day's end, amidst the urban flow, a silent story][08]
-![A Mature grace, eyes looking forward, wisdom set against the city's rhythm][09]
-![A Youthful stare, city's glow softens, a portrait of quiet urban moments][10]
-![A Direct gaze, city's buzz fades, her presence as striking as the daylight][11]
-![A Woman looking sideways, city life whispers, caught between the light and shadow][12]
-![An Elder's wise gaze, city lights blur, a lifetime etched in his eyes][13]
-![A Young woman, city's morning light, a quiet defiance in her eyes][14]
-![A Pensive beauty, city's twilight, her thoughts lost in the crowd][15]
-![A Gentleman's sombre stare, hat sharp, amidst the city's hushed tales][16]
-![A Woman's gaze, city at sunset, a moment's quiet in the chaos][17]
-![A Stylish hat, striking eyes, her allure amidst the city's rhythm][18]
-![A still presence against the metro's motion][19]
-![A Staring soulfully, amidst city bustle, a portrait of serene youth][20]
-
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="1"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-01.webp" alt="A Pensive woman, lit by distant lights, lost in thought amidst a city's pulse" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="2"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-02.webp" alt="A Solitary figure in rain, contemplative gaze, warm glow of a passing train" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="3"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-03.webp" alt="A Serene young woman, stark clarity in her eyes, against a blurred urban backdrop" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="4"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-04.webp" alt="A Rain-drenched introspection, a woman's distant gaze mirrors the city's whisper" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="5"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-05.webp" alt="A Man's profile in contemplation, city life a blurred echo behind him" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="6"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-06.webp" alt="A Young woman, sunlight caress, amidst a bustling crowd, a moment's peace" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="7"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-07.webp" alt="A Elegant hat, eyes speak volumes, city lights soften her thoughtful gaze" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="8"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-08.webp" alt="A Youthful beauty, lit by day's end, amidst the urban flow, a silent story" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="9"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-09.webp" alt="A Mature grace, eyes looking forward, wisdom set against the city's rhythm" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="10"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-10.webp" alt="A Youthful stare, city's glow softens, a portrait of quiet urban moments" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="11"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-11.webp" alt="A Direct gaze, city's buzz fades, her presence as striking as the daylight" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="12"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-12.webp" alt="A Woman looking sideways, city life whispers, caught between the light and shadow" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="13"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-13.webp" alt="An Elder's wise gaze, city lights blur, a lifetime etched in his eyes" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="14"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-14.webp" alt="A Young woman, city's morning light, a quiet defiance in her eyes" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="15"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-15.webp" alt="A Pensive beauty, city's twilight, her thoughts lost in the crowd" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="16"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-16.webp" alt="A Gentleman's sombre stare, hat sharp, amidst the city's hushed tales" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="17"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-17.webp" alt="A Woman's gaze, city at sunset, a moment's quiet in the chaos" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="18"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-18.webp" alt="A Stylish hat, striking eyes, her allure amidst the city's rhythm" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="19"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-19.webp" alt="A still presence against the metro's motion" width="1200" height="900" loading="lazy" decoding="async"></button></p>
+<p class="gallery-item"><button type="button" class="gallery-trigger" popovertarget="gallery-lightbox" data-gallery-index="20"><img src="https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-20.webp" alt="A Staring soulfully, amidst city bustle, a portrait of serene youth" width="1200" height="900" loading="lazy" decoding="async"></button></p>
 <hr class="my-5">
 
 [01]: https://cloudcdn.pro/alienstudio/v1/collections/metropolis/metropolis-01.webp

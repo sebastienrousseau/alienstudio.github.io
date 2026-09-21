@@ -58,20 +58,26 @@ def run_regression_test(repo_path, cdn_manifest_path=None):
             errors.append(f"Invalid JSON in manifest.json: {e}")
 
     # 3. Check JavaScript Engine (Theme Switcher, Search, Mobile Nav)
-    js_files = [f for f in os.listdir(docs_dir) if (f.startswith("main.") and f.endswith(".js")) or f == "main.js"]
+    js_files = []
+    for root, _, files in os.walk(docs_dir):
+        for filename in files:
+            if filename.endswith(".js"):
+                js_files.append(os.path.join(root, filename))
     if not js_files:
-        errors.append("Missing client engine script (main*.js)")
+        errors.append("Missing client engine scripts")
     else:
-        for js_f in js_files:
-            jspath = os.path.join(docs_dir, js_f)
-            with open(jspath, "r", errors="ignore") as fp:
-                jstxt = fp.read()
-            if "theme-mode" not in jstxt and "applyTheme" not in jstxt:
-                errors.append(f"{js_f} is missing Theme Switcher implementation")
-            if "searchModal" not in jstxt and "searchIndex" not in jstxt:
-                errors.append(f"{js_f} is missing Search Engine implementation")
-            if "navbarToggle" not in jstxt:
-                errors.append(f"{js_f} is missing Mobile Navigation toggle implementation")
+        javascript = ""
+        for js_path in js_files:
+            with open(js_path, "r", errors="ignore") as fp:
+                javascript += fp.read()
+        if "data-theme" not in javascript and "applyTheme" not in javascript:
+            errors.append("Client scripts are missing the theme switcher implementation")
+        if "ssg-search" not in javascript and "searchIndex" not in javascript:
+            errors.append("Client scripts are missing the search engine implementation")
+        if "navToggle" not in javascript and "navbarToggle" not in javascript:
+            errors.append("Client scripts are missing the mobile navigation implementation")
+        if "setGalleryImage" not in javascript:
+            errors.append("Client scripts are missing the gallery popover implementation")
 
     # 4. Deep HTML Validation across all pages
     html_files = []
@@ -124,16 +130,34 @@ def run_regression_test(repo_path, cdn_manifest_path=None):
                     errors.append(f"{rel_fpath}: Subpage contains hero banner (<header class=\"hero-banner-container\"> must only appear on homepage)")
 
         # D. Check UI/UX Core Components
-        if "navbar" not in content or "navbar-brand" not in content:
+        if ('class="site-header"' not in content or 'class="site-nav"' not in content) and ("navbar" not in content or "navbar-brand" not in content):
             errors.append(f"{rel_fpath}: Missing responsive navbar")
-        if "theme-switcher" not in content:
+        if 'id="mode-toggle"' not in content and "theme-switcher" not in content:
             errors.append(f"{rel_fpath}: Missing theme switcher buttons in navbar")
-        if "searchTrigger" not in content and "search-trigger" not in content:
+        if 'id="ssg-search-btn"' not in content and "searchTrigger" not in content and "search-trigger" not in content:
             errors.append(f"{rel_fpath}: Missing search trigger button in navbar")
-        if "navbarToggle" not in content:
+        if 'id="navToggle"' not in content and "navbarToggle" not in content:
             errors.append(f"{rel_fpath}: Missing mobile hamburger toggle button")
-        if "searchModal" not in content:
+        if 'id="ssg-search-overlay"' not in content and "searchModal" not in content:
             errors.append(f"{rel_fpath}: Missing search modal dialog in DOM")
+
+        # Every photographic gallery must expose its images through one shared,
+        # keyboard-operable native popover viewer.
+        gallery_items = content.count('class="gallery-item"')
+        gallery_triggers = content.count('class="gallery-trigger"')
+        if gallery_items:
+            if gallery_triggers != gallery_items:
+                errors.append(
+                    f"{rel_fpath}: Gallery has {gallery_items} items but {gallery_triggers} popover triggers"
+                )
+            if content.count('id="gallery-lightbox"') != 1:
+                errors.append(f"{rel_fpath}: Gallery must have exactly one shared lightbox")
+            if 'popover="auto"' not in content:
+                errors.append(f"{rel_fpath}: Gallery lightbox is missing native auto-popover behaviour")
+            if 'aria-modal="true"' not in content:
+                errors.append(f"{rel_fpath}: Gallery lightbox is missing modal dialog semantics")
+            if 'data-gallery-previous' not in content or 'data-gallery-next' not in content:
+                errors.append(f"{rel_fpath}: Gallery lightbox is missing previous/next controls")
 
         # E. Internal Link & Asset Resolution (404 Check)
         for link in link_re.findall(content):
